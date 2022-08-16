@@ -1,4 +1,4 @@
 # ivs
 Institute of Vocational Training
 
-Kaung Htun Thant
+Kaung Htun Thant (IT Associate)
