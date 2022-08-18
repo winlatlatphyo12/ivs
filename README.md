@@ -1,4 +1,4 @@
-# ivs
+# IVS Website (ivs.kbtc.edu.mm)
 Institute of Vocational Training
 =======
 
