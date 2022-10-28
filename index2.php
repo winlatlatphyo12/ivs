@@ -6,60 +6,125 @@
 
     <div class="container px-4 px-lg-5">
         <div class="row gx-4 gx-lg-5 justify-content-center">
-            <div class="col-md-3 mb-4">
-                <img class="rounded-circle img-fluid" alt="100x100" 
+            <div class="col-sm-3 mb-4">
+                <img class="img-fluid" alt="100x100" style="width:200px;height:200px;"
                 src="assets/img/ivs7.jpg"
                 data-holder-rendered="true">
-
-                <h4 class="text-center my-5 h4">Health Care</h4>
             </div>
-            <div class="col-md-3 mb-4">
-                <img class="rounded-circle img-fluid" alt="100x100" 
+            <div class="col-sm-7">
+                <h4> Healthcare </h4>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    neque praesentium. Tenetur, ut, at nulla, nihil consequatur adipisci 
+                    officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
+                    veniam assumenda earum ad? </p>
+            </div>
+            <div class="col-sm-2 py-5">
+                 <button type="submit" class="btn btn-info"  name="detail">Details</button>
+            </div>
+        </div><hr>
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-sm-3 mb-4">
+                <img class="img-fluid" alt="100x100" style="width:200px;height:200px;"
                 src="assets/img/ivs7.jpg"
                 data-holder-rendered="true">
-
-                <h4 class="text-center my-5 h4">Engineering</h4>
             </div>
-            <div class="col-md-3 mb-4">
-                <img class="rounded-circle img-fluid" alt="100x100" 
+            <div class="col-sm-7">
+                <h4> Engineering </h4>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    neque praesentium. Tenetur, ut, at nulla, nihil consequatur adipisci 
+                    officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
+                    veniam assumenda earum ad? </p>
+            </div>
+            <div class="col-sm-2 py-5">
+                 <button type="submit" class="btn btn-info"  name="detail">Details</button>
+            </div>
+        </div><hr>
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-sm-3 mb-4">
+                <img class="img-fluid" alt="100x100" style="width:200px;height:200px;" 
                 src="assets/img/ivs7.jpg"
                 data-holder-rendered="true">
-
-                <h4 class="text-center my-5 h4">IT</h4>
             </div>
-            <div class="col-md-3 mb-4">
-                <img class="rounded-circle img-fluid" alt="100x100" 
+            <div class="col-sm-7">
+                <h4> IT </h4>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    neque praesentium. Tenetur, ut, at nulla, nihil consequatur adipisci 
+                    officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
+                    veniam assumenda earum ad? </p>
+            </div>
+            <div class="col-sm-2 py-5">
+                 <button type="submit" class="btn btn-info"  name="detail">Details</button>
+            </div>
+        </div><hr>
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-sm-4 mb-4">
+                <img class="img-fluid" alt="100x100" 
                 src="assets/img/ivs7.jpg"
                 data-holder-rendered="true">
-
-                <h4 class="text-center my-5 h4">Business</h4>
             </div>
-        
-       
-            
-            <div class="col-md-3 mb-4">
-                <img class="rounded-circle img-fluid" alt="100x100" 
+            <div class="col-sm-6">
+                <h4> Business </h4>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    neque praesentium. Tenetur, ut, at nulla, nihil consequatur adipisci 
+                    officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
+                    veniam assumenda earum ad? </p>
+            </div>
+            <div class="col-sm-2 py-5">
+                 <button type="submit" class="btn btn-info"  name="detail">Details</button>
+            </div>
+        </div><hr>
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-sm-4 mb-4">
+                <img class="img-fluid" alt="100x100" 
                 src="assets/img/ivs7.jpg"
                 data-holder-rendered="true">
-
-                <h4 class="text-center my-5 h4">Hotel & Tourism</h4>
             </div>
-            <div class="col-md-3 mb-4">
-                <img class="rounded-circle img-fluid" alt="100x100" 
+            <div class="col-sm-6">
+                <h4> Hotel & Tourism </h4>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    neque praesentium. Tenetur, ut, at nulla, nihil consequatur adipisci 
+                    officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
+                    veniam assumenda earum ad? </p>
+            </div>
+            <div class="col-sm-2 py-5">
+                 <button type="submit" class="btn btn-info"  name="detail">Details</button>
+            </div>
+        </div><hr>
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-sm-4 mb-4">
+                <img class="img-fluid" alt="100x100" 
                 src="assets/img/ivs7.jpg"
                 data-holder-rendered="true">
-
-                <h4 class="text-center my-5 h4">Education</h4>
             </div>
-            <div class="col-md-3 mb-4">
-                <img class="rounded-circle img-fluid" alt="100x100" 
+            <div class="col-sm-6">
+                <h4> Education </h4>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    neque praesentium. Tenetur, ut, at nulla, nihil consequatur adipisci 
+                    officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
+                    veniam assumenda earum ad? </p>
+            </div>
+            <div class="col-sm-2 py-5">
+                 <button type="submit" class="btn btn-info"  name="detail">Details</button>
+            </div>
+        </div><hr>
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-sm-4 mb-4">
+                <img class="img-fluid" alt="100x100" 
                 src="assets/img/ivs7.jpg"
                 data-holder-rendered="true">
-
-                <h4 class="text-center my-5 h4">General</h4>
             </div>
-        </div>
-    </div>
+            <div class="col-sm-6">
+                <h4> General </h4>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    neque praesentium. Tenetur, ut, at nulla, nihil consequatur adipisci 
+                    officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
+                    veniam assumenda earum ad? </p>
+            </div>
+            <div class="col-sm-2 py-5">
+                 <button type="submit" class="btn btn-info"  name="detail">Details</button>
+            </div>
+        </div><hr>
+</div>
    
 
         <?php
