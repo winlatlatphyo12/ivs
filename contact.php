@@ -50,7 +50,7 @@
                                         <div class="fw-bolder">Form submission successful!</div>
                                         To activate this form, sign up at
                                         <br />
-                                        <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
+                                    <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
                                     </div>
                                 </div>
                                 <!-- Submit error message-->
@@ -59,7 +59,7 @@
                                 <!-- an error submitting the form-->
                                 <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
                                 <!-- Submit Button-->
-                                <button class="btn btn-primary text-uppercase disabled" id="submitButton" type="submit">Send</button>
+                                <button class="btn btn-warning text-uppercase disabled" id="submitButton" type="submit">Send</button>
                             </form>
                         </div>
                     </div>
