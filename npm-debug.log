@@ -1,0 +1,1600 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', 'pug' ]
+2 info using npm@3.5.2
+3 info using node@v8.10.0
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly fetchPackageMetaData pug
+8 silly fetchNamedPackageData pug
+9 silly mapToRegistry name pug
+10 silly mapToRegistry using default registry
+11 silly mapToRegistry registry https://registry.npmjs.org/
+12 silly mapToRegistry uri https://registry.npmjs.org/pug
+13 verbose request uri https://registry.npmjs.org/pug
+14 verbose request no auth needed
+15 info attempt registry request try #1 at 2:38:17 PM
+16 verbose request id 54dd673caa771abb
+17 http request GET https://registry.npmjs.org/pug
+18 http 200 https://registry.npmjs.org/pug
+19 verbose headers { date: 'Fri, 18 Nov 2022 08:08:20 GMT',
+19 verbose headers   'content-type': 'application/json',
+19 verbose headers   'transfer-encoding': 'chunked',
+19 verbose headers   connection: 'keep-alive',
+19 verbose headers   'cf-ray': '76bf37b07e5a4a77-SIN',
+19 verbose headers   'access-control-allow-origin': '*',
+19 verbose headers   'cache-control': 'public, max-age=300',
+19 verbose headers   etag: 'W/"1fa16e1207242da3f1fcfd3085e1f0f3"',
+19 verbose headers   'last-modified': 'Sat, 25 Jun 2022 00:00:06 GMT',
+19 verbose headers   vary: 'accept-encoding, accept',
+19 verbose headers   'cf-cache-status': 'REVALIDATED',
+19 verbose headers   'x-amz-replication-status': 'COMPLETED',
+19 verbose headers   server: 'cloudflare',
+19 verbose headers   'content-encoding': 'gzip' }
+20 silly get cb [ 200,
+20 silly get   { date: 'Fri, 18 Nov 2022 08:08:20 GMT',
+20 silly get     'content-type': 'application/json',
+20 silly get     'transfer-encoding': 'chunked',
+20 silly get     connection: 'keep-alive',
+20 silly get     'cf-ray': '76bf37b07e5a4a77-SIN',
+20 silly get     'access-control-allow-origin': '*',
+20 silly get     'cache-control': 'public, max-age=300',
+20 silly get     etag: 'W/"1fa16e1207242da3f1fcfd3085e1f0f3"',
+20 silly get     'last-modified': 'Sat, 25 Jun 2022 00:00:06 GMT',
+20 silly get     vary: 'accept-encoding, accept',
+20 silly get     'cf-cache-status': 'REVALIDATED',
+20 silly get     'x-amz-replication-status': 'COMPLETED',
+20 silly get     server: 'cloudflare',
+20 silly get     'content-encoding': 'gzip' } ]
+21 verbose get saving pug to /home/eugen3199/.npm/registry.npmjs.org/pug/.cache.json
+22 silly install normalizeTree
+23 silly loadCurrentTree Finishing
+24 silly loadIdealTree Starting
+25 silly install loadIdealTree
+26 silly cloneCurrentTree Starting
+27 silly install cloneCurrentTreeToIdealTree
+28 silly cloneCurrentTree Finishing
+29 silly loadShrinkwrap Starting
+30 silly install loadShrinkwrap
+31 silly loadShrinkwrap Finishing
+32 silly loadAllDepsIntoIdealTree Starting
+33 silly install loadAllDepsIntoIdealTree
+34 silly resolveWithNewModule pug@3.0.2 checking installable status
+35 silly cache add args [ 'pug', null ]
+36 verbose cache add spec pug
+37 silly cache add parsed spec Result {
+37 silly cache add   raw: 'pug',
+37 silly cache add   scope: null,
+37 silly cache add   name: 'pug',
+37 silly cache add   rawSpec: '',
+37 silly cache add   spec: 'latest',
+37 silly cache add   type: 'tag' }
+38 silly addNamed pug@latest
+39 verbose addNamed "latest" is being treated as a dist-tag for pug
+40 info addNameTag [ 'pug', 'latest' ]
+41 silly mapToRegistry name pug
+42 silly mapToRegistry using default registry
+43 silly mapToRegistry registry https://registry.npmjs.org/
+44 silly mapToRegistry uri https://registry.npmjs.org/pug
+45 verbose addNameTag registry:https://registry.npmjs.org/pug not in flight; fetching
+46 verbose get https://registry.npmjs.org/pug not expired, no request
+47 silly addNameTag next cb for pug with tag latest
+48 silly addNamed pug@3.0.2
+49 verbose addNamed "3.0.2" is a plain semver version for pug
+50 silly mapToRegistry name pug
+51 silly mapToRegistry using default registry
+52 silly mapToRegistry registry https://registry.npmjs.org/
+53 silly mapToRegistry uri https://registry.npmjs.org/pug
+54 verbose addRemoteTarball https://registry.npmjs.org/pug/-/pug-3.0.2.tgz not in flight; adding
+55 verbose addRemoteTarball [ 'https://registry.npmjs.org/pug/-/pug-3.0.2.tgz',
+55 verbose addRemoteTarball   'f35c7107343454e43bc27ae0ff76c731b78ea535' ]
+56 info retry fetch attempt 1 at 2:38:20 PM
+57 info attempt registry request try #1 at 2:38:20 PM
+58 http fetch GET https://registry.npmjs.org/pug/-/pug-3.0.2.tgz
+59 http fetch 200 https://registry.npmjs.org/pug/-/pug-3.0.2.tgz
+60 silly fetchAndShaCheck shasum f35c7107343454e43bc27ae0ff76c731b78ea535
+61 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/pug/-/pug-3.0.2.tgz not in flight; adding
+62 verbose addTmpTarball already have metadata; skipping unpack for pug@3.0.2
+63 silly cache afterAdd pug@3.0.2
+64 verbose afterAdd /home/eugen3199/.npm/pug/3.0.2/package/package.json not in flight; writing
+65 verbose afterAdd /home/eugen3199/.npm/pug/3.0.2/package/package.json written
+66 silly fetchNamedPackageData pug-code-gen
+67 silly mapToRegistry name pug-code-gen
+68 silly mapToRegistry using default registry
+69 silly mapToRegistry registry https://registry.npmjs.org/
+70 silly mapToRegistry uri https://registry.npmjs.org/pug-code-gen
+71 silly fetchNamedPackageData pug-filters
+72 silly mapToRegistry name pug-filters
+73 silly mapToRegistry using default registry
+74 silly mapToRegistry registry https://registry.npmjs.org/
+75 silly mapToRegistry uri https://registry.npmjs.org/pug-filters
+76 silly fetchNamedPackageData pug-lexer
+77 silly mapToRegistry name pug-lexer
+78 silly mapToRegistry using default registry
+79 silly mapToRegistry registry https://registry.npmjs.org/
+80 silly mapToRegistry uri https://registry.npmjs.org/pug-lexer
+81 silly fetchNamedPackageData pug-linker
+82 silly mapToRegistry name pug-linker
+83 silly mapToRegistry using default registry
+84 silly mapToRegistry registry https://registry.npmjs.org/
+85 silly mapToRegistry uri https://registry.npmjs.org/pug-linker
+86 silly fetchNamedPackageData pug-load
+87 silly mapToRegistry name pug-load
+88 silly mapToRegistry using default registry
+89 silly mapToRegistry registry https://registry.npmjs.org/
+90 silly mapToRegistry uri https://registry.npmjs.org/pug-load
+91 silly fetchNamedPackageData pug-parser
+92 silly mapToRegistry name pug-parser
+93 silly mapToRegistry using default registry
+94 silly mapToRegistry registry https://registry.npmjs.org/
+95 silly mapToRegistry uri https://registry.npmjs.org/pug-parser
+96 silly fetchNamedPackageData pug-runtime
+97 silly mapToRegistry name pug-runtime
+98 silly mapToRegistry using default registry
+99 silly mapToRegistry registry https://registry.npmjs.org/
+100 silly mapToRegistry uri https://registry.npmjs.org/pug-runtime
+101 silly fetchNamedPackageData pug-strip-comments
+102 silly mapToRegistry name pug-strip-comments
+103 silly mapToRegistry using default registry
+104 silly mapToRegistry registry https://registry.npmjs.org/
+105 silly mapToRegistry uri https://registry.npmjs.org/pug-strip-comments
+106 verbose request uri https://registry.npmjs.org/pug-code-gen
+107 verbose request no auth needed
+108 info attempt registry request try #1 at 2:38:20 PM
+109 http request GET https://registry.npmjs.org/pug-code-gen
+110 verbose request uri https://registry.npmjs.org/pug-filters
+111 verbose request no auth needed
+112 info attempt registry request try #1 at 2:38:20 PM
+113 http request GET https://registry.npmjs.org/pug-filters
+114 verbose request uri https://registry.npmjs.org/pug-lexer
+115 verbose request no auth needed
+116 info attempt registry request try #1 at 2:38:20 PM
+117 http request GET https://registry.npmjs.org/pug-lexer
+118 verbose request uri https://registry.npmjs.org/pug-linker
+119 verbose request no auth needed
+120 info attempt registry request try #1 at 2:38:20 PM
+121 http request GET https://registry.npmjs.org/pug-linker
+122 verbose request uri https://registry.npmjs.org/pug-load
+123 verbose request no auth needed
+124 info attempt registry request try #1 at 2:38:20 PM
+125 http request GET https://registry.npmjs.org/pug-load
+126 verbose request uri https://registry.npmjs.org/pug-parser
+127 verbose request no auth needed
+128 info attempt registry request try #1 at 2:38:20 PM
+129 http request GET https://registry.npmjs.org/pug-parser
+130 verbose request uri https://registry.npmjs.org/pug-runtime
+131 verbose request no auth needed
+132 info attempt registry request try #1 at 2:38:20 PM
+133 http request GET https://registry.npmjs.org/pug-runtime
+134 verbose request uri https://registry.npmjs.org/pug-strip-comments
+135 verbose request no auth needed
+136 info attempt registry request try #1 at 2:38:20 PM
+137 http request GET https://registry.npmjs.org/pug-strip-comments
+138 http 200 https://registry.npmjs.org/pug-code-gen
+139 verbose headers { date: 'Fri, 18 Nov 2022 08:08:20 GMT',
+139 verbose headers   'content-type': 'application/json',
+139 verbose headers   'transfer-encoding': 'chunked',
+139 verbose headers   connection: 'keep-alive',
+139 verbose headers   'cf-ray': '76bf37b86f5d4a77-SIN',
+139 verbose headers   'access-control-allow-origin': '*',
+139 verbose headers   age: '141',
+139 verbose headers   'cache-control': 'public, max-age=300',
+139 verbose headers   etag: 'W/"43aa7550bd1cfe15793916b1d853cc1c"',
+139 verbose headers   'last-modified': 'Sat, 25 Jun 2022 00:01:42 GMT',
+139 verbose headers   vary: 'accept-encoding, accept',
+139 verbose headers   'cf-cache-status': 'HIT',
+139 verbose headers   'x-amz-replication-status': 'COMPLETED',
+139 verbose headers   server: 'cloudflare',
+139 verbose headers   'content-encoding': 'gzip' }
+140 silly get cb [ 200,
+140 silly get   { date: 'Fri, 18 Nov 2022 08:08:20 GMT',
+140 silly get     'content-type': 'application/json',
+140 silly get     'transfer-encoding': 'chunked',
+140 silly get     connection: 'keep-alive',
+140 silly get     'cf-ray': '76bf37b86f5d4a77-SIN',
+140 silly get     'access-control-allow-origin': '*',
+140 silly get     age: '141',
+140 silly get     'cache-control': 'public, max-age=300',
+140 silly get     etag: 'W/"43aa7550bd1cfe15793916b1d853cc1c"',
+140 silly get     'last-modified': 'Sat, 25 Jun 2022 00:01:42 GMT',
+140 silly get     vary: 'accept-encoding, accept',
+140 silly get     'cf-cache-status': 'HIT',
+140 silly get     'x-amz-replication-status': 'COMPLETED',
+140 silly get     server: 'cloudflare',
+140 silly get     'content-encoding': 'gzip' } ]
+141 verbose get saving pug-code-gen to /home/eugen3199/.npm/registry.npmjs.org/pug-code-gen/.cache.json
+142 silly resolveWithNewModule pug-code-gen@3.0.2 checking installable status
+143 silly cache add args [ 'pug-code-gen@^3.0.2', null ]
+144 verbose cache add spec pug-code-gen@^3.0.2
+145 silly cache add parsed spec Result {
+145 silly cache add   raw: 'pug-code-gen@^3.0.2',
+145 silly cache add   scope: null,
+145 silly cache add   name: 'pug-code-gen',
+145 silly cache add   rawSpec: '^3.0.2',
+145 silly cache add   spec: '>=3.0.2 <4.0.0',
+145 silly cache add   type: 'range' }
+146 silly addNamed pug-code-gen@>=3.0.2 <4.0.0
+147 verbose addNamed ">=3.0.2 <4.0.0" is a valid semver range for pug-code-gen
+148 silly addNameRange { name: 'pug-code-gen', range: '>=3.0.2 <4.0.0', hasData: false }
+149 silly mapToRegistry name pug-code-gen
+150 silly mapToRegistry using default registry
+151 silly mapToRegistry registry https://registry.npmjs.org/
+152 silly mapToRegistry uri https://registry.npmjs.org/pug-code-gen
+153 verbose addNameRange registry:https://registry.npmjs.org/pug-code-gen not in flight; fetching
+154 verbose get https://registry.npmjs.org/pug-code-gen not expired, no request
+155 silly addNameRange number 2 { name: 'pug-code-gen', range: '>=3.0.2 <4.0.0', hasData: true }
+156 silly addNameRange versions [ 'pug-code-gen',
+156 silly addNameRange   [ '0.0.0',
+156 silly addNameRange     '0.0.5',
+156 silly addNameRange     '0.0.6',
+156 silly addNameRange     '0.0.7',
+156 silly addNameRange     '1.0.0',
+156 silly addNameRange     '1.0.1',
+156 silly addNameRange     '1.1.0',
+156 silly addNameRange     '1.1.1',
+156 silly addNameRange     '2.0.0',
+156 silly addNameRange     '2.0.1',
+156 silly addNameRange     '2.0.2',
+156 silly addNameRange     '3.0.0-canary-1',
+156 silly addNameRange     '3.0.0-canary-2',
+156 silly addNameRange     '3.0.0',
+156 silly addNameRange     '3.0.1-canary-3',
+156 silly addNameRange     '3.0.1',
+156 silly addNameRange     '3.0.2-canary-5',
+156 silly addNameRange     '3.0.2',
+156 silly addNameRange     '2.0.3' ] ]
+157 silly addNamed pug-code-gen@3.0.2
+158 verbose addNamed "3.0.2" is a plain semver version for pug-code-gen
+159 silly mapToRegistry name pug-code-gen
+160 silly mapToRegistry using default registry
+161 silly mapToRegistry registry https://registry.npmjs.org/
+162 silly mapToRegistry uri https://registry.npmjs.org/pug-code-gen
+163 verbose addRemoteTarball https://registry.npmjs.org/pug-code-gen/-/pug-code-gen-3.0.2.tgz not in flight; adding
+164 verbose addRemoteTarball [ 'https://registry.npmjs.org/pug-code-gen/-/pug-code-gen-3.0.2.tgz',
+164 verbose addRemoteTarball   'ad190f4943133bf186b60b80de483100e132e2ce' ]
+165 info retry fetch attempt 1 at 2:38:20 PM
+166 info attempt registry request try #1 at 2:38:20 PM
+167 http fetch GET https://registry.npmjs.org/pug-code-gen/-/pug-code-gen-3.0.2.tgz
+168 http fetch 200 https://registry.npmjs.org/pug-code-gen/-/pug-code-gen-3.0.2.tgz
+169 silly fetchAndShaCheck shasum ad190f4943133bf186b60b80de483100e132e2ce
+170 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/pug-code-gen/-/pug-code-gen-3.0.2.tgz not in flight; adding
+171 verbose addTmpTarball already have metadata; skipping unpack for pug-code-gen@3.0.2
+172 silly cache afterAdd pug-code-gen@3.0.2
+173 verbose afterAdd /home/eugen3199/.npm/pug-code-gen/3.0.2/package/package.json not in flight; writing
+174 verbose afterAdd /home/eugen3199/.npm/pug-code-gen/3.0.2/package/package.json written
+175 http 200 https://registry.npmjs.org/pug-strip-comments
+176 verbose headers { date: 'Fri, 18 Nov 2022 08:08:23 GMT',
+176 verbose headers   'content-type': 'application/json',
+176 verbose headers   'transfer-encoding': 'chunked',
+176 verbose headers   connection: 'keep-alive',
+176 verbose headers   'cf-ray': '76bf37cc9e5d6ba4-SIN',
+176 verbose headers   'access-control-allow-origin': '*',
+176 verbose headers   age: '204',
+176 verbose headers   'cache-control': 'public, max-age=300',
+176 verbose headers   etag: 'W/"bfba9190a8b745f7aa6c75d64fb3c9c4"',
+176 verbose headers   'last-modified': 'Sat, 25 Jun 2022 00:08:36 GMT',
+176 verbose headers   vary: 'accept-encoding, accept',
+176 verbose headers   'cf-cache-status': 'HIT',
+176 verbose headers   'x-amz-replication-status': 'COMPLETED',
+176 verbose headers   server: 'cloudflare',
+176 verbose headers   'content-encoding': 'gzip' }
+177 silly get cb [ 200,
+177 silly get   { date: 'Fri, 18 Nov 2022 08:08:23 GMT',
+177 silly get     'content-type': 'application/json',
+177 silly get     'transfer-encoding': 'chunked',
+177 silly get     connection: 'keep-alive',
+177 silly get     'cf-ray': '76bf37cc9e5d6ba4-SIN',
+177 silly get     'access-control-allow-origin': '*',
+177 silly get     age: '204',
+177 silly get     'cache-control': 'public, max-age=300',
+177 silly get     etag: 'W/"bfba9190a8b745f7aa6c75d64fb3c9c4"',
+177 silly get     'last-modified': 'Sat, 25 Jun 2022 00:08:36 GMT',
+177 silly get     vary: 'accept-encoding, accept',
+177 silly get     'cf-cache-status': 'HIT',
+177 silly get     'x-amz-replication-status': 'COMPLETED',
+177 silly get     server: 'cloudflare',
+177 silly get     'content-encoding': 'gzip' } ]
+178 verbose get saving pug-strip-comments to /home/eugen3199/.npm/registry.npmjs.org/pug-strip-comments/.cache.json
+179 silly resolveWithNewModule pug-strip-comments@2.0.0 checking installable status
+180 silly cache add args [ 'pug-strip-comments@^2.0.0', null ]
+181 verbose cache add spec pug-strip-comments@^2.0.0
+182 silly cache add parsed spec Result {
+182 silly cache add   raw: 'pug-strip-comments@^2.0.0',
+182 silly cache add   scope: null,
+182 silly cache add   name: 'pug-strip-comments',
+182 silly cache add   rawSpec: '^2.0.0',
+182 silly cache add   spec: '>=2.0.0 <3.0.0',
+182 silly cache add   type: 'range' }
+183 silly addNamed pug-strip-comments@>=2.0.0 <3.0.0
+184 verbose addNamed ">=2.0.0 <3.0.0" is a valid semver range for pug-strip-comments
+185 silly addNameRange { name: 'pug-strip-comments',
+185 silly addNameRange   range: '>=2.0.0 <3.0.0',
+185 silly addNameRange   hasData: false }
+186 silly mapToRegistry name pug-strip-comments
+187 silly mapToRegistry using default registry
+188 silly mapToRegistry registry https://registry.npmjs.org/
+189 silly mapToRegistry uri https://registry.npmjs.org/pug-strip-comments
+190 verbose addNameRange registry:https://registry.npmjs.org/pug-strip-comments not in flight; fetching
+191 verbose get https://registry.npmjs.org/pug-strip-comments not expired, no request
+192 silly addNameRange number 2 { name: 'pug-strip-comments',
+192 silly addNameRange   range: '>=2.0.0 <3.0.0',
+192 silly addNameRange   hasData: true }
+193 silly addNameRange versions [ 'pug-strip-comments',
+193 silly addNameRange   [ '0.0.0',
+193 silly addNameRange     '0.0.1',
+193 silly addNameRange     '1.0.1',
+193 silly addNameRange     '1.0.2',
+193 silly addNameRange     '1.0.3',
+193 silly addNameRange     '1.0.4',
+193 silly addNameRange     '2.0.0-canary-1',
+193 silly addNameRange     '2.0.0-canary-2',
+193 silly addNameRange     '2.0.0' ] ]
+194 silly addNamed pug-strip-comments@2.0.0
+195 verbose addNamed "2.0.0" is a plain semver version for pug-strip-comments
+196 silly mapToRegistry name pug-strip-comments
+197 silly mapToRegistry using default registry
+198 silly mapToRegistry registry https://registry.npmjs.org/
+199 silly mapToRegistry uri https://registry.npmjs.org/pug-strip-comments
+200 verbose addRemoteTarball https://registry.npmjs.org/pug-strip-comments/-/pug-strip-comments-2.0.0.tgz not in flight; adding
+201 verbose addRemoteTarball [ 'https://registry.npmjs.org/pug-strip-comments/-/pug-strip-comments-2.0.0.tgz',
+201 verbose addRemoteTarball   'f94b07fd6b495523330f490a7f554b4ff876303e' ]
+202 info retry fetch attempt 1 at 2:38:23 PM
+203 info attempt registry request try #1 at 2:38:23 PM
+204 http fetch GET https://registry.npmjs.org/pug-strip-comments/-/pug-strip-comments-2.0.0.tgz
+205 http fetch 200 https://registry.npmjs.org/pug-strip-comments/-/pug-strip-comments-2.0.0.tgz
+206 silly fetchAndShaCheck shasum f94b07fd6b495523330f490a7f554b4ff876303e
+207 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/pug-strip-comments/-/pug-strip-comments-2.0.0.tgz not in flight; adding
+208 verbose addTmpTarball already have metadata; skipping unpack for pug-strip-comments@2.0.0
+209 silly cache afterAdd pug-strip-comments@2.0.0
+210 verbose afterAdd /home/eugen3199/.npm/pug-strip-comments/2.0.0/package/package.json not in flight; writing
+211 verbose afterAdd /home/eugen3199/.npm/pug-strip-comments/2.0.0/package/package.json written
+212 http 200 https://registry.npmjs.org/pug-load
+213 verbose headers { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+213 verbose headers   'content-type': 'application/json',
+213 verbose headers   'transfer-encoding': 'chunked',
+213 verbose headers   connection: 'keep-alive',
+213 verbose headers   'cf-ray': '76bf37cc9bd99e3a-SIN',
+213 verbose headers   'access-control-allow-origin': '*',
+213 verbose headers   'cache-control': 'public, max-age=300',
+213 verbose headers   etag: 'W/"a7b7edb4f428f54480e405c696d2c4ee"',
+213 verbose headers   'last-modified': 'Sat, 25 Jun 2022 00:05:36 GMT',
+213 verbose headers   vary: 'accept-encoding, accept',
+213 verbose headers   'cf-cache-status': 'REVALIDATED',
+213 verbose headers   'x-amz-replication-status': 'COMPLETED',
+213 verbose headers   server: 'cloudflare',
+213 verbose headers   'content-encoding': 'gzip' }
+214 silly get cb [ 200,
+214 silly get   { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+214 silly get     'content-type': 'application/json',
+214 silly get     'transfer-encoding': 'chunked',
+214 silly get     connection: 'keep-alive',
+214 silly get     'cf-ray': '76bf37cc9bd99e3a-SIN',
+214 silly get     'access-control-allow-origin': '*',
+214 silly get     'cache-control': 'public, max-age=300',
+214 silly get     etag: 'W/"a7b7edb4f428f54480e405c696d2c4ee"',
+214 silly get     'last-modified': 'Sat, 25 Jun 2022 00:05:36 GMT',
+214 silly get     vary: 'accept-encoding, accept',
+214 silly get     'cf-cache-status': 'REVALIDATED',
+214 silly get     'x-amz-replication-status': 'COMPLETED',
+214 silly get     server: 'cloudflare',
+214 silly get     'content-encoding': 'gzip' } ]
+215 verbose get saving pug-load to /home/eugen3199/.npm/registry.npmjs.org/pug-load/.cache.json
+216 http 200 https://registry.npmjs.org/pug-filters
+217 verbose headers { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+217 verbose headers   'content-type': 'application/json',
+217 verbose headers   'transfer-encoding': 'chunked',
+217 verbose headers   connection: 'keep-alive',
+217 verbose headers   'cf-ray': '76bf37cc98af8948-SIN',
+217 verbose headers   'access-control-allow-origin': '*',
+217 verbose headers   'cache-control': 'public, max-age=300',
+217 verbose headers   etag: 'W/"25ab28a3436ff67e04b0676d7080e662"',
+217 verbose headers   'last-modified': 'Sat, 25 Jun 2022 00:03:18 GMT',
+217 verbose headers   vary: 'accept-encoding, accept',
+217 verbose headers   'cf-cache-status': 'REVALIDATED',
+217 verbose headers   'x-amz-replication-status': 'COMPLETED',
+217 verbose headers   server: 'cloudflare',
+217 verbose headers   'content-encoding': 'gzip' }
+218 silly get cb [ 200,
+218 silly get   { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+218 silly get     'content-type': 'application/json',
+218 silly get     'transfer-encoding': 'chunked',
+218 silly get     connection: 'keep-alive',
+218 silly get     'cf-ray': '76bf37cc98af8948-SIN',
+218 silly get     'access-control-allow-origin': '*',
+218 silly get     'cache-control': 'public, max-age=300',
+218 silly get     etag: 'W/"25ab28a3436ff67e04b0676d7080e662"',
+218 silly get     'last-modified': 'Sat, 25 Jun 2022 00:03:18 GMT',
+218 silly get     vary: 'accept-encoding, accept',
+218 silly get     'cf-cache-status': 'REVALIDATED',
+218 silly get     'x-amz-replication-status': 'COMPLETED',
+218 silly get     server: 'cloudflare',
+218 silly get     'content-encoding': 'gzip' } ]
+219 verbose get saving pug-filters to /home/eugen3199/.npm/registry.npmjs.org/pug-filters/.cache.json
+220 http 200 https://registry.npmjs.org/pug-lexer
+221 verbose headers { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+221 verbose headers   'content-type': 'application/json',
+221 verbose headers   'transfer-encoding': 'chunked',
+221 verbose headers   connection: 'keep-alive',
+221 verbose headers   'cf-ray': '76bf37cc9da94673-SIN',
+221 verbose headers   'access-control-allow-origin': '*',
+221 verbose headers   'cache-control': 'public, max-age=300',
+221 verbose headers   etag: 'W/"94e824a2dfd12d9f5a7ce57062d9feb2"',
+221 verbose headers   'last-modified': 'Sat, 25 Jun 2022 00:04:06 GMT',
+221 verbose headers   vary: 'accept-encoding, accept',
+221 verbose headers   'cf-cache-status': 'REVALIDATED',
+221 verbose headers   'x-amz-replication-status': 'COMPLETED',
+221 verbose headers   server: 'cloudflare',
+221 verbose headers   'content-encoding': 'gzip' }
+222 silly get cb [ 200,
+222 silly get   { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+222 silly get     'content-type': 'application/json',
+222 silly get     'transfer-encoding': 'chunked',
+222 silly get     connection: 'keep-alive',
+222 silly get     'cf-ray': '76bf37cc9da94673-SIN',
+222 silly get     'access-control-allow-origin': '*',
+222 silly get     'cache-control': 'public, max-age=300',
+222 silly get     etag: 'W/"94e824a2dfd12d9f5a7ce57062d9feb2"',
+222 silly get     'last-modified': 'Sat, 25 Jun 2022 00:04:06 GMT',
+222 silly get     vary: 'accept-encoding, accept',
+222 silly get     'cf-cache-status': 'REVALIDATED',
+222 silly get     'x-amz-replication-status': 'COMPLETED',
+222 silly get     server: 'cloudflare',
+222 silly get     'content-encoding': 'gzip' } ]
+223 verbose get saving pug-lexer to /home/eugen3199/.npm/registry.npmjs.org/pug-lexer/.cache.json
+224 http 200 https://registry.npmjs.org/pug-parser
+225 verbose headers { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+225 verbose headers   'content-type': 'application/json',
+225 verbose headers   'transfer-encoding': 'chunked',
+225 verbose headers   connection: 'keep-alive',
+225 verbose headers   'cf-ray': '76bf37cc99ee4af6-SIN',
+225 verbose headers   'access-control-allow-origin': '*',
+225 verbose headers   'cache-control': 'public, max-age=300',
+225 verbose headers   etag: 'W/"3186a462841da7308a5f116b8c2b359c"',
+225 verbose headers   'last-modified': 'Sat, 25 Jun 2022 00:06:42 GMT',
+225 verbose headers   vary: 'accept-encoding, accept',
+225 verbose headers   'cf-cache-status': 'REVALIDATED',
+225 verbose headers   'x-amz-replication-status': 'COMPLETED',
+225 verbose headers   server: 'cloudflare',
+225 verbose headers   'content-encoding': 'gzip' }
+226 silly get cb [ 200,
+226 silly get   { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+226 silly get     'content-type': 'application/json',
+226 silly get     'transfer-encoding': 'chunked',
+226 silly get     connection: 'keep-alive',
+226 silly get     'cf-ray': '76bf37cc99ee4af6-SIN',
+226 silly get     'access-control-allow-origin': '*',
+226 silly get     'cache-control': 'public, max-age=300',
+226 silly get     etag: 'W/"3186a462841da7308a5f116b8c2b359c"',
+226 silly get     'last-modified': 'Sat, 25 Jun 2022 00:06:42 GMT',
+226 silly get     vary: 'accept-encoding, accept',
+226 silly get     'cf-cache-status': 'REVALIDATED',
+226 silly get     'x-amz-replication-status': 'COMPLETED',
+226 silly get     server: 'cloudflare',
+226 silly get     'content-encoding': 'gzip' } ]
+227 verbose get saving pug-parser to /home/eugen3199/.npm/registry.npmjs.org/pug-parser/.cache.json
+228 silly resolveWithNewModule pug-load@3.0.0 checking installable status
+229 silly cache add args [ 'pug-load@^3.0.0', null ]
+230 verbose cache add spec pug-load@^3.0.0
+231 silly cache add parsed spec Result {
+231 silly cache add   raw: 'pug-load@^3.0.0',
+231 silly cache add   scope: null,
+231 silly cache add   name: 'pug-load',
+231 silly cache add   rawSpec: '^3.0.0',
+231 silly cache add   spec: '>=3.0.0 <4.0.0',
+231 silly cache add   type: 'range' }
+232 silly addNamed pug-load@>=3.0.0 <4.0.0
+233 verbose addNamed ">=3.0.0 <4.0.0" is a valid semver range for pug-load
+234 silly addNameRange { name: 'pug-load', range: '>=3.0.0 <4.0.0', hasData: false }
+235 silly mapToRegistry name pug-load
+236 silly mapToRegistry using default registry
+237 silly mapToRegistry registry https://registry.npmjs.org/
+238 silly mapToRegistry uri https://registry.npmjs.org/pug-load
+239 verbose addNameRange registry:https://registry.npmjs.org/pug-load not in flight; fetching
+240 http 200 https://registry.npmjs.org/pug-runtime
+241 verbose headers { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+241 verbose headers   'content-type': 'application/json',
+241 verbose headers   'transfer-encoding': 'chunked',
+241 verbose headers   connection: 'keep-alive',
+241 verbose headers   'cf-ray': '76bf37cc8edc4ac0-SIN',
+241 verbose headers   'access-control-allow-origin': '*',
+241 verbose headers   'cache-control': 'public, max-age=300',
+241 verbose headers   etag: 'W/"d53f78564944984afce54b467cb17eef"',
+241 verbose headers   'last-modified': 'Sat, 25 Jun 2022 00:08:00 GMT',
+241 verbose headers   vary: 'accept-encoding, accept',
+241 verbose headers   'cf-cache-status': 'REVALIDATED',
+241 verbose headers   'x-amz-replication-status': 'COMPLETED',
+241 verbose headers   server: 'cloudflare',
+241 verbose headers   'content-encoding': 'gzip' }
+242 silly get cb [ 200,
+242 silly get   { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+242 silly get     'content-type': 'application/json',
+242 silly get     'transfer-encoding': 'chunked',
+242 silly get     connection: 'keep-alive',
+242 silly get     'cf-ray': '76bf37cc8edc4ac0-SIN',
+242 silly get     'access-control-allow-origin': '*',
+242 silly get     'cache-control': 'public, max-age=300',
+242 silly get     etag: 'W/"d53f78564944984afce54b467cb17eef"',
+242 silly get     'last-modified': 'Sat, 25 Jun 2022 00:08:00 GMT',
+242 silly get     vary: 'accept-encoding, accept',
+242 silly get     'cf-cache-status': 'REVALIDATED',
+242 silly get     'x-amz-replication-status': 'COMPLETED',
+242 silly get     server: 'cloudflare',
+242 silly get     'content-encoding': 'gzip' } ]
+243 verbose get saving pug-runtime to /home/eugen3199/.npm/registry.npmjs.org/pug-runtime/.cache.json
+244 verbose get https://registry.npmjs.org/pug-load not expired, no request
+245 silly addNameRange number 2 { name: 'pug-load', range: '>=3.0.0 <4.0.0', hasData: true }
+246 silly addNameRange versions [ 'pug-load',
+246 silly addNameRange   [ '1.0.3',
+246 silly addNameRange     '2.0.0',
+246 silly addNameRange     '2.0.1',
+246 silly addNameRange     '2.0.2',
+246 silly addNameRange     '2.0.3',
+246 silly addNameRange     '2.0.4',
+246 silly addNameRange     '2.0.5',
+246 silly addNameRange     '2.0.6',
+246 silly addNameRange     '2.0.7',
+246 silly addNameRange     '2.0.8',
+246 silly addNameRange     '2.0.9',
+246 silly addNameRange     '2.0.10',
+246 silly addNameRange     '2.0.11',
+246 silly addNameRange     '2.0.12',
+246 silly addNameRange     '3.0.0-canary-1',
+246 silly addNameRange     '3.0.0-canary-2',
+246 silly addNameRange     '3.0.0' ] ]
+247 silly addNamed pug-load@3.0.0
+248 verbose addNamed "3.0.0" is a plain semver version for pug-load
+249 silly resolveWithNewModule pug-filters@4.0.0 checking installable status
+250 silly cache add args [ 'pug-filters@^4.0.0', null ]
+251 verbose cache add spec pug-filters@^4.0.0
+252 silly cache add parsed spec Result {
+252 silly cache add   raw: 'pug-filters@^4.0.0',
+252 silly cache add   scope: null,
+252 silly cache add   name: 'pug-filters',
+252 silly cache add   rawSpec: '^4.0.0',
+252 silly cache add   spec: '>=4.0.0 <5.0.0',
+252 silly cache add   type: 'range' }
+253 silly addNamed pug-filters@>=4.0.0 <5.0.0
+254 verbose addNamed ">=4.0.0 <5.0.0" is a valid semver range for pug-filters
+255 silly addNameRange { name: 'pug-filters', range: '>=4.0.0 <5.0.0', hasData: false }
+256 silly mapToRegistry name pug-filters
+257 silly mapToRegistry using default registry
+258 silly mapToRegistry registry https://registry.npmjs.org/
+259 silly mapToRegistry uri https://registry.npmjs.org/pug-filters
+260 verbose addNameRange registry:https://registry.npmjs.org/pug-filters not in flight; fetching
+261 silly mapToRegistry name pug-load
+262 silly mapToRegistry using default registry
+263 silly mapToRegistry registry https://registry.npmjs.org/
+264 silly mapToRegistry uri https://registry.npmjs.org/pug-load
+265 verbose addRemoteTarball https://registry.npmjs.org/pug-load/-/pug-load-3.0.0.tgz not in flight; adding
+266 verbose addRemoteTarball [ 'https://registry.npmjs.org/pug-load/-/pug-load-3.0.0.tgz',
+266 verbose addRemoteTarball   '9fd9cda52202b08adb11d25681fb9f34bd41b662' ]
+267 silly resolveWithNewModule pug-lexer@5.0.1 checking installable status
+268 silly cache add args [ 'pug-lexer@^5.0.1', null ]
+269 verbose cache add spec pug-lexer@^5.0.1
+270 silly cache add parsed spec Result {
+270 silly cache add   raw: 'pug-lexer@^5.0.1',
+270 silly cache add   scope: null,
+270 silly cache add   name: 'pug-lexer',
+270 silly cache add   rawSpec: '^5.0.1',
+270 silly cache add   spec: '>=5.0.1 <6.0.0',
+270 silly cache add   type: 'range' }
+271 silly addNamed pug-lexer@>=5.0.1 <6.0.0
+272 verbose addNamed ">=5.0.1 <6.0.0" is a valid semver range for pug-lexer
+273 silly addNameRange { name: 'pug-lexer', range: '>=5.0.1 <6.0.0', hasData: false }
+274 silly mapToRegistry name pug-lexer
+275 silly mapToRegistry using default registry
+276 silly mapToRegistry registry https://registry.npmjs.org/
+277 silly mapToRegistry uri https://registry.npmjs.org/pug-lexer
+278 verbose addNameRange registry:https://registry.npmjs.org/pug-lexer not in flight; fetching
+279 silly resolveWithNewModule pug-parser@6.0.0 checking installable status
+280 silly cache add args [ 'pug-parser@^6.0.0', null ]
+281 verbose cache add spec pug-parser@^6.0.0
+282 silly cache add parsed spec Result {
+282 silly cache add   raw: 'pug-parser@^6.0.0',
+282 silly cache add   scope: null,
+282 silly cache add   name: 'pug-parser',
+282 silly cache add   rawSpec: '^6.0.0',
+282 silly cache add   spec: '>=6.0.0 <7.0.0',
+282 silly cache add   type: 'range' }
+283 silly addNamed pug-parser@>=6.0.0 <7.0.0
+284 verbose addNamed ">=6.0.0 <7.0.0" is a valid semver range for pug-parser
+285 silly addNameRange { name: 'pug-parser', range: '>=6.0.0 <7.0.0', hasData: false }
+286 silly mapToRegistry name pug-parser
+287 silly mapToRegistry using default registry
+288 silly mapToRegistry registry https://registry.npmjs.org/
+289 silly mapToRegistry uri https://registry.npmjs.org/pug-parser
+290 verbose addNameRange registry:https://registry.npmjs.org/pug-parser not in flight; fetching
+291 info retry fetch attempt 1 at 2:38:24 PM
+292 info attempt registry request try #1 at 2:38:24 PM
+293 http fetch GET https://registry.npmjs.org/pug-load/-/pug-load-3.0.0.tgz
+294 verbose get https://registry.npmjs.org/pug-filters not expired, no request
+295 silly addNameRange number 2 { name: 'pug-filters', range: '>=4.0.0 <5.0.0', hasData: true }
+296 silly addNameRange versions [ 'pug-filters',
+296 silly addNameRange   [ '1.1.0',
+296 silly addNameRange     '1.1.1',
+296 silly addNameRange     '1.2.0',
+296 silly addNameRange     '1.2.1',
+296 silly addNameRange     '1.2.2',
+296 silly addNameRange     '1.2.3',
+296 silly addNameRange     '1.2.4',
+296 silly addNameRange     '2.0.0',
+296 silly addNameRange     '2.1.0',
+296 silly addNameRange     '2.1.1',
+296 silly addNameRange     '2.1.2',
+296 silly addNameRange     '2.1.3',
+296 silly addNameRange     '2.1.4',
+296 silly addNameRange     '2.1.5',
+296 silly addNameRange     '3.0.0',
+296 silly addNameRange     '3.0.1',
+296 silly addNameRange     '3.0.2',
+296 silly addNameRange     '3.1.0',
+296 silly addNameRange     '3.1.1',
+296 silly addNameRange     '4.0.0-canary-1',
+296 silly addNameRange     '4.0.0-canary-2',
+296 silly addNameRange     '4.0.0' ] ]
+297 silly addNamed pug-filters@4.0.0
+298 verbose addNamed "4.0.0" is a plain semver version for pug-filters
+299 silly mapToRegistry name pug-filters
+300 silly mapToRegistry using default registry
+301 silly mapToRegistry registry https://registry.npmjs.org/
+302 silly mapToRegistry uri https://registry.npmjs.org/pug-filters
+303 verbose addRemoteTarball https://registry.npmjs.org/pug-filters/-/pug-filters-4.0.0.tgz not in flight; adding
+304 verbose addRemoteTarball [ 'https://registry.npmjs.org/pug-filters/-/pug-filters-4.0.0.tgz',
+304 verbose addRemoteTarball   'd3e49af5ba8472e9b7a66d980e707ce9d2cc9b5e' ]
+305 silly resolveWithNewModule pug-runtime@3.0.1 checking installable status
+306 silly cache add args [ 'pug-runtime@^3.0.1', null ]
+307 verbose cache add spec pug-runtime@^3.0.1
+308 silly cache add parsed spec Result {
+308 silly cache add   raw: 'pug-runtime@^3.0.1',
+308 silly cache add   scope: null,
+308 silly cache add   name: 'pug-runtime',
+308 silly cache add   rawSpec: '^3.0.1',
+308 silly cache add   spec: '>=3.0.1 <4.0.0',
+308 silly cache add   type: 'range' }
+309 silly addNamed pug-runtime@>=3.0.1 <4.0.0
+310 verbose addNamed ">=3.0.1 <4.0.0" is a valid semver range for pug-runtime
+311 silly addNameRange { name: 'pug-runtime', range: '>=3.0.1 <4.0.0', hasData: false }
+312 silly mapToRegistry name pug-runtime
+313 silly mapToRegistry using default registry
+314 silly mapToRegistry registry https://registry.npmjs.org/
+315 silly mapToRegistry uri https://registry.npmjs.org/pug-runtime
+316 verbose addNameRange registry:https://registry.npmjs.org/pug-runtime not in flight; fetching
+317 verbose get https://registry.npmjs.org/pug-lexer not expired, no request
+318 silly addNameRange number 2 { name: 'pug-lexer', range: '>=5.0.1 <6.0.0', hasData: true }
+319 silly addNameRange versions [ 'pug-lexer',
+319 silly addNameRange   [ '0.0.0',
+319 silly addNameRange     '1.0.0',
+319 silly addNameRange     '1.0.1',
+319 silly addNameRange     '1.2.0',
+319 silly addNameRange     '2.0.0',
+319 silly addNameRange     '2.0.1',
+319 silly addNameRange     '2.0.2',
+319 silly addNameRange     '2.0.3',
+319 silly addNameRange     '2.1.0',
+319 silly addNameRange     '2.2.0',
+319 silly addNameRange     '2.2.1',
+319 silly addNameRange     '2.2.2',
+319 silly addNameRange     '2.3.0',
+319 silly addNameRange     '2.3.1',
+319 silly addNameRange     '2.3.2',
+319 silly addNameRange     '3.0.0',
+319 silly addNameRange     '3.1.0',
+319 silly addNameRange     '4.0.0',
+319 silly addNameRange     '4.1.0',
+319 silly addNameRange     '5.0.0-canary-1',
+319 silly addNameRange     '5.0.0-canary-2',
+319 silly addNameRange     '5.0.0',
+319 silly addNameRange     '5.0.1-canary-7',
+319 silly addNameRange     '5.0.1-canary-8',
+319 silly addNameRange     '5.0.1-canary-9',
+319 silly addNameRange     '5.0.1-canary-10',
+319 silly addNameRange     '5.0.1' ] ]
+320 silly addNamed pug-lexer@5.0.1
+321 verbose addNamed "5.0.1" is a plain semver version for pug-lexer
+322 verbose get https://registry.npmjs.org/pug-parser not expired, no request
+323 silly addNameRange number 2 { name: 'pug-parser', range: '>=6.0.0 <7.0.0', hasData: true }
+324 silly addNameRange versions [ 'pug-parser',
+324 silly addNameRange   [ '0.0.0',
+324 silly addNameRange     '1.0.0',
+324 silly addNameRange     '2.0.0',
+324 silly addNameRange     '2.0.1',
+324 silly addNameRange     '2.0.2',
+324 silly addNameRange     '3.0.0',
+324 silly addNameRange     '3.0.1',
+324 silly addNameRange     '4.0.0',
+324 silly addNameRange     '4.0.1',
+324 silly addNameRange     '5.0.0',
+324 silly addNameRange     '4.0.2',
+324 silly addNameRange     '5.0.1',
+324 silly addNameRange     '6.0.0-canary-1',
+324 silly addNameRange     '6.0.0-canary-2',
+324 silly addNameRange     '6.0.0' ] ]
+325 silly addNamed pug-parser@6.0.0
+326 verbose addNamed "6.0.0" is a plain semver version for pug-parser
+327 silly mapToRegistry name pug-lexer
+328 silly mapToRegistry using default registry
+329 silly mapToRegistry registry https://registry.npmjs.org/
+330 silly mapToRegistry uri https://registry.npmjs.org/pug-lexer
+331 verbose addRemoteTarball https://registry.npmjs.org/pug-lexer/-/pug-lexer-5.0.1.tgz not in flight; adding
+332 verbose addRemoteTarball [ 'https://registry.npmjs.org/pug-lexer/-/pug-lexer-5.0.1.tgz',
+332 verbose addRemoteTarball   'ae44628c5bef9b190b665683b288ca9024b8b0d5' ]
+333 silly mapToRegistry name pug-parser
+334 silly mapToRegistry using default registry
+335 silly mapToRegistry registry https://registry.npmjs.org/
+336 silly mapToRegistry uri https://registry.npmjs.org/pug-parser
+337 verbose addRemoteTarball https://registry.npmjs.org/pug-parser/-/pug-parser-6.0.0.tgz not in flight; adding
+338 verbose addRemoteTarball [ 'https://registry.npmjs.org/pug-parser/-/pug-parser-6.0.0.tgz',
+338 verbose addRemoteTarball   'a8fdc035863a95b2c1dc5ebf4ecf80b4e76a1260' ]
+339 info retry fetch attempt 1 at 2:38:24 PM
+340 info attempt registry request try #1 at 2:38:24 PM
+341 http fetch GET https://registry.npmjs.org/pug-filters/-/pug-filters-4.0.0.tgz
+342 info retry fetch attempt 1 at 2:38:24 PM
+343 info attempt registry request try #1 at 2:38:24 PM
+344 http fetch GET https://registry.npmjs.org/pug-lexer/-/pug-lexer-5.0.1.tgz
+345 info retry fetch attempt 1 at 2:38:24 PM
+346 info attempt registry request try #1 at 2:38:24 PM
+347 http fetch GET https://registry.npmjs.org/pug-parser/-/pug-parser-6.0.0.tgz
+348 verbose get https://registry.npmjs.org/pug-runtime not expired, no request
+349 silly addNameRange number 2 { name: 'pug-runtime', range: '>=3.0.1 <4.0.0', hasData: true }
+350 silly addNameRange versions [ 'pug-runtime',
+350 silly addNameRange   [ '0.0.0',
+350 silly addNameRange     '2.0.0',
+350 silly addNameRange     '2.0.1',
+350 silly addNameRange     '2.0.2',
+350 silly addNameRange     '2.0.3',
+350 silly addNameRange     '2.0.4',
+350 silly addNameRange     '2.0.5',
+350 silly addNameRange     '3.0.0-canary-1',
+350 silly addNameRange     '3.0.0-canary-2',
+350 silly addNameRange     '3.0.0',
+350 silly addNameRange     '3.0.1-canary-10',
+350 silly addNameRange     '3.0.1' ] ]
+351 silly addNamed pug-runtime@3.0.1
+352 verbose addNamed "3.0.1" is a plain semver version for pug-runtime
+353 silly mapToRegistry name pug-runtime
+354 silly mapToRegistry using default registry
+355 silly mapToRegistry registry https://registry.npmjs.org/
+356 silly mapToRegistry uri https://registry.npmjs.org/pug-runtime
+357 verbose addRemoteTarball https://registry.npmjs.org/pug-runtime/-/pug-runtime-3.0.1.tgz not in flight; adding
+358 verbose addRemoteTarball [ 'https://registry.npmjs.org/pug-runtime/-/pug-runtime-3.0.1.tgz',
+358 verbose addRemoteTarball   'f636976204723f35a8c5f6fad6acda2a191b83d7' ]
+359 info retry fetch attempt 1 at 2:38:24 PM
+360 info attempt registry request try #1 at 2:38:24 PM
+361 http fetch GET https://registry.npmjs.org/pug-runtime/-/pug-runtime-3.0.1.tgz
+362 http fetch 200 https://registry.npmjs.org/pug-load/-/pug-load-3.0.0.tgz
+363 http fetch 200 https://registry.npmjs.org/pug-filters/-/pug-filters-4.0.0.tgz
+364 http fetch 200 https://registry.npmjs.org/pug-lexer/-/pug-lexer-5.0.1.tgz
+365 http fetch 200 https://registry.npmjs.org/pug-runtime/-/pug-runtime-3.0.1.tgz
+366 silly fetchAndShaCheck shasum d3e49af5ba8472e9b7a66d980e707ce9d2cc9b5e
+367 silly fetchAndShaCheck shasum 9fd9cda52202b08adb11d25681fb9f34bd41b662
+368 silly fetchAndShaCheck shasum ae44628c5bef9b190b665683b288ca9024b8b0d5
+369 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/pug-filters/-/pug-filters-4.0.0.tgz not in flight; adding
+370 verbose addTmpTarball already have metadata; skipping unpack for pug-filters@4.0.0
+371 silly fetchAndShaCheck shasum f636976204723f35a8c5f6fad6acda2a191b83d7
+372 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/pug-load/-/pug-load-3.0.0.tgz not in flight; adding
+373 verbose addTmpTarball already have metadata; skipping unpack for pug-load@3.0.0
+374 http fetch 200 https://registry.npmjs.org/pug-parser/-/pug-parser-6.0.0.tgz
+375 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/pug-lexer/-/pug-lexer-5.0.1.tgz not in flight; adding
+376 verbose addTmpTarball already have metadata; skipping unpack for pug-lexer@5.0.1
+377 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/pug-runtime/-/pug-runtime-3.0.1.tgz not in flight; adding
+378 verbose addTmpTarball already have metadata; skipping unpack for pug-runtime@3.0.1
+379 silly fetchAndShaCheck shasum a8fdc035863a95b2c1dc5ebf4ecf80b4e76a1260
+380 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/pug-parser/-/pug-parser-6.0.0.tgz not in flight; adding
+381 verbose addTmpTarball already have metadata; skipping unpack for pug-parser@6.0.0
+382 silly cache afterAdd pug-filters@4.0.0
+383 verbose afterAdd /home/eugen3199/.npm/pug-filters/4.0.0/package/package.json not in flight; writing
+384 silly cache afterAdd pug-load@3.0.0
+385 verbose afterAdd /home/eugen3199/.npm/pug-load/3.0.0/package/package.json not in flight; writing
+386 silly cache afterAdd pug-lexer@5.0.1
+387 verbose afterAdd /home/eugen3199/.npm/pug-lexer/5.0.1/package/package.json not in flight; writing
+388 silly cache afterAdd pug-runtime@3.0.1
+389 verbose afterAdd /home/eugen3199/.npm/pug-runtime/3.0.1/package/package.json not in flight; writing
+390 verbose afterAdd /home/eugen3199/.npm/pug-filters/4.0.0/package/package.json written
+391 verbose afterAdd /home/eugen3199/.npm/pug-load/3.0.0/package/package.json written
+392 verbose afterAdd /home/eugen3199/.npm/pug-lexer/5.0.1/package/package.json written
+393 verbose afterAdd /home/eugen3199/.npm/pug-runtime/3.0.1/package/package.json written
+394 silly cache afterAdd pug-parser@6.0.0
+395 verbose afterAdd /home/eugen3199/.npm/pug-parser/6.0.0/package/package.json not in flight; writing
+396 verbose afterAdd /home/eugen3199/.npm/pug-parser/6.0.0/package/package.json written
+397 http 200 https://registry.npmjs.org/pug-linker
+398 verbose headers { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+398 verbose headers   'content-type': 'application/json',
+398 verbose headers   'transfer-encoding': 'chunked',
+398 verbose headers   connection: 'keep-alive',
+398 verbose headers   'cf-ray': '76bf37cc9e6a4a1d-SIN',
+398 verbose headers   'access-control-allow-origin': '*',
+398 verbose headers   'cache-control': 'public, max-age=300',
+398 verbose headers   etag: 'W/"505972232709d9e9f8466439e49497fc"',
+398 verbose headers   'last-modified': 'Sat, 25 Jun 2022 00:04:12 GMT',
+398 verbose headers   vary: 'accept-encoding, accept',
+398 verbose headers   'cf-cache-status': 'REVALIDATED',
+398 verbose headers   'x-amz-replication-status': 'COMPLETED',
+398 verbose headers   server: 'cloudflare',
+398 verbose headers   'content-encoding': 'gzip' }
+399 silly get cb [ 200,
+399 silly get   { date: 'Fri, 18 Nov 2022 08:08:24 GMT',
+399 silly get     'content-type': 'application/json',
+399 silly get     'transfer-encoding': 'chunked',
+399 silly get     connection: 'keep-alive',
+399 silly get     'cf-ray': '76bf37cc9e6a4a1d-SIN',
+399 silly get     'access-control-allow-origin': '*',
+399 silly get     'cache-control': 'public, max-age=300',
+399 silly get     etag: 'W/"505972232709d9e9f8466439e49497fc"',
+399 silly get     'last-modified': 'Sat, 25 Jun 2022 00:04:12 GMT',
+399 silly get     vary: 'accept-encoding, accept',
+399 silly get     'cf-cache-status': 'REVALIDATED',
+399 silly get     'x-amz-replication-status': 'COMPLETED',
+399 silly get     server: 'cloudflare',
+399 silly get     'content-encoding': 'gzip' } ]
+400 verbose get saving pug-linker to /home/eugen3199/.npm/registry.npmjs.org/pug-linker/.cache.json
+401 silly resolveWithNewModule pug-linker@4.0.0 checking installable status
+402 silly cache add args [ 'pug-linker@^4.0.0', null ]
+403 verbose cache add spec pug-linker@^4.0.0
+404 silly cache add parsed spec Result {
+404 silly cache add   raw: 'pug-linker@^4.0.0',
+404 silly cache add   scope: null,
+404 silly cache add   name: 'pug-linker',
+404 silly cache add   rawSpec: '^4.0.0',
+404 silly cache add   spec: '>=4.0.0 <5.0.0',
+404 silly cache add   type: 'range' }
+405 silly addNamed pug-linker@>=4.0.0 <5.0.0
+406 verbose addNamed ">=4.0.0 <5.0.0" is a valid semver range for pug-linker
+407 silly addNameRange { name: 'pug-linker', range: '>=4.0.0 <5.0.0', hasData: false }
+408 silly mapToRegistry name pug-linker
+409 silly mapToRegistry using default registry
+410 silly mapToRegistry registry https://registry.npmjs.org/
+411 silly mapToRegistry uri https://registry.npmjs.org/pug-linker
+412 verbose addNameRange registry:https://registry.npmjs.org/pug-linker not in flight; fetching
+413 verbose get https://registry.npmjs.org/pug-linker not expired, no request
+414 silly addNameRange number 2 { name: 'pug-linker', range: '>=4.0.0 <5.0.0', hasData: true }
+415 silly addNameRange versions [ 'pug-linker',
+415 silly addNameRange   [ '0.0.0',
+415 silly addNameRange     '0.0.4',
+415 silly addNameRange     '1.0.0',
+415 silly addNameRange     '1.0.1',
+415 silly addNameRange     '1.0.2',
+415 silly addNameRange     '2.0.0',
+415 silly addNameRange     '2.0.1',
+415 silly addNameRange     '2.0.2',
+415 silly addNameRange     '2.0.3',
+415 silly addNameRange     '3.0.0',
+415 silly addNameRange     '3.0.1',
+415 silly addNameRange     '3.0.2',
+415 silly addNameRange     '3.0.3',
+415 silly addNameRange     '3.0.4',
+415 silly addNameRange     '3.0.5',
+415 silly addNameRange     '3.0.6',
+415 silly addNameRange     '4.0.0-canary-1',
+415 silly addNameRange     '4.0.0-canary-2',
+415 silly addNameRange     '4.0.0' ] ]
+416 silly addNamed pug-linker@4.0.0
+417 verbose addNamed "4.0.0" is a plain semver version for pug-linker
+418 silly mapToRegistry name pug-linker
+419 silly mapToRegistry using default registry
+420 silly mapToRegistry registry https://registry.npmjs.org/
+421 silly mapToRegistry uri https://registry.npmjs.org/pug-linker
+422 verbose addRemoteTarball https://registry.npmjs.org/pug-linker/-/pug-linker-4.0.0.tgz not in flight; adding
+423 verbose addRemoteTarball [ 'https://registry.npmjs.org/pug-linker/-/pug-linker-4.0.0.tgz',
+423 verbose addRemoteTarball   '12cbc0594fc5a3e06b9fc59e6f93c146962a7708' ]
+424 info retry fetch attempt 1 at 2:38:24 PM
+425 info attempt registry request try #1 at 2:38:24 PM
+426 http fetch GET https://registry.npmjs.org/pug-linker/-/pug-linker-4.0.0.tgz
+427 http fetch 200 https://registry.npmjs.org/pug-linker/-/pug-linker-4.0.0.tgz
+428 silly fetchAndShaCheck shasum 12cbc0594fc5a3e06b9fc59e6f93c146962a7708
+429 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/pug-linker/-/pug-linker-4.0.0.tgz not in flight; adding
+430 verbose addTmpTarball already have metadata; skipping unpack for pug-linker@4.0.0
+431 silly cache afterAdd pug-linker@4.0.0
+432 verbose afterAdd /home/eugen3199/.npm/pug-linker/4.0.0/package/package.json not in flight; writing
+433 verbose afterAdd /home/eugen3199/.npm/pug-linker/4.0.0/package/package.json written
+434 silly fetchNamedPackageData constantinople
+435 silly mapToRegistry name constantinople
+436 silly mapToRegistry using default registry
+437 silly mapToRegistry registry https://registry.npmjs.org/
+438 silly mapToRegistry uri https://registry.npmjs.org/constantinople
+439 silly fetchNamedPackageData doctypes
+440 silly mapToRegistry name doctypes
+441 silly mapToRegistry using default registry
+442 silly mapToRegistry registry https://registry.npmjs.org/
+443 silly mapToRegistry uri https://registry.npmjs.org/doctypes
+444 silly fetchNamedPackageData js-stringify
+445 silly mapToRegistry name js-stringify
+446 silly mapToRegistry using default registry
+447 silly mapToRegistry registry https://registry.npmjs.org/
+448 silly mapToRegistry uri https://registry.npmjs.org/js-stringify
+449 silly fetchNamedPackageData pug-attrs
+450 silly mapToRegistry name pug-attrs
+451 silly mapToRegistry using default registry
+452 silly mapToRegistry registry https://registry.npmjs.org/
+453 silly mapToRegistry uri https://registry.npmjs.org/pug-attrs
+454 silly fetchNamedPackageData pug-error
+455 silly mapToRegistry name pug-error
+456 silly mapToRegistry using default registry
+457 silly mapToRegistry registry https://registry.npmjs.org/
+458 silly mapToRegistry uri https://registry.npmjs.org/pug-error
+459 silly fetchNamedPackageData void-elements
+460 silly mapToRegistry name void-elements
+461 silly mapToRegistry using default registry
+462 silly mapToRegistry registry https://registry.npmjs.org/
+463 silly mapToRegistry uri https://registry.npmjs.org/void-elements
+464 silly fetchNamedPackageData with
+465 silly mapToRegistry name with
+466 silly mapToRegistry using default registry
+467 silly mapToRegistry registry https://registry.npmjs.org/
+468 silly mapToRegistry uri https://registry.npmjs.org/with
+469 verbose request uri https://registry.npmjs.org/constantinople
+470 verbose request no auth needed
+471 info attempt registry request try #1 at 2:38:24 PM
+472 http request GET https://registry.npmjs.org/constantinople
+473 verbose request uri https://registry.npmjs.org/doctypes
+474 verbose request no auth needed
+475 info attempt registry request try #1 at 2:38:24 PM
+476 http request GET https://registry.npmjs.org/doctypes
+477 verbose request uri https://registry.npmjs.org/js-stringify
+478 verbose request no auth needed
+479 info attempt registry request try #1 at 2:38:24 PM
+480 http request GET https://registry.npmjs.org/js-stringify
+481 verbose request uri https://registry.npmjs.org/pug-attrs
+482 verbose request no auth needed
+483 info attempt registry request try #1 at 2:38:24 PM
+484 http request GET https://registry.npmjs.org/pug-attrs
+485 verbose request uri https://registry.npmjs.org/pug-error
+486 verbose request no auth needed
+487 info attempt registry request try #1 at 2:38:24 PM
+488 http request GET https://registry.npmjs.org/pug-error
+489 verbose request uri https://registry.npmjs.org/void-elements
+490 verbose request no auth needed
+491 info attempt registry request try #1 at 2:38:24 PM
+492 http request GET https://registry.npmjs.org/void-elements
+493 verbose request uri https://registry.npmjs.org/with
+494 verbose request no auth needed
+495 info attempt registry request try #1 at 2:38:24 PM
+496 http request GET https://registry.npmjs.org/with
+497 http 200 https://registry.npmjs.org/void-elements
+498 verbose headers { date: 'Fri, 18 Nov 2022 08:08:25 GMT',
+498 verbose headers   'content-type': 'application/json',
+498 verbose headers   'transfer-encoding': 'chunked',
+498 verbose headers   connection: 'keep-alive',
+498 verbose headers   'cf-ray': '76bf37d53eb48948-SIN',
+498 verbose headers   'access-control-allow-origin': '*',
+498 verbose headers   age: '169',
+498 verbose headers   'cache-control': 'public, max-age=300',
+498 verbose headers   etag: 'W/"f3507e3d7cceb1a0a93cb4a06f6eb243"',
+498 verbose headers   'last-modified': 'Tue, 28 Jun 2022 18:14:48 GMT',
+498 verbose headers   vary: 'accept-encoding, accept',
+498 verbose headers   'cf-cache-status': 'HIT',
+498 verbose headers   'x-amz-replication-status': 'COMPLETED',
+498 verbose headers   server: 'cloudflare',
+498 verbose headers   'content-encoding': 'gzip' }
+499 silly get cb [ 200,
+499 silly get   { date: 'Fri, 18 Nov 2022 08:08:25 GMT',
+499 silly get     'content-type': 'application/json',
+499 silly get     'transfer-encoding': 'chunked',
+499 silly get     connection: 'keep-alive',
+499 silly get     'cf-ray': '76bf37d53eb48948-SIN',
+499 silly get     'access-control-allow-origin': '*',
+499 silly get     age: '169',
+499 silly get     'cache-control': 'public, max-age=300',
+499 silly get     etag: 'W/"f3507e3d7cceb1a0a93cb4a06f6eb243"',
+499 silly get     'last-modified': 'Tue, 28 Jun 2022 18:14:48 GMT',
+499 silly get     vary: 'accept-encoding, accept',
+499 silly get     'cf-cache-status': 'HIT',
+499 silly get     'x-amz-replication-status': 'COMPLETED',
+499 silly get     server: 'cloudflare',
+499 silly get     'content-encoding': 'gzip' } ]
+500 verbose get saving void-elements to /home/eugen3199/.npm/registry.npmjs.org/void-elements/.cache.json
+501 silly resolveWithNewModule void-elements@3.1.0 checking installable status
+502 silly cache add args [ 'void-elements@^3.1.0', null ]
+503 verbose cache add spec void-elements@^3.1.0
+504 silly cache add parsed spec Result {
+504 silly cache add   raw: 'void-elements@^3.1.0',
+504 silly cache add   scope: null,
+504 silly cache add   name: 'void-elements',
+504 silly cache add   rawSpec: '^3.1.0',
+504 silly cache add   spec: '>=3.1.0 <4.0.0',
+504 silly cache add   type: 'range' }
+505 silly addNamed void-elements@>=3.1.0 <4.0.0
+506 verbose addNamed ">=3.1.0 <4.0.0" is a valid semver range for void-elements
+507 silly addNameRange { name: 'void-elements',
+507 silly addNameRange   range: '>=3.1.0 <4.0.0',
+507 silly addNameRange   hasData: false }
+508 silly mapToRegistry name void-elements
+509 silly mapToRegistry using default registry
+510 silly mapToRegistry registry https://registry.npmjs.org/
+511 silly mapToRegistry uri https://registry.npmjs.org/void-elements
+512 verbose addNameRange registry:https://registry.npmjs.org/void-elements not in flight; fetching
+513 verbose get https://registry.npmjs.org/void-elements not expired, no request
+514 silly addNameRange number 2 { name: 'void-elements', range: '>=3.1.0 <4.0.0', hasData: true }
+515 silly addNameRange versions [ 'void-elements',
+515 silly addNameRange   [ '0.1.0', '0.1.1', '1.0.0', '2.0.0', '2.0.1', '3.1.0' ] ]
+516 silly addNamed void-elements@3.1.0
+517 verbose addNamed "3.1.0" is a plain semver version for void-elements
+518 silly mapToRegistry name void-elements
+519 silly mapToRegistry using default registry
+520 silly mapToRegistry registry https://registry.npmjs.org/
+521 silly mapToRegistry uri https://registry.npmjs.org/void-elements
+522 verbose addRemoteTarball https://registry.npmjs.org/void-elements/-/void-elements-3.1.0.tgz not in flight; adding
+523 verbose addRemoteTarball [ 'https://registry.npmjs.org/void-elements/-/void-elements-3.1.0.tgz',
+523 verbose addRemoteTarball   '614f7fbf8d801f0bb5f0661f5b2f5785750e4f09' ]
+524 info retry fetch attempt 1 at 2:38:25 PM
+525 info attempt registry request try #1 at 2:38:25 PM
+526 http fetch GET https://registry.npmjs.org/void-elements/-/void-elements-3.1.0.tgz
+527 http fetch 200 https://registry.npmjs.org/void-elements/-/void-elements-3.1.0.tgz
+528 silly fetchAndShaCheck shasum 614f7fbf8d801f0bb5f0661f5b2f5785750e4f09
+529 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/void-elements/-/void-elements-3.1.0.tgz not in flight; adding
+530 verbose addTmpTarball already have metadata; skipping unpack for void-elements@3.1.0
+531 silly cache afterAdd void-elements@3.1.0
+532 verbose afterAdd /home/eugen3199/.npm/void-elements/3.1.0/package/package.json not in flight; writing
+533 verbose afterAdd /home/eugen3199/.npm/void-elements/3.1.0/package/package.json written
+534 http 200 https://registry.npmjs.org/doctypes
+535 verbose headers { date: 'Fri, 18 Nov 2022 08:08:25 GMT',
+535 verbose headers   'content-type': 'application/json',
+535 verbose headers   'transfer-encoding': 'chunked',
+535 verbose headers   connection: 'keep-alive',
+535 verbose headers   'cf-ray': '76bf37d53c156ba4-SIN',
+535 verbose headers   'access-control-allow-origin': '*',
+535 verbose headers   'cache-control': 'public, max-age=300',
+535 verbose headers   etag: 'W/"fa74ef3939aa79d4ee7b3840de8e94eb"',
+535 verbose headers   'last-modified': 'Wed, 15 Jun 2022 20:26:17 GMT',
+535 verbose headers   vary: 'accept-encoding, accept',
+535 verbose headers   'cf-cache-status': 'REVALIDATED',
+535 verbose headers   'x-amz-replication-status': 'COMPLETED',
+535 verbose headers   server: 'cloudflare',
+535 verbose headers   'content-encoding': 'gzip' }
+536 silly get cb [ 200,
+536 silly get   { date: 'Fri, 18 Nov 2022 08:08:25 GMT',
+536 silly get     'content-type': 'application/json',
+536 silly get     'transfer-encoding': 'chunked',
+536 silly get     connection: 'keep-alive',
+536 silly get     'cf-ray': '76bf37d53c156ba4-SIN',
+536 silly get     'access-control-allow-origin': '*',
+536 silly get     'cache-control': 'public, max-age=300',
+536 silly get     etag: 'W/"fa74ef3939aa79d4ee7b3840de8e94eb"',
+536 silly get     'last-modified': 'Wed, 15 Jun 2022 20:26:17 GMT',
+536 silly get     vary: 'accept-encoding, accept',
+536 silly get     'cf-cache-status': 'REVALIDATED',
+536 silly get     'x-amz-replication-status': 'COMPLETED',
+536 silly get     server: 'cloudflare',
+536 silly get     'content-encoding': 'gzip' } ]
+537 verbose get saving doctypes to /home/eugen3199/.npm/registry.npmjs.org/doctypes/.cache.json
+538 http 200 https://registry.npmjs.org/pug-error
+539 verbose headers { date: 'Fri, 18 Nov 2022 08:08:25 GMT',
+539 verbose headers   'content-type': 'application/json',
+539 verbose headers   'transfer-encoding': 'chunked',
+539 verbose headers   connection: 'keep-alive',
+539 verbose headers   'cf-ray': '76bf37d538314673-SIN',
+539 verbose headers   'access-control-allow-origin': '*',
+539 verbose headers   'cache-control': 'public, max-age=300',
+539 verbose headers   etag: 'W/"f0ff17835db42920b1795ddb90f5c691"',
+539 verbose headers   'last-modified': 'Sat, 25 Jun 2022 00:02:42 GMT',
+539 verbose headers   vary: 'accept-encoding, accept',
+539 verbose headers   'cf-cache-status': 'REVALIDATED',
+539 verbose headers   'x-amz-replication-status': 'COMPLETED',
+539 verbose headers   server: 'cloudflare',
+539 verbose headers   'content-encoding': 'gzip' }
+540 silly get cb [ 200,
+540 silly get   { date: 'Fri, 18 Nov 2022 08:08:25 GMT',
+540 silly get     'content-type': 'application/json',
+540 silly get     'transfer-encoding': 'chunked',
+540 silly get     connection: 'keep-alive',
+540 silly get     'cf-ray': '76bf37d538314673-SIN',
+540 silly get     'access-control-allow-origin': '*',
+540 silly get     'cache-control': 'public, max-age=300',
+540 silly get     etag: 'W/"f0ff17835db42920b1795ddb90f5c691"',
+540 silly get     'last-modified': 'Sat, 25 Jun 2022 00:02:42 GMT',
+540 silly get     vary: 'accept-encoding, accept',
+540 silly get     'cf-cache-status': 'REVALIDATED',
+540 silly get     'x-amz-replication-status': 'COMPLETED',
+540 silly get     server: 'cloudflare',
+540 silly get     'content-encoding': 'gzip' } ]
+541 verbose get saving pug-error to /home/eugen3199/.npm/registry.npmjs.org/pug-error/.cache.json
+542 http 200 https://registry.npmjs.org/with
+543 verbose headers { date: 'Fri, 18 Nov 2022 08:08:25 GMT',
+543 verbose headers   'content-type': 'application/json',
+543 verbose headers   'transfer-encoding': 'chunked',
+543 verbose headers   connection: 'keep-alive',
+543 verbose headers   'cf-ray': '76bf37d53a354a1d-SIN',
+543 verbose headers   'access-control-allow-origin': '*',
+543 verbose headers   'cache-control': 'public, max-age=300',
+543 verbose headers   etag: 'W/"9cda58f1f726055b5714936a70197699"',
+543 verbose headers   'last-modified': 'Wed, 29 Jun 2022 02:41:52 GMT',
+543 verbose headers   vary: 'accept-encoding, accept',
+543 verbose headers   'cf-cache-status': 'REVALIDATED',
+543 verbose headers   'x-amz-replication-status': 'COMPLETED',
+543 verbose headers   server: 'cloudflare',
+543 verbose headers   'content-encoding': 'gzip' }
+544 silly get cb [ 200,
+544 silly get   { date: 'Fri, 18 Nov 2022 08:08:25 GMT',
+544 silly get     'content-type': 'application/json',
+544 silly get     'transfer-encoding': 'chunked',
+544 silly get     connection: 'keep-alive',
+544 silly get     'cf-ray': '76bf37d53a354a1d-SIN',
+544 silly get     'access-control-allow-origin': '*',
+544 silly get     'cache-control': 'public, max-age=300',
+544 silly get     etag: 'W/"9cda58f1f726055b5714936a70197699"',
+544 silly get     'last-modified': 'Wed, 29 Jun 2022 02:41:52 GMT',
+544 silly get     vary: 'accept-encoding, accept',
+544 silly get     'cf-cache-status': 'REVALIDATED',
+544 silly get     'x-amz-replication-status': 'COMPLETED',
+544 silly get     server: 'cloudflare',
+544 silly get     'content-encoding': 'gzip' } ]
+545 verbose get saving with to /home/eugen3199/.npm/registry.npmjs.org/with/.cache.json
+546 silly resolveWithNewModule doctypes@1.1.0 checking installable status
+547 silly cache add args [ 'doctypes@^1.1.0', null ]
+548 verbose cache add spec doctypes@^1.1.0
+549 silly cache add parsed spec Result {
+549 silly cache add   raw: 'doctypes@^1.1.0',
+549 silly cache add   scope: null,
+549 silly cache add   name: 'doctypes',
+549 silly cache add   rawSpec: '^1.1.0',
+549 silly cache add   spec: '>=1.1.0 <2.0.0',
+549 silly cache add   type: 'range' }
+550 silly addNamed doctypes@>=1.1.0 <2.0.0
+551 verbose addNamed ">=1.1.0 <2.0.0" is a valid semver range for doctypes
+552 silly addNameRange { name: 'doctypes', range: '>=1.1.0 <2.0.0', hasData: false }
+553 silly mapToRegistry name doctypes
+554 silly mapToRegistry using default registry
+555 silly mapToRegistry registry https://registry.npmjs.org/
+556 silly mapToRegistry uri https://registry.npmjs.org/doctypes
+557 verbose addNameRange registry:https://registry.npmjs.org/doctypes not in flight; fetching
+558 silly resolveWithNewModule pug-error@2.0.0 checking installable status
+559 silly cache add args [ 'pug-error@^2.0.0', null ]
+560 verbose cache add spec pug-error@^2.0.0
+561 silly cache add parsed spec Result {
+561 silly cache add   raw: 'pug-error@^2.0.0',
+561 silly cache add   scope: null,
+561 silly cache add   name: 'pug-error',
+561 silly cache add   rawSpec: '^2.0.0',
+561 silly cache add   spec: '>=2.0.0 <3.0.0',
+561 silly cache add   type: 'range' }
+562 silly addNamed pug-error@>=2.0.0 <3.0.0
+563 verbose addNamed ">=2.0.0 <3.0.0" is a valid semver range for pug-error
+564 silly addNameRange { name: 'pug-error', range: '>=2.0.0 <3.0.0', hasData: false }
+565 silly mapToRegistry name pug-error
+566 silly mapToRegistry using default registry
+567 silly mapToRegistry registry https://registry.npmjs.org/
+568 silly mapToRegistry uri https://registry.npmjs.org/pug-error
+569 verbose addNameRange registry:https://registry.npmjs.org/pug-error not in flight; fetching
+570 silly resolveWithNewModule with@7.0.2 checking installable status
+571 silly cache add args [ 'with@^7.0.0', null ]
+572 verbose cache add spec with@^7.0.0
+573 silly cache add parsed spec Result {
+573 silly cache add   raw: 'with@^7.0.0',
+573 silly cache add   scope: null,
+573 silly cache add   name: 'with',
+573 silly cache add   rawSpec: '^7.0.0',
+573 silly cache add   spec: '>=7.0.0 <8.0.0',
+573 silly cache add   type: 'range' }
+574 silly addNamed with@>=7.0.0 <8.0.0
+575 verbose addNamed ">=7.0.0 <8.0.0" is a valid semver range for with
+576 silly addNameRange { name: 'with', range: '>=7.0.0 <8.0.0', hasData: false }
+577 silly mapToRegistry name with
+578 silly mapToRegistry using default registry
+579 silly mapToRegistry registry https://registry.npmjs.org/
+580 silly mapToRegistry uri https://registry.npmjs.org/with
+581 verbose addNameRange registry:https://registry.npmjs.org/with not in flight; fetching
+582 verbose get https://registry.npmjs.org/doctypes not expired, no request
+583 silly addNameRange number 2 { name: 'doctypes', range: '>=1.1.0 <2.0.0', hasData: true }
+584 silly addNameRange versions [ 'doctypes', [ '1.0.0', '1.0.1', '1.1.0' ] ]
+585 silly addNamed doctypes@1.1.0
+586 verbose addNamed "1.1.0" is a plain semver version for doctypes
+587 verbose get https://registry.npmjs.org/pug-error not expired, no request
+588 silly addNameRange number 2 { name: 'pug-error', range: '>=2.0.0 <3.0.0', hasData: true }
+589 silly addNameRange versions [ 'pug-error',
+589 silly addNameRange   [ '0.0.0',
+589 silly addNameRange     '1.3.0',
+589 silly addNameRange     '1.3.1',
+589 silly addNameRange     '1.3.2',
+589 silly addNameRange     '1.3.3',
+589 silly addNameRange     '2.0.0-canary-1',
+589 silly addNameRange     '2.0.0-canary-2',
+589 silly addNameRange     '2.0.0',
+589 silly addNameRange     '2.1.0-canary-13' ] ]
+590 silly addNamed pug-error@2.0.0
+591 verbose addNamed "2.0.0" is a plain semver version for pug-error
+592 silly mapToRegistry name doctypes
+593 silly mapToRegistry using default registry
+594 silly mapToRegistry registry https://registry.npmjs.org/
+595 silly mapToRegistry uri https://registry.npmjs.org/doctypes
+596 verbose addRemoteTarball https://registry.npmjs.org/doctypes/-/doctypes-1.1.0.tgz not in flight; adding
+597 verbose addRemoteTarball [ 'https://registry.npmjs.org/doctypes/-/doctypes-1.1.0.tgz',
+597 verbose addRemoteTarball   'ea80b106a87538774e8a3a4a5afe293de489e0a9' ]
+598 silly mapToRegistry name pug-error
+599 silly mapToRegistry using default registry
+600 silly mapToRegistry registry https://registry.npmjs.org/
+601 silly mapToRegistry uri https://registry.npmjs.org/pug-error
+602 verbose addRemoteTarball https://registry.npmjs.org/pug-error/-/pug-error-2.0.0.tgz not in flight; adding
+603 verbose addRemoteTarball [ 'https://registry.npmjs.org/pug-error/-/pug-error-2.0.0.tgz',
+603 verbose addRemoteTarball   '5c62173cb09c34de2a2ce04f17b8adfec74d8ca5' ]
+604 verbose get https://registry.npmjs.org/with not expired, no request
+605 silly addNameRange number 2 { name: 'with', range: '>=7.0.0 <8.0.0', hasData: true }
+606 silly addNameRange versions [ 'with',
+606 silly addNameRange   [ '1.0.0',
+606 silly addNameRange     '1.0.1',
+606 silly addNameRange     '1.0.2',
+606 silly addNameRange     '1.0.3',
+606 silly addNameRange     '1.0.4',
+606 silly addNameRange     '1.1.0',
+606 silly addNameRange     '1.1.1',
+606 silly addNameRange     '2.0.0',
+606 silly addNameRange     '3.0.0',
+606 silly addNameRange     '3.0.1',
+606 silly addNameRange     '4.0.0',
+606 silly addNameRange     '4.0.1',
+606 silly addNameRange     '4.0.2',
+606 silly addNameRange     '4.0.3',
+606 silly addNameRange     '5.0.0',
+606 silly addNameRange     '5.0.1',
+606 silly addNameRange     '5.0.2',
+606 silly addNameRange     '5.1.0',
+606 silly addNameRange     '5.1.1',
+606 silly addNameRange     '6.0.0',
+606 silly addNameRange     '7.0.0-canary-1',
+606 silly addNameRange     '7.0.0',
+606 silly addNameRange     '7.0.1-canary-2',
+606 silly addNameRange     '7.0.1',
+606 silly addNameRange     '7.0.2-canary-3',
+606 silly addNameRange     '7.0.2' ] ]
+607 silly addNamed with@7.0.2
+608 verbose addNamed "7.0.2" is a plain semver version for with
+609 silly mapToRegistry name with
+610 silly mapToRegistry using default registry
+611 silly mapToRegistry registry https://registry.npmjs.org/
+612 silly mapToRegistry uri https://registry.npmjs.org/with
+613 verbose addRemoteTarball https://registry.npmjs.org/with/-/with-7.0.2.tgz not in flight; adding
+614 verbose addRemoteTarball [ 'https://registry.npmjs.org/with/-/with-7.0.2.tgz',
+614 verbose addRemoteTarball   'ccee3ad542d25538a7a7a80aad212b9828495bac' ]
+615 info retry fetch attempt 1 at 2:38:25 PM
+616 info attempt registry request try #1 at 2:38:25 PM
+617 http fetch GET https://registry.npmjs.org/doctypes/-/doctypes-1.1.0.tgz
+618 info retry fetch attempt 1 at 2:38:25 PM
+619 info attempt registry request try #1 at 2:38:25 PM
+620 http fetch GET https://registry.npmjs.org/pug-error/-/pug-error-2.0.0.tgz
+621 info retry fetch attempt 1 at 2:38:25 PM
+622 info attempt registry request try #1 at 2:38:25 PM
+623 http fetch GET https://registry.npmjs.org/with/-/with-7.0.2.tgz
+624 http fetch 200 https://registry.npmjs.org/doctypes/-/doctypes-1.1.0.tgz
+625 http fetch 200 https://registry.npmjs.org/pug-error/-/pug-error-2.0.0.tgz
+626 silly fetchAndShaCheck shasum ea80b106a87538774e8a3a4a5afe293de489e0a9
+627 silly fetchAndShaCheck shasum 5c62173cb09c34de2a2ce04f17b8adfec74d8ca5
+628 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/doctypes/-/doctypes-1.1.0.tgz not in flight; adding
+629 verbose addTmpTarball already have metadata; skipping unpack for doctypes@1.1.0
+630 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/pug-error/-/pug-error-2.0.0.tgz not in flight; adding
+631 verbose addTmpTarball already have metadata; skipping unpack for pug-error@2.0.0
+632 http fetch 200 https://registry.npmjs.org/with/-/with-7.0.2.tgz
+633 silly fetchAndShaCheck shasum ccee3ad542d25538a7a7a80aad212b9828495bac
+634 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/with/-/with-7.0.2.tgz not in flight; adding
+635 verbose addTmpTarball already have metadata; skipping unpack for with@7.0.2
+636 silly cache afterAdd doctypes@1.1.0
+637 verbose afterAdd /home/eugen3199/.npm/doctypes/1.1.0/package/package.json not in flight; writing
+638 silly cache afterAdd pug-error@2.0.0
+639 verbose afterAdd /home/eugen3199/.npm/pug-error/2.0.0/package/package.json not in flight; writing
+640 verbose afterAdd /home/eugen3199/.npm/pug-error/2.0.0/package/package.json written
+641 verbose afterAdd /home/eugen3199/.npm/doctypes/1.1.0/package/package.json written
+642 silly cache afterAdd with@7.0.2
+643 verbose afterAdd /home/eugen3199/.npm/with/7.0.2/package/package.json not in flight; writing
+644 verbose afterAdd /home/eugen3199/.npm/with/7.0.2/package/package.json written
+645 http 200 https://registry.npmjs.org/js-stringify
+646 verbose headers { date: 'Fri, 18 Nov 2022 08:08:26 GMT',
+646 verbose headers   'content-type': 'application/json',
+646 verbose headers   'transfer-encoding': 'chunked',
+646 verbose headers   connection: 'keep-alive',
+646 verbose headers   'cf-ray': '76bf37d53c5a4a77-SIN',
+646 verbose headers   'access-control-allow-origin': '*',
+646 verbose headers   'cache-control': 'public, max-age=300',
+646 verbose headers   etag: 'W/"5aa9ab0529baf5a769623e8c2fe27c2c"',
+646 verbose headers   'last-modified': 'Sun, 19 Jun 2022 05:44:11 GMT',
+646 verbose headers   vary: 'accept-encoding, accept',
+646 verbose headers   'cf-cache-status': 'REVALIDATED',
+646 verbose headers   'x-amz-replication-status': 'COMPLETED',
+646 verbose headers   server: 'cloudflare',
+646 verbose headers   'content-encoding': 'gzip' }
+647 silly get cb [ 200,
+647 silly get   { date: 'Fri, 18 Nov 2022 08:08:26 GMT',
+647 silly get     'content-type': 'application/json',
+647 silly get     'transfer-encoding': 'chunked',
+647 silly get     connection: 'keep-alive',
+647 silly get     'cf-ray': '76bf37d53c5a4a77-SIN',
+647 silly get     'access-control-allow-origin': '*',
+647 silly get     'cache-control': 'public, max-age=300',
+647 silly get     etag: 'W/"5aa9ab0529baf5a769623e8c2fe27c2c"',
+647 silly get     'last-modified': 'Sun, 19 Jun 2022 05:44:11 GMT',
+647 silly get     vary: 'accept-encoding, accept',
+647 silly get     'cf-cache-status': 'REVALIDATED',
+647 silly get     'x-amz-replication-status': 'COMPLETED',
+647 silly get     server: 'cloudflare',
+647 silly get     'content-encoding': 'gzip' } ]
+648 verbose get saving js-stringify to /home/eugen3199/.npm/registry.npmjs.org/js-stringify/.cache.json
+649 silly resolveWithNewModule js-stringify@1.0.2 checking installable status
+650 silly cache add args [ 'js-stringify@^1.0.2', null ]
+651 verbose cache add spec js-stringify@^1.0.2
+652 silly cache add parsed spec Result {
+652 silly cache add   raw: 'js-stringify@^1.0.2',
+652 silly cache add   scope: null,
+652 silly cache add   name: 'js-stringify',
+652 silly cache add   rawSpec: '^1.0.2',
+652 silly cache add   spec: '>=1.0.2 <2.0.0',
+652 silly cache add   type: 'range' }
+653 silly addNamed js-stringify@>=1.0.2 <2.0.0
+654 verbose addNamed ">=1.0.2 <2.0.0" is a valid semver range for js-stringify
+655 silly addNameRange { name: 'js-stringify', range: '>=1.0.2 <2.0.0', hasData: false }
+656 silly mapToRegistry name js-stringify
+657 silly mapToRegistry using default registry
+658 silly mapToRegistry registry https://registry.npmjs.org/
+659 silly mapToRegistry uri https://registry.npmjs.org/js-stringify
+660 verbose addNameRange registry:https://registry.npmjs.org/js-stringify not in flight; fetching
+661 verbose get https://registry.npmjs.org/js-stringify not expired, no request
+662 silly addNameRange number 2 { name: 'js-stringify', range: '>=1.0.2 <2.0.0', hasData: true }
+663 silly addNameRange versions [ 'js-stringify', [ '1.0.0', '1.0.1', '1.0.2' ] ]
+664 silly addNamed js-stringify@1.0.2
+665 verbose addNamed "1.0.2" is a plain semver version for js-stringify
+666 silly mapToRegistry name js-stringify
+667 silly mapToRegistry using default registry
+668 silly mapToRegistry registry https://registry.npmjs.org/
+669 silly mapToRegistry uri https://registry.npmjs.org/js-stringify
+670 verbose addRemoteTarball https://registry.npmjs.org/js-stringify/-/js-stringify-1.0.2.tgz not in flight; adding
+671 verbose addRemoteTarball [ 'https://registry.npmjs.org/js-stringify/-/js-stringify-1.0.2.tgz',
+671 verbose addRemoteTarball   '1736fddfd9724f28a3682adc6230ae7e4e9679db' ]
+672 http 200 https://registry.npmjs.org/pug-attrs
+673 verbose headers { date: 'Fri, 18 Nov 2022 08:08:26 GMT',
+673 verbose headers   'content-type': 'application/json',
+673 verbose headers   'transfer-encoding': 'chunked',
+673 verbose headers   connection: 'keep-alive',
+673 verbose headers   'cf-ray': '76bf37d5384b9e3a-SIN',
+673 verbose headers   'access-control-allow-origin': '*',
+673 verbose headers   'cache-control': 'public, max-age=300',
+673 verbose headers   etag: 'W/"64a237ac47d75a54edd6ee1e644b9c13"',
+673 verbose headers   'last-modified': 'Sat, 25 Jun 2022 00:00:24 GMT',
+673 verbose headers   vary: 'accept-encoding, accept',
+673 verbose headers   'cf-cache-status': 'REVALIDATED',
+673 verbose headers   'x-amz-replication-status': 'COMPLETED',
+673 verbose headers   server: 'cloudflare',
+673 verbose headers   'content-encoding': 'gzip' }
+674 silly get cb [ 200,
+674 silly get   { date: 'Fri, 18 Nov 2022 08:08:26 GMT',
+674 silly get     'content-type': 'application/json',
+674 silly get     'transfer-encoding': 'chunked',
+674 silly get     connection: 'keep-alive',
+674 silly get     'cf-ray': '76bf37d5384b9e3a-SIN',
+674 silly get     'access-control-allow-origin': '*',
+674 silly get     'cache-control': 'public, max-age=300',
+674 silly get     etag: 'W/"64a237ac47d75a54edd6ee1e644b9c13"',
+674 silly get     'last-modified': 'Sat, 25 Jun 2022 00:00:24 GMT',
+674 silly get     vary: 'accept-encoding, accept',
+674 silly get     'cf-cache-status': 'REVALIDATED',
+674 silly get     'x-amz-replication-status': 'COMPLETED',
+674 silly get     server: 'cloudflare',
+674 silly get     'content-encoding': 'gzip' } ]
+675 verbose get saving pug-attrs to /home/eugen3199/.npm/registry.npmjs.org/pug-attrs/.cache.json
+676 info retry fetch attempt 1 at 2:38:25 PM
+677 info attempt registry request try #1 at 2:38:25 PM
+678 http fetch GET https://registry.npmjs.org/js-stringify/-/js-stringify-1.0.2.tgz
+679 silly resolveWithNewModule pug-attrs@3.0.0 checking installable status
+680 silly cache add args [ 'pug-attrs@^3.0.0', null ]
+681 verbose cache add spec pug-attrs@^3.0.0
+682 silly cache add parsed spec Result {
+682 silly cache add   raw: 'pug-attrs@^3.0.0',
+682 silly cache add   scope: null,
+682 silly cache add   name: 'pug-attrs',
+682 silly cache add   rawSpec: '^3.0.0',
+682 silly cache add   spec: '>=3.0.0 <4.0.0',
+682 silly cache add   type: 'range' }
+683 silly addNamed pug-attrs@>=3.0.0 <4.0.0
+684 verbose addNamed ">=3.0.0 <4.0.0" is a valid semver range for pug-attrs
+685 silly addNameRange { name: 'pug-attrs', range: '>=3.0.0 <4.0.0', hasData: false }
+686 silly mapToRegistry name pug-attrs
+687 silly mapToRegistry using default registry
+688 silly mapToRegistry registry https://registry.npmjs.org/
+689 silly mapToRegistry uri https://registry.npmjs.org/pug-attrs
+690 verbose addNameRange registry:https://registry.npmjs.org/pug-attrs not in flight; fetching
+691 verbose get https://registry.npmjs.org/pug-attrs not expired, no request
+692 silly addNameRange number 2 { name: 'pug-attrs', range: '>=3.0.0 <4.0.0', hasData: true }
+693 silly addNameRange versions [ 'pug-attrs',
+693 silly addNameRange   [ '0.0.0',
+693 silly addNameRange     '0.0.1',
+693 silly addNameRange     '2.0.1',
+693 silly addNameRange     '2.0.2',
+693 silly addNameRange     '2.0.3',
+693 silly addNameRange     '2.0.4',
+693 silly addNameRange     '3.0.0-canary-1',
+693 silly addNameRange     '3.0.0-canary-2',
+693 silly addNameRange     '3.0.0' ] ]
+694 silly addNamed pug-attrs@3.0.0
+695 verbose addNamed "3.0.0" is a plain semver version for pug-attrs
+696 silly mapToRegistry name pug-attrs
+697 silly mapToRegistry using default registry
+698 silly mapToRegistry registry https://registry.npmjs.org/
+699 silly mapToRegistry uri https://registry.npmjs.org/pug-attrs
+700 verbose addRemoteTarball https://registry.npmjs.org/pug-attrs/-/pug-attrs-3.0.0.tgz not in flight; adding
+701 verbose addRemoteTarball [ 'https://registry.npmjs.org/pug-attrs/-/pug-attrs-3.0.0.tgz',
+701 verbose addRemoteTarball   'b10451e0348165e31fad1cc23ebddd9dc7347c41' ]
+702 http 200 https://registry.npmjs.org/constantinople
+703 verbose headers { date: 'Fri, 18 Nov 2022 08:08:26 GMT',
+703 verbose headers   'content-type': 'application/json',
+703 verbose headers   'transfer-encoding': 'chunked',
+703 verbose headers   connection: 'keep-alive',
+703 verbose headers   'cf-ray': '76bf37d549ea4ac0-SIN',
+703 verbose headers   'access-control-allow-origin': '*',
+703 verbose headers   'cache-control': 'public, max-age=300',
+703 verbose headers   etag: 'W/"570181962f9a6b148a7fcdc020a8925e"',
+703 verbose headers   'last-modified': 'Mon, 13 Jun 2022 22:13:15 GMT',
+703 verbose headers   vary: 'accept-encoding, accept',
+703 verbose headers   'cf-cache-status': 'REVALIDATED',
+703 verbose headers   'x-amz-replication-status': 'COMPLETED',
+703 verbose headers   server: 'cloudflare',
+703 verbose headers   'content-encoding': 'gzip' }
+704 silly get cb [ 200,
+704 silly get   { date: 'Fri, 18 Nov 2022 08:08:26 GMT',
+704 silly get     'content-type': 'application/json',
+704 silly get     'transfer-encoding': 'chunked',
+704 silly get     connection: 'keep-alive',
+704 silly get     'cf-ray': '76bf37d549ea4ac0-SIN',
+704 silly get     'access-control-allow-origin': '*',
+704 silly get     'cache-control': 'public, max-age=300',
+704 silly get     etag: 'W/"570181962f9a6b148a7fcdc020a8925e"',
+704 silly get     'last-modified': 'Mon, 13 Jun 2022 22:13:15 GMT',
+704 silly get     vary: 'accept-encoding, accept',
+704 silly get     'cf-cache-status': 'REVALIDATED',
+704 silly get     'x-amz-replication-status': 'COMPLETED',
+704 silly get     server: 'cloudflare',
+704 silly get     'content-encoding': 'gzip' } ]
+705 verbose get saving constantinople to /home/eugen3199/.npm/registry.npmjs.org/constantinople/.cache.json
+706 info retry fetch attempt 1 at 2:38:25 PM
+707 info attempt registry request try #1 at 2:38:25 PM
+708 http fetch GET https://registry.npmjs.org/pug-attrs/-/pug-attrs-3.0.0.tgz
+709 silly resolveWithNewModule constantinople@4.0.1 checking installable status
+710 silly cache add args [ 'constantinople@^4.0.1', null ]
+711 verbose cache add spec constantinople@^4.0.1
+712 silly cache add parsed spec Result {
+712 silly cache add   raw: 'constantinople@^4.0.1',
+712 silly cache add   scope: null,
+712 silly cache add   name: 'constantinople',
+712 silly cache add   rawSpec: '^4.0.1',
+712 silly cache add   spec: '>=4.0.1 <5.0.0',
+712 silly cache add   type: 'range' }
+713 silly addNamed constantinople@>=4.0.1 <5.0.0
+714 verbose addNamed ">=4.0.1 <5.0.0" is a valid semver range for constantinople
+715 silly addNameRange { name: 'constantinople',
+715 silly addNameRange   range: '>=4.0.1 <5.0.0',
+715 silly addNameRange   hasData: false }
+716 silly mapToRegistry name constantinople
+717 silly mapToRegistry using default registry
+718 silly mapToRegistry registry https://registry.npmjs.org/
+719 silly mapToRegistry uri https://registry.npmjs.org/constantinople
+720 verbose addNameRange registry:https://registry.npmjs.org/constantinople not in flight; fetching
+721 verbose get https://registry.npmjs.org/constantinople not expired, no request
+722 silly addNameRange number 2 { name: 'constantinople',
+722 silly addNameRange   range: '>=4.0.1 <5.0.0',
+722 silly addNameRange   hasData: true }
+723 silly addNameRange versions [ 'constantinople',
+723 silly addNameRange   [ '1.0.0',
+723 silly addNameRange     '1.0.1',
+723 silly addNameRange     '1.0.2',
+723 silly addNameRange     '2.0.0',
+723 silly addNameRange     '2.0.1',
+723 silly addNameRange     '3.0.0',
+723 silly addNameRange     '3.0.1',
+723 silly addNameRange     '3.0.2',
+723 silly addNameRange     '3.1.0',
+723 silly addNameRange     '3.1.1',
+723 silly addNameRange     '3.1.2',
+723 silly addNameRange     '4.0.0',
+723 silly addNameRange     '4.0.1' ] ]
+724 silly addNamed constantinople@4.0.1
+725 verbose addNamed "4.0.1" is a plain semver version for constantinople
+726 silly mapToRegistry name constantinople
+727 silly mapToRegistry using default registry
+728 silly mapToRegistry registry https://registry.npmjs.org/
+729 silly mapToRegistry uri https://registry.npmjs.org/constantinople
+730 verbose addRemoteTarball https://registry.npmjs.org/constantinople/-/constantinople-4.0.1.tgz not in flight; adding
+731 verbose addRemoteTarball [ 'https://registry.npmjs.org/constantinople/-/constantinople-4.0.1.tgz',
+731 verbose addRemoteTarball   '0def113fa0e4dc8de83331a5cf79c8b325213151' ]
+732 info retry fetch attempt 1 at 2:38:25 PM
+733 info attempt registry request try #1 at 2:38:25 PM
+734 http fetch GET https://registry.npmjs.org/constantinople/-/constantinople-4.0.1.tgz
+735 http fetch 200 https://registry.npmjs.org/js-stringify/-/js-stringify-1.0.2.tgz
+736 silly fetchAndShaCheck shasum 1736fddfd9724f28a3682adc6230ae7e4e9679db
+737 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/js-stringify/-/js-stringify-1.0.2.tgz not in flight; adding
+738 verbose addTmpTarball already have metadata; skipping unpack for js-stringify@1.0.2
+739 silly cache afterAdd js-stringify@1.0.2
+740 verbose afterAdd /home/eugen3199/.npm/js-stringify/1.0.2/package/package.json not in flight; writing
+741 verbose afterAdd /home/eugen3199/.npm/js-stringify/1.0.2/package/package.json written
+742 http fetch 200 https://registry.npmjs.org/pug-attrs/-/pug-attrs-3.0.0.tgz
+743 http fetch 200 https://registry.npmjs.org/constantinople/-/constantinople-4.0.1.tgz
+744 silly fetchAndShaCheck shasum b10451e0348165e31fad1cc23ebddd9dc7347c41
+745 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/pug-attrs/-/pug-attrs-3.0.0.tgz not in flight; adding
+746 verbose addTmpTarball already have metadata; skipping unpack for pug-attrs@3.0.0
+747 silly fetchAndShaCheck shasum 0def113fa0e4dc8de83331a5cf79c8b325213151
+748 verbose addTmpTarball /tmp/npm-31926-e414c259/registry.npmjs.org/constantinople/-/constantinople-4.0.1.tgz not in flight; adding
+749 verbose addTmpTarball already have metadata; skipping unpack for constantinople@4.0.1
+750 silly cache afterAdd pug-attrs@3.0.0
+751 verbose afterAdd /home/eugen3199/.npm/pug-attrs/3.0.0/package/package.json not in flight; writing
+752 silly cache afterAdd constantinople@4.0.1
+753 verbose afterAdd /home/eugen3199/.npm/constantinople/4.0.1/package/package.json not in flight; writing
+754 verbose afterAdd /home/eugen3199/.npm/pug-attrs/3.0.0/package/package.json written
+755 verbose afterAdd /home/eugen3199/.npm/constantinople/4.0.1/package/package.json written
+756 silly fetchNamedPackageData @babel/parser
+757 silly mapToRegistry name @babel/parser
+758 silly mapToRegistry scope (from package name) @babel
+759 verbose mapToRegistry no registry URL found in name for scope @babel
+760 silly mapToRegistry using default registry
+761 silly mapToRegistry registry https://registry.npmjs.org/
+762 silly mapToRegistry uri https://registry.npmjs.org/@babel%2fparser
+763 silly fetchNamedPackageData @babel/types
+764 silly mapToRegistry name @babel/types
+765 silly mapToRegistry scope (from package name) @babel
+766 verbose mapToRegistry no registry URL found in name for scope @babel
+767 silly mapToRegistry using default registry
+768 silly mapToRegistry registry https://registry.npmjs.org/
+769 silly mapToRegistry uri https://registry.npmjs.org/@babel%2ftypes
+770 verbose request uri https://registry.npmjs.org/@babel%2fparser
+771 verbose request no auth needed
+772 info attempt registry request try #1 at 2:38:26 PM
+773 http request GET https://registry.npmjs.org/@babel%2fparser
+774 verbose request uri https://registry.npmjs.org/@babel%2ftypes
+775 verbose request no auth needed
+776 info attempt registry request try #1 at 2:38:26 PM
+777 http request GET https://registry.npmjs.org/@babel%2ftypes
+778 http 200 https://registry.npmjs.org/@babel%2ftypes
+779 verbose headers { date: 'Fri, 18 Nov 2022 08:08:26 GMT',
+779 verbose headers   'content-type': 'application/json',
+779 verbose headers   'transfer-encoding': 'chunked',
+779 verbose headers   connection: 'keep-alive',
+779 verbose headers   'cf-ray': '76bf37dbd8524673-SIN',
+779 verbose headers   'access-control-allow-origin': '*',
+779 verbose headers   age: '179',
+779 verbose headers   'cache-control': 'public, max-age=300',
+779 verbose headers   etag: 'W/"b9569c9743f77352f94a2beaa98ee374"',
+779 verbose headers   'last-modified': 'Fri, 04 Nov 2022 18:51:05 GMT',
+779 verbose headers   vary: 'accept-encoding, accept',
+779 verbose headers   'cf-cache-status': 'HIT',
+779 verbose headers   'x-amz-replication-status': 'PENDING',
+779 verbose headers   server: 'cloudflare',
+779 verbose headers   'content-encoding': 'gzip' }
+780 silly get cb [ 200,
+780 silly get   { date: 'Fri, 18 Nov 2022 08:08:26 GMT',
+780 silly get     'content-type': 'application/json',
+780 silly get     'transfer-encoding': 'chunked',
+780 silly get     connection: 'keep-alive',
+780 silly get     'cf-ray': '76bf37dbd8524673-SIN',
+780 silly get     'access-control-allow-origin': '*',
+780 silly get     age: '179',
+780 silly get     'cache-control': 'public, max-age=300',
+780 silly get     etag: 'W/"b9569c9743f77352f94a2beaa98ee374"',
+780 silly get     'last-modified': 'Fri, 04 Nov 2022 18:51:05 GMT',
+780 silly get     vary: 'accept-encoding, accept',
+780 silly get     'cf-cache-status': 'HIT',
+780 silly get     'x-amz-replication-status': 'PENDING',
+780 silly get     server: 'cloudflare',
+780 silly get     'content-encoding': 'gzip' } ]
+781 verbose get saving @babel/types to /home/eugen3199/.npm/registry.npmjs.org/_40babel_252ftypes/.cache.json
+782 verbose stack Error: Missing required argument #1
+782 verbose stack     at andLogAndFinish (/usr/share/npm/lib/fetch-package-metadata.js:31:3)
+782 verbose stack     at fetchPackageMetadata (/usr/share/npm/lib/fetch-package-metadata.js:51:22)
+782 verbose stack     at resolveWithNewModule (/usr/share/npm/lib/install/deps.js:456:12)
+782 verbose stack     at /usr/share/npm/lib/install/deps.js:457:7
+782 verbose stack     at /usr/share/npm/node_modules/iferr/index.js:13:50
+782 verbose stack     at /usr/share/npm/lib/fetch-package-metadata.js:37:12
+782 verbose stack     at addRequestedAndFinish (/usr/share/npm/lib/fetch-package-metadata.js:82:5)
+782 verbose stack     at returnAndAddMetadata (/usr/share/npm/lib/fetch-package-metadata.js:117:7)
+782 verbose stack     at pickVersionFromRegistryDocument (/usr/share/npm/lib/fetch-package-metadata.js:134:20)
+782 verbose stack     at /usr/share/npm/node_modules/iferr/index.js:13:50
+783 verbose cwd /var/www/html/ivs
+784 error Linux 5.4.0-131-generic
+785 error argv "/usr/bin/node" "/usr/bin/npm" "install" "pug"
+786 error node v8.10.0
+787 error npm  v3.5.2
+788 error code EMISSINGARG
+789 error typeerror Error: Missing required argument #1
+789 error typeerror     at andLogAndFinish (/usr/share/npm/lib/fetch-package-metadata.js:31:3)
+789 error typeerror     at fetchPackageMetadata (/usr/share/npm/lib/fetch-package-metadata.js:51:22)
+789 error typeerror     at resolveWithNewModule (/usr/share/npm/lib/install/deps.js:456:12)
+789 error typeerror     at /usr/share/npm/lib/install/deps.js:457:7
+789 error typeerror     at /usr/share/npm/node_modules/iferr/index.js:13:50
+789 error typeerror     at /usr/share/npm/lib/fetch-package-metadata.js:37:12
+789 error typeerror     at addRequestedAndFinish (/usr/share/npm/lib/fetch-package-metadata.js:82:5)
+789 error typeerror     at returnAndAddMetadata (/usr/share/npm/lib/fetch-package-metadata.js:117:7)
+789 error typeerror     at pickVersionFromRegistryDocument (/usr/share/npm/lib/fetch-package-metadata.js:134:20)
+789 error typeerror     at /usr/share/npm/node_modules/iferr/index.js:13:50
+790 error typeerror This is an error with npm itself. Please report this error at:
+790 error typeerror     <http://github.com/npm/npm/issues>
+791 verbose exit [ 1, true ]
