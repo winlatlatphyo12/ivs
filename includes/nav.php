@@ -2,6 +2,7 @@
         <nav class="navbar navbar-fixed-top navbar-expand-lg px-4 px-lg-5" id="mainNav"> 
         
             <div class="container-fluid px-4 px-lg-5">
+        
             <img class="rounded-circle img-thumbnail" src="assets/img/IVS LOGO.png" alt="Mobirise Website Builder" style="height: 5rem;">
                         
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
