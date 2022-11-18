@@ -22,17 +22,22 @@
                             <!--  data-bs-toggle="collapse" data-bs-target="#main_nav"  aria-expanded="false" aria-label="Toggle navigation"  -->
                             <a class="nav-link  dropdown-toggle px-lg-3 py-4 py-lg-4" href="#" data-bs-toggle="dropdown">  Venture  </a>
                                 <ul class="dropdown-menu dropdown-menu-dark text-white bg-opacity-50 animated fadeInDown">
-                                    <li><a class="dropdown-item text-light" href="healthcare.php"> Health Care </a></li>
+                                    <li><a class="dropdown-item text-light" href="healthcare.php"> Healthcare </a></li>
                                     <li><a class="dropdown-item text-light" href="engineering.php"> Engineering </a></li>
                                     <li><a class="dropdown-item text-light" href="it.php"> IT </a></li>
                                     <li><a class="dropdown-item text-light" href="business.php"> Business </a></li>
                                     <li><a class="dropdown-item text-light" href="hotel&tourism.php"> Hotel & Tourism </a></li>
-                                    <li><a class="dropdown-item text-light" href="education.php"> Education </a></li>
                                     <li><a class="dropdown-item text-light" href="general.php">General</a></li>
                                 </ul>
                         </li>
-                       
+
                         <li class="nav-item">
+                        <a class="nav-link px-lg-4 py-3 py-lg-4" href="career.php">Activities</a>
+                       </li>
+                       <li class="nav-item">
+                        <a class="nav-link px-lg-4 py-3 py-lg-4" href="career.php">Facilities</a>
+                       </li>
+                       <li class="nav-item">
                              <a class="nav-link px-lg-3 py-4 py-lg-4" href="faq.php">FAQ</a>
                         </li>
                         <li class="nav-item">
@@ -40,7 +45,8 @@
                        </li>
                        <li class="nav-item">
                         <a class="nav-link px-lg-4 py-3 py-lg-4" href="career.php">Career</a>
-                   </li>
+                       </li>
+                      
                        <li class="nav-item">
                         <a class="nav-link px-lg-4 py-3 py-lg-4" href="contact.php">Contact Us</a>
                    </li>

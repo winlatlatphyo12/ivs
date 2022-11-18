@@ -5,7 +5,7 @@
 ?>
 
     <div class="container px-4 px-lg-5">
-      <div class="card p-3 mb-3" style="background-color: #ebab49;">
+      <div class="card p-3 mb-3 shadow">
         <div class="row gx-4 gx-lg-5 justify-content-center">
             <div class="col-sm-4 mb-4">
               
@@ -20,7 +20,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-end">
-                        <button type="submit" class="btn" style="background-color: #212759; color: #f19f21;"  name="detail">Details</button>
+                        <a href="healthcare.php"><button type="submit" class="btn btn-warning" name="detail">Details</button></a>
                     </div>
             </div>
         </div>
@@ -39,7 +39,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-end">
-                        <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                        <a href="engineering.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
                     </div>
             </div>
         </div>
@@ -58,7 +58,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-end">
-                        <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                        <a href="it.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
                     </div>
             </div>
         </div>
@@ -76,7 +76,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-end">
-                        <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                        <a href="business.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
                     </div>
             </div>
         </div>
@@ -94,7 +94,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-end">
-                        <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                        <a href="hotel&tourism.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
                     </div>
             </div>
         </div>
@@ -112,7 +112,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-end">
-                        <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                    <a href="education.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
                     </div>
             </div>
         </div>
@@ -130,7 +130,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-end">
-                        <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                        <a href="general.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
                     </div>
             </div>
         </div>

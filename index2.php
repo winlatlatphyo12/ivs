@@ -18,7 +18,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-end">
-                        <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                        <a href="healthcare.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
                     </div>
             </div>
         </div>
@@ -32,7 +32,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-start">
-                        <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                        <a href="engineering.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
                     </div>
             </div>
             <div class="col-sm-4 mb-4 text-end">
@@ -55,7 +55,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-end">
-                        <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                        <a href="it.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
                     </div>
             </div>
         </div>
@@ -69,7 +69,7 @@
                    officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                    veniam assumenda earum ad? </p>
                    <div  class="text-start">
-                       <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                    <a href="business.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
                    </div>
            </div>
            <div class="col-sm-4 mb-4 text-end">
@@ -92,7 +92,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-end">
-                        <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                    <a href="hotel&tourism.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button>
                     </div>
             </div>
         </div>
@@ -105,9 +105,9 @@
                    neque praesentium. Tenetur, ut, at nulla, nihil consequatur adipisci 
                    officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                    veniam assumenda earum ad? </p>
-                   <div  class="text-start">
-                       <button type="submit" class="btn btn-warning"  name="detail">Details</button>
-                   </div>
+                <div  class="text-start">
+                    <a href="education.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
+                </div>
            </div>
            <div class="col-sm-4 mb-4 text-end">
                <img class="img-fluid" alt="100x100" style="width:200px;height:200px;"
@@ -129,7 +129,7 @@
                     officia asperiores magnam mollitia cupiditate inventore. Quo corporis 
                     veniam assumenda earum ad? </p>
                     <div  class="text-end">
-                        <button type="submit" class="btn btn-warning"  name="detail">Details</button>
+                        <a href="general.php"><button type="submit" class="btn btn-warning"  name="detail">Details</button></a>
                     </div>
             </div>
         </div>

@@ -6,14 +6,15 @@
 
 
 
-    <div class="container p-4 px-lg-5" style="background-color: #f19f21;">
-        <div class="row gx-4 gx-lg-5 justify-content-center">
+    <div class="container p-4 px-lg-5">
+        <!-- <div class="row gx-4 gx-lg-5 justify-content-center">
             <div class="col-md-3 mb-4">
                 <img class="rounded-circle img-fluid" alt="100x100" 
                 src="assets/img/ivs7.jpg"
                 data-holder-rendered="true">
 
                 <h4 class="text-center my-5 h4">Health Care</h4>
+                
             </div>
             <div class="col-md-3 mb-4">
                 <img class="rounded-circle img-fluid" alt="100x100" 
@@ -60,7 +61,26 @@
 
                 <h4 class="text-center my-5 h4">General</h4>
             </div>
-        </div>
+        </div> -->
+
+        <div class="row gx-4 gx-lg-5">
+            <div class="col-md-6 mb-4">
+                <img class="rounded-circle img-fluid" alt="100x100" 
+                src="assets/img/ivs7.jpg"
+                data-holder-rendered="true">
+
+                <h4 class="text-center my-5 h4">Engineering</h4>
+            </div>
+            <div class="col-md-6 mb-4">
+                <img class="img-fluid" alt="100x100" 
+                src="assets/img/ivs7.jpg"
+                data-holder-rendered="true">
+
+                <h4 class="text-center my-5 h4">Engineering</h4>
+            </div>
+            
+
+
     </div>
    
 
