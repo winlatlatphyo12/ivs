@@ -82,7 +82,7 @@
 	    .navbar .nav-item:hover .nav-link{   }
 	    .navbar .nav-item:hover .dropdown-menu{
       display: block;
-      /* height: auto; */
+       height: auto; 
       visibility: visible;
       opacity: 1;
     }

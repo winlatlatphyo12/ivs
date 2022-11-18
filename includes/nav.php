@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
             <div class="container-fluid px-4 px-lg-5">
         
-            <img class="rounded-circle img-thumbnail" src="assets/img/bcslogo.jpg" alt="Mobirise Website Builder" style="height: 4rem;">
+            <img class="rounded-circle img-thumbnail" src="assets/img/bcslogo.jpg" alt="Mobirise Website Builder" style="height: 6rem;">
                         
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                             Menu
