@@ -3,7 +3,7 @@
         include "includes/header.php";
         include "includes/nav.php";
 ?>
-
+<div class="container-fluid p-0">
     <div class="container p-4 px-lg-5">
         <div class="row gx-4 gx-lg-5">
             <div class="col-md-6 mb-4">
@@ -40,6 +40,7 @@
                     </div>
                 </div>
             </div>
+    </div>
     </div>
         <?php
             include "includes/footer.php";
