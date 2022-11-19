@@ -2,8 +2,9 @@
   <footer class="border-top">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-9">
-                <h3><u> Contact Info</u></h3>
+            <div class="col-md-9 px-5">
+                <h3 class="d-sm-none d-md-block"><u> Contact Info</u></h3>
+                <h3 class="d-md-none d-sm-block text-center"><u> Contact Info</u></h3>
                 <br>
                 
                 <div class="row">
@@ -27,7 +28,10 @@
                     </div>                                
                 </div>
             </div>
-            <div class="col-3 text-center">
+
+            <div class="col-md-3 text-center">
+                <br class="d-md-none">
+                <br class="d-md-none">
                 <h3><u> Social Media </u></h3><br>
                 <span class="fa-stack fa-lg">
                     <i class="fas fa-circle fa-stack-2x"></i>

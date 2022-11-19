@@ -4,30 +4,43 @@
         include "includes/nav.php";
 ?>
 
-
-
     <div class="container p-4 px-lg-5">
         <div class="row gx-4 gx-lg-5">
             <div class="col-md-6 mb-4">
-                <img class="rounded-circle img-fluid" alt="100x100" 
-                src="assets/img/ivs7.jpg"
-                data-holder-rendered="true">
-
-                <h4 class="text-center my-5 h4">Engineering</h4>
+                <iframe class="w-100" src="hexagon.html" style="height:500px;"></iframe>
             </div>
             <div class="col-md-6 mb-4">
-                <img class="img-fluid" alt="100x100" 
-                src="assets/img/ivs7.jpg"
-                data-holder-rendered="true">
-
-                <h4 class="text-center my-5 h4">Engineering</h4>
+                <div class="bg-primary w-100 h-100">
+                    Hello
+                </div>
             </div>
-            
+            <div class="col-md-12 mb-4">
+                <hr>
+                <br>
+                <div class="row">
+                    <div class="col-md-3 mb-4">
+                        <img class="rounded-circle img-fluid mx-3" alt="100x100" src="assets/img/ivs7.jpg" data-holder-rendered="true" style="width: 175px;">
 
+                        <h4 class="text-center my-5 h5">Engineering</h4>
+                    </div>
+                    <div class="col-md-3 mb-4">
+                        <img class="rounded-circle img-fluid mx-3" alt="100x100" src="assets/img/ivs7.jpg" data-holder-rendered="true" style="width: 175px;">
 
+                        <h4 class="text-center my-5 h5">Engineering</h4>
+                    </div>
+                    <div class="col-md-3 mb-4">
+                        <img class="rounded-circle img-fluid mx-3" alt="100x100" src="assets/img/ivs7.jpg" data-holder-rendered="true" style="width: 175px;">
+
+                        <h4 class="text-center my-5 h5">Engineering</h4>
+                    </div>
+                    <div class="col-md-3 mb-4">
+                        <img class="rounded-circle img-fluid mx-3" alt="100x100" src="assets/img/ivs7.jpg" data-holder-rendered="true" style="width: 175px;">
+
+                        <h4 class="text-center my-5 h5">Engineering</h4>
+                    </div>
+                </div>
+            </div>
     </div>
-   
-
         <?php
             include "includes/footer.php";
         ?>
