@@ -1,5 +1,5 @@
   <!-- Footer-->
-  <footer class="border-top">
+  <footer class="border-top bg-primary text-light">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-9 px-5">
@@ -18,7 +18,7 @@
                         <p class="my-2"><i class="fa fa-phone" aria-hidden="true"></i></p>
                     </div>
                     <div class="col-11">
-                        <p class="my-2"> +959 9777 487333​ </p>
+                        <p class="my-2"> +959 9777 487333</p>
                     </div>                                
                     <div class="col-1">
                         <p class="my-2"><i class="fa fa-map-marker" aria-hidden="true"></i></p>
@@ -29,10 +29,10 @@
                 </div>
             </div>
 
-            <div class="col-md-3 text-center">
+            <div class="col-md-3 text-center text-dark">
                 <br class="d-md-none">
                 <br class="d-md-none">
-                <h3><u> Social Media </u></h3><br>
+                <h3 class="text-light"><u> Social Media </u></h3><br>
                 <span class="fa-stack fa-lg">
                     <i class="fas fa-circle fa-stack-2x"></i>
                     <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
@@ -48,9 +48,9 @@
                 <br>
                 <br>
                 <br>
-                <button type="submit" class="btn btn-warning" name="contact"> Contact us </button>
+                <button type="submit" class="btn btn-secondary text-light" name="contact"> Contact us </button>
             </div>
-            <div class="col-12 small text-center text-muted fst-italic mt-5"> Powered By KBTC. <a href="https://kbtc.edu.mm/" class="link-primary text-decoration-underline">See More Info</a></div>
+            <div class="col-12 small text-center text-light fst-italic mt-5"> Powered By KBTC. <a href="https://kbtc.edu.mm/" class="link-primary text-decoration-underline">See More Info</a></div>
         </div>
     </div>
 </footer>
