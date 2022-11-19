@@ -7,12 +7,12 @@
     <div class="container p-4 px-lg-5">
         <div class="row gx-4 gx-lg-5">
             <div class="col-md-6 mb-4">
+                <h3 class="text-center">Our Venture</h3>
                 <iframe class="w-100" src="hexagon.html" style="height:500px;"></iframe>
             </div>
-            <div class="col-md-6 mb-4">
-                <div class="bg-primary w-100 h-100">
-                    Hello
-                </div>
+            <div class="col-md-6 mb-4 py-auto">
+                <h3 class="text-center">Industry Programs</h3>
+                <img src="assets/img/industry.JPG" class="border border-secondary">
             </div>
             <div class="col-md-12 mb-4">
                 <hr>

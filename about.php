@@ -9,7 +9,7 @@
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                 
                     <div class="col-md-12">
-                       <h2 class="text-center"> What is IVS?</h2>
+                       <h2><u> What is IVS?</u></h2>
                     </div>
                 </div>
                 <br>
