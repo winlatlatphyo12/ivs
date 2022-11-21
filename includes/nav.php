@@ -22,10 +22,10 @@
                         </li>
 
                         <li class="nav-item">
-                        <a class="nav-link px-lg-4 py-3 py-lg-4  text-center" href="career.php">Activities</a>
+                        <a class="nav-link px-lg-4 py-3 py-lg-4  text-center" href="activities.php">Activities</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-lg-4 py-3 py-lg-4  text-center" href="career.php">Facilities</a>
+                            <a class="nav-link px-lg-4 py-3 py-lg-4  text-center" href="facilities.php">Facilities</a>
                         </li>
                         <li class="nav-item">
                              <a class="nav-link px-lg-3 py-4 py-lg-4  text-center" href="faq.php">FAQ</a>
