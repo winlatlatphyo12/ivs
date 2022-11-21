@@ -93,7 +93,7 @@
   transition: 0.5s linear;
 }
 .nav-link:hover{
-  background: #212529;
+  background: #212759;
 }
 
 
@@ -3918,7 +3918,7 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #212529;
+  color: #212759;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -3927,7 +3927,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #0085A1;
+  color: #f19f21;
 }
 .nav-link.disabled {
   color: #6c757d;

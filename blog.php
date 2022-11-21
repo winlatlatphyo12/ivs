@@ -7,11 +7,27 @@
         <main class="mb-4">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
-                <h2 class="text-center"> Our Blog </h2>
-                    <div class="col-md-10 col-lg-8 col-xl-7">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur magnam, excepturi aliquid ex itaque esse est vero natus quae optio aperiam soluta voluptatibus corporis atque iste neque sit tempora!</p>
+                <h2 class="text-center"> IVS Blog </h2>
+                    <div class="col-md-12">
+                        <div class="row gx-4 gx-lg-5" align="center">
+                            <div class="col-8 p-2" align="left">
+                                <h4> Halloween Party</h4>
+                                <br>
+                                <p class="text-truncate"> 🎃ISR International School ရဲ့ Halloween Party မှာ ကျောင်းသား၊ ကျောင်းသူများ၊ ဝန်ထမ်းများနှင့် ဆရာ၊ဆရာမများအားလုံး ပျော်ရွှင်စွာပါဝင်ဆင်နွှဲခဲ့ကြပြီး ကျောင်းသား၊ ကျောင်းသူများရဲ့ Talent Show အစီအစဉ်များကို ဒီ video လေးမှာ ခံစားကြည့်ရှုနိုင်ပါတယ်။ 
+                                🥰ISR International School မှ ဦးစီးကျင်းပပေးခဲ့တဲ့  Halloween Party လေးမှာ ကျောင်းသားကျောင်းသူများအားလုံး စိတ်ကျေနပ်ပျော်ရွှင်ကြလိမ့်မယ်လို့ မျှော်လင့်ပါတယ်။ 
+                                🙆‍♀️Halloween Party လေးမှာ ဝင်ရောက်ဆင်နွှဲခဲ့ကြတဲ့ ကျောင်းသား၊ ကျောင်းသူများ၊ ဆရာ၊ ဆရာမများနဲ့ ဝိုင်းဝန်းကူညီ‌ပေးခဲ့ကြတဲ့ ဝန်ထမ်းများအားလုံးကို ISR International School မှ ကျေးဇူးအထူးတင်ရှိပါတယ်။  </p>
+                                    <div  class="text-start">
+                                        <a href="halloween.php"><button type="submit" class="btn btn-primary cid-t7Frp8J8zF px-3 py-2"  name="detail">Details</button></a>
+                                    </div>
+                            </div>
+                            <div class="col text-end px-auto">
+                                <img class="img-fluid" alt="100x100" style="width:200px;"
+                                src="assets/img/hex-1.jpg"
+                                data-holder-rendered="true">
+                            </div>
+                        </div>
+                        <hr>
+                        <br>
                     </div>
                 </div>
             </div>

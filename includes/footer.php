@@ -1,5 +1,5 @@
   <!-- Footer-->
-  <footer class="border-top bg-primary text-light">
+  <footer class="border-top bg-primary text-secondary">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-9 px-5">
@@ -29,10 +29,10 @@
                 </div>
             </div>
 
-            <div class="col-md-3 text-center text-dark">
+            <div class="col-md-3 text-center text-secondary">
                 <br class="d-md-none">
                 <br class="d-md-none">
-                <h3 class="text-light"><u> Social Media </u></h3><br>
+                <h3 class="text-secondary"><u> Social Media </u></h3><br>
                 <span class="fa-stack fa-lg">
                     <i class="fas fa-circle fa-stack-2x"></i>
                     <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
@@ -48,9 +48,9 @@
                 <br>
                 <br>
                 <br>
-                <button type="submit" class="btn btn-secondary text-light" name="contact"> Contact us </button>
+                <a href="contact.php"><button type="submit" class="btn btn-secondary text-light" name="contact"> Contact us </button></a>
             </div>
-            <div class="col-12 small text-center text-light fst-italic mt-5"> Powered By KBTC. <a href="https://kbtc.edu.mm/" class="link-primary text-decoration-underline">See More Info</a></div>
+            <div class="col-12 small text-center text-secondary fst-italic mt-5"> Powered By KBTC. <a href="https://kbtc.edu.mm/" class="link-primary text-decoration-underline">See More Info</a></div>
         </div>
     </div>
 </footer>

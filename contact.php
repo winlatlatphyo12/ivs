@@ -8,8 +8,8 @@
         <main class="mb-4">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-md-10 col-lg-8 col-xl-7">
-                        <p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible!</p>
+                    <div class="col-md-10 col-lg-8 col-xl-7 shadow py-3">
+                        <h2>Send us a message!</h2>
                         <div class="my-5">
                             <!-- * * * * * * * * * * * * * * *-->
                             <!-- * * SB Forms Contact Form * *-->
@@ -59,7 +59,7 @@
                                 <!-- an error submitting the form-->
                                 <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
                                 <!-- Submit Button-->
-                                <button class="btn btn-warning text-uppercase disabled" id="submitButton" type="submit">Send</button>
+                                <button class="btn btn-warning text-uppercase" id="submitButton" type="submit">Send</button>
                             </form>
                         </div>
                     </div>
