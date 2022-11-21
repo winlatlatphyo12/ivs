@@ -12,8 +12,42 @@
                         <div class="row gx-4 gx-lg-5" align="center">
                             <div class="col-8 p-2" align="left">
                                 <h4> Blog Post 1</h4>
-                                <br>
                                 <p class="text-truncate">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
+                                <br>
+                                <div  class="text-start">
+                                    <a href="halloween.php"><button type="submit" class="btn btn-primary px-3 py-2"  name="detail">Details</button></a>
+                                </div>
+                            </div>
+                            <div class="col text-end py-auto">
+                                <img class="img-fluid" alt="100x100"
+                                src="assets/img/hex-1.jpg"
+                                data-holder-rendered="true">
+                            </div>
+                        </div>
+                        <hr>
+                        <br>
+                        <div class="row gx-4 gx-lg-5" align="center">
+                            <div class="col-8 p-2" align="left">
+                                <h4> Blog Post 2</h4>
+                                <p class="text-truncate">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
+                                <br>
+                                <div  class="text-start">
+                                    <a href="halloween.php"><button type="submit" class="btn btn-primary px-3 py-2"  name="detail">Details</button></a>
+                                </div>
+                            </div>
+                            <div class="col text-end py-auto">
+                                <img class="img-fluid" alt="100x100"
+                                src="assets/img/hex-1.jpg"
+                                data-holder-rendered="true">
+                            </div>
+                        </div>
+                        <hr>
+                        <br>
+                        <div class="row gx-4 gx-lg-5" align="center">
+                            <div class="col-8 p-2" align="left">
+                                <h4> Blog Post 3</h4>
+                                <p class="text-truncate">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
+                                <br>
                                     <div  class="text-start">
                                         <a href="halloween.php"><button type="submit" class="btn btn-primary px-3 py-2"  name="detail">Details</button></a>
                                     </div>
@@ -28,43 +62,9 @@
                         <br>
                         <div class="row gx-4 gx-lg-5" align="center">
                             <div class="col-8 p-2" align="left">
-                                <h4> Blog Post 1</h4>
-                                <br>
+                                <h4> Blog Post 4</h4>
                                 <p class="text-truncate">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
-                                    <div  class="text-start">
-                                        <a href="halloween.php"><button type="submit" class="btn btn-primary px-3 py-2"  name="detail">Details</button></a>
-                                    </div>
-                            </div>
-                            <div class="col text-end py-auto">
-                                <img class="img-fluid" alt="100x100"
-                                src="assets/img/hex-1.jpg"
-                                data-holder-rendered="true">
-                            </div>
-                        </div>
-                        <hr>
-                        <br>
-                        <div class="row gx-4 gx-lg-5" align="center">
-                            <div class="col-8 p-2" align="left">
-                                <h4> Blog Post 1</h4>
                                 <br>
-                                <p class="text-truncate">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
-                                    <div  class="text-start">
-                                        <a href="halloween.php"><button type="submit" class="btn btn-primary px-3 py-2"  name="detail">Details</button></a>
-                                    </div>
-                            </div>
-                            <div class="col text-end py-auto">
-                                <img class="img-fluid" alt="100x100"
-                                src="assets/img/hex-1.jpg"
-                                data-holder-rendered="true">
-                            </div>
-                        </div>
-                        <hr>
-                        <br>
-                        <div class="row gx-4 gx-lg-5" align="center">
-                            <div class="col-8 p-2" align="left">
-                                <h4> Blog Post 1</h4>
-                                <br>
-                                <p class="text-truncate">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
                                     <div  class="text-start">
                                         <a href="halloween.php"><button type="submit" class="btn btn-primary px-3 py-2"  name="detail">Details</button></a>
                                     </div>
