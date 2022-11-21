@@ -34,16 +34,22 @@
                 <br class="d-md-none">
                 <h3 class="text-secondary"><u> Social Media </u></h3><br>
                 <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+                    <a href="https://www.youtube.com/@ivs-mm" class="text-secondary">
+                        <i class="fas fa-circle fa-stack-2x"></i>
+                        <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+                    </a>
                 </span>
                 <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                    <a href="https://www.facebook.com/ivsmm​" class="text-secondary">
+                        <i class="fas fa-circle fa-stack-2x"></i>
+                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                    </a>
                 </span>
                 <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                    <a href="https://www.linkedin.com/company/ivsmm" class="text-secondary">
+                        <i class="fas fa-circle fa-stack-2x"></i>
+                        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                    </a>
                 </span>
                 <br>
                 <br>
