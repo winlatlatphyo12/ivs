@@ -25,26 +25,26 @@
                 <div class="row">
                     <div class="col-md-3 col-6 mb-4">
                         <div class="container">
-                            <img class="rounded-circle img-fluid" alt="200x200" src="assets/img/ivs7.jpg" data-holder-rendered="true"  align="center">
-                            <h4 class="text-center my-5 h5 text-primary">Engineering</h4>
+                            <img class="rounded-circle img-fluid" alt="200x200" src="assets/img/ivs/square.jpg" data-holder-rendered="true"  align="center">
+                            <h4 class="text-center my-5 h5 text-primary">Partner 1</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-6 mb-4">
                         <div class="container">
-                            <img class="rounded-circle img-fluid" alt="200x200" src="assets/img/ivs7.jpg" data-holder-rendered="true" align="center">
-                            <h4 class="text-center my-5 h5 text-primary">Engineering</h4>
+                            <img class="rounded-circle img-fluid" alt="200x200" src="assets/img/ivs/square.jpg" data-holder-rendered="true" align="center">
+                            <h4 class="text-center my-5 h5 text-primary">Partner 2</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-6 mb-4">
                         <div class="container">
-                            <img class="rounded-circle img-fluid" alt="200x200" src="assets/img/ivs7.jpg" data-holder-rendered="true" align="center">
-                            <h4 class="text-center my-5 h5 text-primary">Engineering</h4>
+                            <img class="rounded-circle img-fluid" alt="200x200" src="assets/img/ivs/square.jpg" data-holder-rendered="true" align="center">
+                            <h4 class="text-center my-5 h5 text-primary">Partner 3</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-6 mb-4">
                         <div class="container">
-                            <img class="rounded-circle img-fluid" alt="200x200" src="assets/img/ivs7.jpg" data-holder-rendered="true" align="center">
-                            <h4 class="text-center my-5 h5 text-primary">Engineering</h4>
+                            <img class="rounded-circle img-fluid" alt="200x200" src="assets/img/ivs/square.jpg" data-holder-rendered="true" align="center">
+                            <h4 class="text-center my-5 h5 text-primary">Partner 4</h4>
                         </div>
                     </div>
                 </div>

@@ -12,7 +12,7 @@
                     <div class="middle">
                         <h2 class="mb-4 text-center"><strong>Venture: Education</strong></h2>
                         <div class="container-fluid">
-                            <img class="img-fluid" src="assets/img/hex-5.jpg" alt="hex-1.jpg">
+                            <img class="img-fluid" src="assets/img/ivs/venture.jpg" alt="hex-1.jpg">
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!</p>

@@ -7,7 +7,7 @@
         <main class="mb-4">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
-                <h2 class="text-center mb-5"> IVS Blog </h2>
+                <h2 class="text-center mb-5"><u> IVS Blog </u></h2>
                     <div class="col-md-12">
                         <div class="row gx-4 gx-lg-5" align="center">
                             <div class="col-8 p-2" align="left">
@@ -20,7 +20,7 @@
                             </div>
                             <div class="col text-end py-auto">
                                 <img class="img-fluid" alt="100x100"
-                                src="assets/img/hex-1.jpg"
+                                src="assets/img/ivs/square.jpg"
                                 data-holder-rendered="true">
                             </div>
                         </div>
@@ -37,7 +37,7 @@
                             </div>
                             <div class="col text-end py-auto">
                                 <img class="img-fluid" alt="100x100"
-                                src="assets/img/hex-1.jpg"
+                                src="assets/img/ivs/square.jpg"
                                 data-holder-rendered="true">
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                             </div>
                             <div class="col text-end py-auto">
                                 <img class="img-fluid" alt="100x100"
-                                src="assets/img/hex-1.jpg"
+                                src="assets/img/ivs/square.jpg"
                                 data-holder-rendered="true">
                             </div>
                         </div>
@@ -71,7 +71,7 @@
                             </div>
                             <div class="col text-end py-auto">
                                 <img class="img-fluid" alt="100x100"
-                                src="assets/img/hex-1.jpg"
+                                src="assets/img/ivs/square.jpg"
                                 data-holder-rendered="true">
                             </div>
                         </div>
