@@ -6,16 +6,19 @@
 <div class="container-fluid p-0">
     <div class="container p-4 px-lg-5">
         <div class="row gx-4 gx-lg-5">
-            <div class="col-md-6 mb-4">
-                <h3 class="text-center text-primary"><u>Our Ventures</u></h3>
+            <div class="col-md-12 mb-4 text-center">
+                <h3 class="text-primary"><u>IVS Ventures</u></h3>
                 <iframe class="w-100" src="hexagon.html" style="height:500px;"></iframe>
                 <hr class="d-md-none">
             </div>
-            <div class="col-md-6 mb-4 py-auto">
-                <h3 class="text-center text-primary"><u>Industry Programs</u></h3>
+            <hr>
+            <br>
+            <div class="col-md-12 mb-4 text-center">
+                <h3 class="text-primary"><u>Industry Programs</u></h3>
                 <br>
                 <img class="img-fluid" src="assets/img/industry.JPG">
             </div>
+            
             <div class="col-md-12 mb-4">
                 <hr>
                 <br>
