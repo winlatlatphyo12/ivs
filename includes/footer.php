@@ -59,21 +59,22 @@
             <div class="col-md-2 px-5">
                 <h3 class="d-sm-none d-md-block fs-5"><u> Links</u></h3>
                 <h3 class="d-md-none d-sm-block text-center"><u> Links</u></h3>
-                    <div class="row mt-4">
-                        <div class="col-12">
-                            <p class="my-2 fs-6"><a href="index.php" class="text-light"> Home </a></p>
-                        </div>
-                        <div class="col-12">
-                            <p class="my-2 fs-6"><a href="activities.php" class="text-light"> Activities </a></p>
-                        </div>
-                        <div class="col-12">
-                            <p class="my-2 fs-6"><a href="about.php" class="text-light"> About IVS </a></p>
-                        </div>
-                        <div class="col-12">
-                            <p class="my-2 fs-6"><a href="contact.php" class="text-light"> Contact Us </a></p>
-                        </div>
-                        
+                <br>
+                <div class="row mt-0">
+                    <div class="col-12">
+                        <p class="my-2 fs-6"><a href="index.php" class="text-light"> Home </a></p>
                     </div>
+                    <div class="col-12">
+                        <p class="my-2 fs-6"><a href="activities.php" class="text-light"> Activities </a></p>
+                    </div>
+                    <div class="col-12">
+                        <p class="my-2 fs-6"><a href="about.php" class="text-light"> About IVS </a></p>
+                    </div>
+                    <div class="col-12">
+                        <p class="my-2 fs-6"><a href="contact.php" class="text-light"> Contact Us </a></p>
+                    </div>
+                    
+                </div>
             </div>
 
 
@@ -112,8 +113,8 @@
         
         <!-- <div class="col-sm-12 copyright fst-italic text-end"> Powered By KBTC. <a href="https://kbtc.edu.mm/" class="link-primary text-decoration-underline">See More Info</a>
             </div> -->
-            <div class="col-sm-12 copyright fst-italic text-center mt-3">
-                <p class="h6 mbr-text mbr-fonts-style mbr-white text-muted">
+            <div class="col-sm-12 copyright fst-italic text-center mt-3 text-secondary">
+                <p class="h6 mbr-text mbr-fonts-style mbr-white">
                     © 2022 Copyright Institute of Vocational Studies
                 </p>
             </div>
