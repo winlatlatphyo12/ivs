@@ -3,10 +3,12 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="assets/img/ivsicon.ico" type="image/x-icon">
         <meta name="description" content="" />
         <meta name="author" content="" />
+        
         <title>Institute of Vocational Studies</title>
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/ivsicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
