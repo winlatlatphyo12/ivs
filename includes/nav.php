@@ -12,12 +12,12 @@
                         <li class="nav-item dropdown"> 
                             <a class="nav-link  dropdown-toggle px-lg-3 py-4 py-lg-4 text-center" href="#" data-bs-toggle="dropdown">  Venture  </a>
                             <ul class="dropdown-menu dropdown-menu-dark text-secondary bg-opacity-50 animated fadeInDown">
-                                <li><a class="dropdown-item text-light" href="healthcare.php"> HEALTHCARE </a></li>
-                                <li><a class="dropdown-item text-light" href="engineering.php"> ENGINEERING </a></li>
-                                <li><a class="dropdown-item text-light" href="it.php"> IT </a></li>
                                 <li><a class="dropdown-item text-light" href="business.php"> BUSINESS </a></li>
-                                <li><a class="dropdown-item text-light" href="hotel&tourism.php"> HOTEL & TOURISM </a></li>
+                                <li><a class="dropdown-item text-light" href="engineering.php"> ENGINEERING </a></li>
                                 <li><a class="dropdown-item text-light" href="general.php">GENERAL</a></li>
+                                <li><a class="dropdown-item text-light" href="healthcare.php"> HEALTHCARE </a></li>
+                                <li><a class="dropdown-item text-light" href="hotel&tourism.php"> HOTEL & TOURISM </a></li>
+                                <li><a class="dropdown-item text-light" href="it.php"> IT </a></li>
                             </ul>
                         </li>
 
