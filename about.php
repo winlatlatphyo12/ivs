@@ -9,18 +9,30 @@
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                 
                     <div class="col-md-12">
-                       <h2><u> What is IVS?</u></h2>
+                       <h3><u> What is IVS?</u></h3>
                     </div>
                 </div>
                 <br>
                 <div class="row gx-4 gx-lg-5">
-                    <h3> Vision</h3><br>
-                        <p>Strive to be the best provider of non-formal education provider in Myanmar​.<br>Endeavour to be the provider of international standard workforce to local and international industries.​</p>
-                
+                    <div class="col-md-3">
+                        <img class="img-fluid w-75" alt="100x100" src="assets/img/vision.JPG" 
+                        data-holder-rendered="true">
+                    </div>
+                    <div class="col-md-9">
+                        <h4> Vision</h4>
+                            <p>Strive to be the best provider of non-formal education provider in Myanmar​.<br>Endeavour to be the provider of international standard workforce to local and international industries.​</p>
+                    </div>
                 </div>
+                <hr>
                 <div class="row gx-4 gx-lg-5">
-                    <h3> Mission</h3><br>
-                        <p>Provide excellent vocational education to local work force​.​<br>Provide skilled workers to the local and international companies via partnership, internship, and collaboration.​
+                    <div class="col-md-3">
+                            <img class="img-fluid w-75" alt="100x100" src="assets/img/mission.JPG"
+                            data-holder-rendered="true">
+                        </div>
+                    <div class="col-md-9">
+                        <h4> Mission</h4>
+                            <p>Provide excellent vocational education to local work force​.​<br>Provide skilled workers to the local and international companies via partnership, internship, and collaboration.​
+                    </div>
                 </div>
         </main>
 
