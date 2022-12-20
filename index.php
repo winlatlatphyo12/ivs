@@ -13,11 +13,7 @@
             </div>
             <hr>
             <br>
-            <div class="col-md-12 mb-4 text-center">
-                <h3 class="text-primary"><u>Industry Programs</u></h3>
-                <br>
-                <img class="img-fluid" src="assets/img/industry.JPG">
-            </div>
+           
             
             <div class="col-md-12 mb-4">
                 <hr>

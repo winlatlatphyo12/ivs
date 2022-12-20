@@ -102,8 +102,8 @@
                 </span>
                 <br>
                 <br>
-                <div class="col-sm-12 copyright fst-italic text-center fs-6 text-light"> Powered By KBTC. <a href="https://kbtc.edu.mm/" class="link-primary text-decoration-underline text-secondary">See More Info</a>
-                </div>
+                <!-- <div class="col-sm-12 copyright fst-italic text-center fs-6 text-light"> Powered By KBTC. <a href="https://kbtc.edu.mm/" class="link-primary text-decoration-underline text-secondary">See More Info</a>
+                </div> -->
                 <br>
                 <br>
                 <br>
@@ -115,7 +115,7 @@
             </div> -->
             <div class="col-sm-12 copyright fst-italic text-center mt-3 text-secondary">
                 <p class="h6 mbr-text mbr-fonts-style mbr-white">
-                    © 2022 Copyright Institute of Vocational Studies
+                    © Copyright 2022 Institute of Vocational Studies
                 </p>
             </div>
             
