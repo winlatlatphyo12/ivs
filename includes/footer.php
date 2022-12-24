@@ -1,5 +1,5 @@
   <!-- Footer-->
-  <footer class="border-top bg-primary text-secondary">
+  <footer class="border-top bg-dark text-light">
     <div class="container-fluid">
         <div class="row">
             <!-- <div class="col-md-9 px-5">
@@ -30,8 +30,8 @@
             </div> -->
             
             <div class="col-md-6 px-5">
-                <h3 class="d-sm-none d-md-block fs-5"><u> Contact Info</u></h3>
-                <h3 class="d-md-none d-sm-block text-center" style="width: 20px; height: 20px;"><u> Contact Info</u></h3>
+                <h5 class="d-sm-none d-md-block fs-5"> Contact Info</h5>
+                <h5 class="d-md-none d-sm-block text-center" style="width: 20px; height: 20px;"><u> Contact Info</u></h5>
                 <br>
         
                 <div class="row text-light mt-0">
@@ -57,7 +57,7 @@
             </div>
 
             <div class="col-md-2 px-5">
-                <h3 class="d-sm-none d-md-block fs-5"><u> Links</u></h3>
+                <h3 class="d-sm-none d-md-block fs-5"> Links</h3>
                 <h3 class="d-md-none d-sm-block text-center"><u> Links</u></h3>
                 <br>
                 <div class="row mt-0">
@@ -81,7 +81,7 @@
             <div class="col-md-4 text-center text-secondary">
                 <br class="d-md-none">
                 <br class="d-md-none">
-                <h3 class="text-secondary fs-5"><u> Follow us on </u></h3><br>
+                <h3 class="text-light fs-5"> Follow us on </h3><br>
                 <span class="fa-stack fa-lg mt-4">
                     <a href="https://www.youtube.com/@ivs-mm" class="text-secondary">
                         <i class="fas fa-circle fa-stack-2x text-light"></i>
@@ -113,7 +113,7 @@
         
         <!-- <div class="col-sm-12 copyright fst-italic text-end"> Powered By KBTC. <a href="https://kbtc.edu.mm/" class="link-primary text-decoration-underline">See More Info</a>
             </div> -->
-            <div class="col-sm-12 copyright fst-italic text-center mt-3 text-secondary">
+            <div class="col-sm-12 copyright fst-italic text-center mt-3 text-light">
                 <p class="h6 mbr-text mbr-fonts-style mbr-white">
                     © Copyright 2022 Institute of Vocational Studies
                 </p>

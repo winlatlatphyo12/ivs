@@ -2,15 +2,13 @@
         <nav class="navbar navbar-fixed-top navbar-expand-lg px-4 px-lg-5" id="mainNav"> 
             <div class="container-fluid px-4 px-lg-5">
                 <img class="rounded-circle" src="assets/img/IVS LOGO.png" alt="Mobirise Website Builder" style="height: 4.1rem;">
+                <span class="py-auto mx-3 text-light"><h6 class="m-0">Institute of Vocational Studies</h6></span></li>
                 <button class="navbar-toggler text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto py-4 py-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link px-lg-3 py-4 py-lg-4 text-light"><h6>Institute of Vocational Studies</h6></a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    
                         <li class="nav-item">
                             <a class="nav-link px-lg-3 py-4 py-lg-4 text-center" href="index.php">Home</a></li>
                         <li class="nav-item dropdown"> 
