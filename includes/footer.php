@@ -1,65 +1,54 @@
-  <!-- Footer-->
-  <footer class="border-top bg-dark text-light">
-    <div class="container-fluid">
-        <div class="row">
-            <!-- <div class="col-md-9 px-5">
-                <h3 class="d-sm-none d-md-block"><u> Contact Info</u></h3>
-                <h3 class="d-md-none d-sm-block text-center"><u> Contact Info</u></h3>
-                <br>
-                
-                <div class="row">
-                    <div class="col-1">
-                        <p class="my-2"><i class="fa fa-envelope" aria-hidden="true"></i></p>
-                    </div>
-                    <div class="col-11">
-                        <p class="my-2"> ivsinfo@ivs.com.mm</p>
-                    </div>
-                    <div class="col-1">
-                        <p class="my-2"><i class="fa fa-phone" aria-hidden="true"></i></p>
-                    </div>
-                    <div class="col-11">
-                        <p class="my-2"> +959 9777 487333</p>
-                    </div>                                
-                    <div class="col-1">
-                        <p class="my-2"><i class="fa fa-map-marker" aria-hidden="true"></i></p>
-                    </div>
-                    <div class="col-11">
-                        <p class="my-2"> Campus (1) - No. 207, Pyay Road, ​Sanchaung Township, Yangon.​ <br> Campus (2) - Diamond Condo, No. 1 G1, Pyay Road.​Kamayut Township, Yangon.​</p> 
-                    </div>                                
-                </div>
-            </div> -->
-            
-            <div class="col-md-6 px-5">
-                <h5 class="d-sm-none d-md-block fs-5"> Contact Info</h5>
-                <h5 class="d-md-none d-sm-block text-center" style="width: 20px; height: 20px;"><u> Contact Info</u></h5>
-                <br>
-        
-                <div class="row text-light mt-0">
-                    <div class="col-1">
-                        <p class="my-2"><i class="fa fa-envelope" aria-hidden="true"></i></p>
-                    </div>
-                    <div class="col-11">
-                        <p class="my-2 fs-6"> ivsinfo@ivs.com.mm</p>
-                    </div>
-                    <div class="col-1">
-                        <p class="my-2"><i class="fa fa-phone" aria-hidden="true"></i></p>
-                    </div>
-                    <div class="col-11">
-                        <p class="my-2 fs-6"> +959 9777 487333</p>
-                    </div>                                
-                    <div class="col-1">
-                        <p class="my-2"><i class="fa fa-map-marker" aria-hidden="true"></i></p>
-                    </div>
-                    <div class="col-11">
-                        <p class="my-2 fs-6"> Campus (1) - No. 207, Pyay Road, ​Sanchaung Township, Yangon.​ <br> Campus (2) - Diamond Condo, No. 1 G1, Pyay Road.​Kamayut Township, Yangon.​</p> 
-                    </div>                                
-                </div>
-            </div>
+<!-- Remove the container if you want to extend the Footer to full width. -->
+<footer class="text-light text-center text-lg-start pb-1" style="background-color: #23242a;">
+    <!-- Grid container -->
+    <div class="container mb-0">
+      <!--Grid row-->
+      <div class="row">
+        <!--Grid column-->
+        <div class="col-lg-5 col-md-12 mb-4 mb-md-0">
+          <h6 class="text-uppercase mb-4">About company</h6>
 
-            <div class="col-md-2 px-5">
-                <h3 class="d-sm-none d-md-block fs-5"> Links</h3>
-                <h3 class="d-md-none d-sm-block text-center"><u> Links</u></h3>
-                <br>
+          <p class="fs-6">
+            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
+            voluptatum deleniti atque corrupti.
+          </p>
+
+          <p class="fs-6">
+            Blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas
+            molestias.
+          </p>
+
+            
+        
+        </div>
+        <!--Grid column-->
+
+        <!--Grid column-->
+        <div class="col-lg-5 col-md-6 mb-4 mb-md-0">
+          <h6 class="text-uppercase mb-4 pb-1">Contact Info</h6>
+
+        
+          <ul class="fa-ul" style="margin-left: 1.65em;">
+            <li class="mb-3 fs-6">
+              <span class="fa-li"><i class="fas fa-home"></i></span><span class="ms-2">Campus (1) - No. 207, Pyay Road,<br>
+                &nbsp; ​Sanchaung Township, Yangon.​ <br> &nbsp;&nbsp;Campus (2) - Diamond Condo, No. 1 G1, Pyay Road,
+                 <br> &nbsp; ​Kamayut Township, Yangon.​</span>
+            </li>
+            <li class="mb-3 fs-6">
+              <span class="fa-li"><i class="fas fa-envelope"></i></span><span class="ms-2">ivsinfo@ivs.com.mm</span>
+            </li>
+            <li class="mb-3 fs-6">
+              <span class="fa-li"><i class="fas fa-phone"></i></span><span class="ms-2">+959 9777 487333</span>
+            </li>
+          
+          </ul>
+        </div>
+        <!--Grid column-->
+
+        <!--Grid column-->
+        <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
+        
+              <h6 class="text-uppercase mb-3">Links</h6>
                 <div class="row mt-0">
                     <div class="col-12">
                         <p class="my-2 fs-6"><a href="index.php" class="text-light"> Home </a></p>
@@ -74,53 +63,47 @@
                         <p class="my-2 fs-6"><a href="contact.php" class="text-light"> Contact Us </a></p>
                     </div>
                     
+                </div><br><br><hr>
+                <div class="row">
+                  <div class="col-lg-4 fa-stack fa-lg">
+                      <a href="https://www.youtube.com/@ivs-mm">
+                        <i class="fab fa-youtube fa-stack-1x fa-inverse text-light"></i>
+                      </a>
+                  </div>
+                  <div class="col-lg-4 fa-stack fa-lg">
+                          <a href="https://www.facebook.com/ivsmm​">
+                            <i class="fab fa-facebook-f fa-stack-1x fa-inverse text-light"></i>
+                          </a>
+                  </div>
+                  <div class="col-lg-4 fa-stack fa-lg">
+                          <a href="https://www.linkedin.com/company/ivsmm">
+                              <i class="fab fa-linkedin fa-stack-1x fa-inverse text-light"></i>
+                          </a>
+                  </div>
                 </div>
-            </div>
-
-
-            <div class="col-md-4 text-center text-secondary">
-                <br class="d-md-none">
-                <br class="d-md-none">
-                <h3 class="text-light fs-5"> Follow us on </h3><br>
-                <span class="fa-stack fa-lg mt-4">
-                    <a href="https://www.youtube.com/@ivs-mm" class="text-secondary">
-                        <i class="fas fa-circle fa-stack-2x text-light"></i>
-                        <i class="fab fa-youtube fa-stack-1x fa-inverse text-primary"></i>
-                    </a>
-                </span>
-                <span class="fa-stack fa-lg mt-4">
-                    <a href="https://www.facebook.com/ivsmm​" class="text-secondary">
-                        <i class="fas fa-circle fa-stack-2x text-light"></i>
-                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse text-primary"></i>
-                    </a>
-                </span>
-                <span class="fa-stack fa-lg mt-4">
-                    <a href="https://www.linkedin.com/company/ivsmm" class="text-secondary">
-                        <i class="fas fa-circle fa-stack-2x text-light"></i>
-                        <i class="fab fa-linkedin fa-stack-1x fa-inverse text-primary"></i>
-                    </a>
-                </span>
-                <br>
-                <br>
-                <!-- <div class="col-sm-12 copyright fst-italic text-center fs-6 text-light"> Powered By KBTC. <a href="https://kbtc.edu.mm/" class="link-primary text-decoration-underline text-secondary">See More Info</a>
-                </div> -->
-                <br>
-                <br>
-                <br>
-                <!-- <a href="contact.php"><button type="submit" class="btn btn-secondary text-light" name="contact"> Contact us </button></a> -->
-            </div>
-        </div>
         
-        <!-- <div class="col-sm-12 copyright fst-italic text-end"> Powered By KBTC. <a href="https://kbtc.edu.mm/" class="link-primary text-decoration-underline">See More Info</a>
-            </div> -->
-            <div class="col-sm-12 copyright fst-italic text-center mt-3 text-light">
-                <p class="h6 mbr-text mbr-fonts-style mbr-white">
-                    © Copyright 2022 Institute of Vocational Studies
-                </p>
-            </div>
-            
-
         </div>
-        
+        <!--Grid column-->
+      </div>
+      <!--Grid row-->
     </div>
-</footer>
+    <br>
+    <br>
+    <!-- Grid container -->
+
+    <!-- Copyright -->
+    <!-- <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+      © 2020 Copyright:
+      <a class="text-white" href="https://mdbootstrap.com/">Institute of Vocational Studies</a>
+    </div> -->
+    <div class="text-center" style="background-color: rgba(0, 0, 0, 0.2);">
+        <div class="blockquote text-right">
+        
+        <footer class="blockquote-footer py-4 mt-0">© 2020 Copyright:<cite title="Source Title">Institute of Vocational Studies</cite></footer>
+        </blockquote>
+    </div>
+    <!-- Copyright -->
+  </footer>
+  
+</div>
+<!-- End of .container -->
