@@ -2,7 +2,7 @@
         <nav class="navbar navbar-fixed-top navbar-expand-lg px-4 px-lg-5" id="mainNav"> 
             <div class="container-fluid px-4 px-lg-5">
                 <img class="rounded-circle" src="assets/img/IVS LOGO.png" alt="Mobirise Website Builder" style="height: 4.1rem;">
-                <span class="py-auto mx-3 text-light"><h6 class="m-0">Institute of Vocational Studies</h6></span></li>
+                <span class="py-auto mx-3 text-light"><h6 class="m-0"><a href="index.php" class="link-secondary">Institute of Vocational Studies</a></h6></span></li>
                 <button class="navbar-toggler text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
@@ -16,7 +16,6 @@
                             <ul class="dropdown-menu dropdown-menu-dark text-secondary bg-opacity-50 animated fadeInDown">
                                 <li><a class="dropdown-item text-light" href="business.php"> BUSINESS </a></li>
                                 <li><a class="dropdown-item text-light" href="engineering.php"> ENGINEERING </a></li>
-                                <li><a class="dropdown-item text-light" href="general.php">GENERAL</a></li>
                                 <li><a class="dropdown-item text-light" href="healthcare.php"> HEALTHCARE </a></li>
                                 <li><a class="dropdown-item text-light" href="hotel&tourism.php"> HOTEL & TOURISM </a></li>
                                 <li><a class="dropdown-item text-light" href="it.php"> IT </a></li>

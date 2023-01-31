@@ -19,13 +19,14 @@
             </p>
         </div>
         <!--Grid column-->
+        <div class="col-lg-1 col-md-12 mb-4 mb-md-0"></div>
 
         <!--Grid column-->
-        <div class="col-lg-6 col-md-6 mb-4 mb-md-0">
+        <div class="col-lg-5 col-md-12 mb-4 mb-md-0">
           <h6 class="text-uppercase mb-4 pb-1">Contact Info</h6>
             <ul class="fa-ul" style="margin-left: 1.65em;">
               <li class="mb-3 fs-6">
-                <span class="fa-li"><i class="fas fa-home"></i></span><span class="ms-2">Campus (1) - No. 207, Pyay Road, ​Sanchaung Township, Yangon.​ <br> &nbsp;&nbsp;Campus (2) - Diamond Condo, No. 1 G1, Pyay Road, ​Kamayut <br> &nbsp;&nbsp;Township, Yangon.​</span>
+                <span class="fa-li"><i class="fas fa-home"></i></span><span class="ms-2">Campus (1) - No. 207, Pyay Road, ​Sanchaung Township, &nbsp; Yangon.​ <br> &nbsp;&nbsp;Campus (2) - Diamond Condo, No. 1 G1, Pyay Road, <br> &nbsp; ​Kamayut Township, Yangon.​</span>
               </li>
               <li class="mb-3 fs-6">
                 <span class="fa-li"><i class="fas fa-envelope"></i></span><span class="ms-2">ivsinfo@ivs.com.mm</span>

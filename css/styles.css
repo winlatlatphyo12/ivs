@@ -6177,18 +6177,19 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #0085A1;
+  color: #212759;
 }
 .link-primary:hover, .link-primary:focus {
-  color: #006a81;
+  color: #6a74be;
 }
 
 .link-secondary {
-  color: #6c757d;
+  color: #ffc368;
 }
 .link-secondary:hover, .link-secondary:focus {
-  color: #565e64;
+  color: #f19f21;
 }
+
 
 .link-success {
   color: #198754;
@@ -11281,3 +11282,54 @@ header.masthead .site-heading .h1 {
     font-size: 2.25rem;
   }
 }
+
+
+
+/* body,html {
+  height: 100%;
+  background-color: white;
+} */
+
+    .container1 {
+        overflow: hidden;
+    }
+    .slider {
+        animation: slidein 30s linear infinite;
+        white-space: nowrap;
+    
+    }
+
+    .logos {
+        width: 100%;
+        display: inline-block;
+        margin: 0px 0;
+    }
+
+    .fab {
+        width: calc(100% / 5);
+        animation: fade-in 0.5s 
+        cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
+    }
+    
+
+@keyframes slidein {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+
+
