@@ -277,7 +277,7 @@
     </div>
 </div>
         <?php
-            include "includes/footer.php";
+            include "includes/footer6.php";
         ?>
       
         <!-- Bootstrap core JS-->
