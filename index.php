@@ -257,29 +257,24 @@
         <hr>
 
             <div class="container">
-                <div class="row mt-4">
-                    <div class="col-sm-12">
-                        <h4 class="text-center">Discover Us</h4>
+                <h4 class="bg-primary text-center text-light p-3">Discover Us</h4>
+                <div class="row gx-4 gx-lg-5">
+                    <div class="col-md-12 text-center">
+                        <iframe class="w-100" height="400px" src="https://www.youtube.com/embed/dSN7Jb7j61s" title="အသက်မွေး ဝမ်းကြောင်းဆိုင်ရာ အကြံပေးဆွေးနွေးပွဲကြီး" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
                     </div>
                 </div>
-                <div class="row text-center">
-                    <div class="col-md-12 mb-4">
-                        <iframe width="853" height="480" src="https://www.youtube.com/embed/dSN7Jb7j61s" title=""အသက်မွေး ဝမ်းကြောင်းဆိုင်ရာ အကြံပေးဆွေးနွေးပွဲကြီး "" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-                    </div>
-                </div>
-            
             </div>
-        </div>
     </div>
 </div>
         <?php
             include "includes/footer6.php";
         ?>
       
-        <!-- Bootstrap core JS-->
-        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+         <!-- Bootstrap core JS-->
+         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script> -->
-       
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
     </body>

@@ -2,17 +2,14 @@
         <nav class="navbar navbar-fixed-top navbar-expand-lg px-4 px-lg-5" id="mainNav"> 
             <div class="container-fluid px-4 px-lg-5">
                 <img class="rounded-circle" src="assets/img/IVS LOGO.png" alt="Mobirise Website Builder" style="height: 4.1rem;">
-                <span class="py-auto mx-3 text-light"><h6 class="m-0"><a href="index.php" class="link-secondary">Institute of Vocational Studies</a></h6></span></li>
-                <button class="navbar-toggler text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
-                    <i class="fas fa-bars"></i>
-                </button>
+                <a href="index.php" class="link-secondary">Institute of Vocational Studies</a>
+               
                 <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                    <ul class="navbar-nav">
                         <li class="nav-item">
                             <a class="nav-link px-lg-3 py-4 py-lg-4 text-center" href="index.php">Home</a></li>
                         <li class="nav-item dropdown"> 
-                            <a class="nav-link dropdown-toggle px-lg-3 py-4 py-lg-4 text-center" href="venture.php" data-bs-toggle="dropdown">  Venture  </a>
+                            <a class="nav-link dropdown-toggle px-lg-3 py-4 py-lg-4 text-center" href="venture-healthcare.php" data-bs-toggle="dropdown">  Venture  </a>
                             <ul class="dropdown-menu dropdown-menu-dark text-secondary bg-opacity-50 animated fadeInDown">
                                 <li><a class="dropdown-item text-light" href="business.php"> BUSINESS </a></li>
                                 <li><a class="dropdown-item text-light" href="engineering.php"> ENGINEERING </a></li>
