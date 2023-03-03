@@ -12,7 +12,7 @@
                         <li class="nav-item">
                             <a class="nav-link px-lg-3 py-4 py-lg-4 text-center" href="index.php">Home</a></li>
                         <li class="nav-item dropdown"> 
-                            <a class="nav-link dropdown-toggle px-lg-3 py-4 py-lg-4 text-center" href="#" data-bs-toggle="dropdown">  Venture  </a>
+                            <a class="nav-link dropdown-toggle px-lg-3 py-4 py-lg-4 text-center" href="venture.php" data-bs-toggle="dropdown">  Venture  </a>
                             <ul class="dropdown-menu dropdown-menu-dark text-secondary bg-opacity-50 animated fadeInDown">
                                 <li><a class="dropdown-item text-light" href="business.php"> BUSINESS </a></li>
                                 <li><a class="dropdown-item text-light" href="engineering.php"> ENGINEERING </a></li>

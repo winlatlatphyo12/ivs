@@ -6,53 +6,52 @@
 <div class="container-fluid p-0">
     <div class="container p-4 px-lg-5">
         <div class="row gx-4 gx-lg-5">
-        
-                <div class="col-sm-7">
-                    <h3>What Is Your Career Goal?</h3><hr>
-                    <p class="h6">For your career growth, we want to help you for getting the best training.</p><br>
-                    <strong>Jump-Start Your Career:</strong><br>
-                    <div class="dropdown mt-2">
-                        <button class="btn btn-secondary dropdown-toggle rounded" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Choose a Career
-                        </button>
-                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                            <div class="container-fluid">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <a class="dropdown-item" href="engineering.php">Aircon Technician</a>
-                                        <a class="dropdown-item" href="engineering.php">Solar Technician</a>
-                                        <a class="dropdown-item" href="engineering.php">Electrical Installation Technician</a>
-                                        <a class="dropdown-item" href="engineering.php">Plumbing & Sanitary Technician</a>
-                                        <a class="dropdown-item" href="engineering.php">Fire Protection Technician</a>
-                                        <a class="dropdown-item" href="engineering.php">CAD Drafter</a>
-                                        <a class="dropdown-item" href="engineering.php">Industrial Technician</a>
-                                        <a class="dropdown-item" href="healthcare.php">Certified Nursing Assistant</a>
-                                        <a class="dropdown-item" href="healthcare.php">Certified Pharmacist Assistant</a>
-                                        <a class="dropdown-item" href="healthcare.php">Pharmaceutical Sale Representatives</a>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <a class="dropdown-item" href="business.php">Accountant</a>
-                                        <a class="dropdown-item" href="business.php">Human Resource Management</a>
-                                        <a class="dropdown-item" href="it.php">Web Developer</a>
-                                        <a class="dropdown-item" href="it.php">Mobile Developer</a>
-                                        <a class="dropdown-item" href="it.php">Network Engineer</a>
-                                        <a class="dropdown-item" href="it.php">Cloud Admin</a>
-                                        <a class="dropdown-item" href="it.php">Cloud Engineer</a>
-                                        <a class="dropdown-item" href="it.php">Cloud Solution Architect</a>
-                                        <a class="dropdown-item" href="it.php">Help Desk Technician</a>
-                                        <a class="dropdown-item" href="it.php">IT Technician</a>
-                                        <a class="dropdown-item" href="hotel&tourism.php">Front Office Officer</a>
-
-                                    </div>
+            <div class="col-sm-7">
+                <h3>What Is Your Career Goal?</h3><hr>
+                <p class="h6">For your career growth, we want to help you for getting the best training.</p><br>
+                <strong>Jump-Start Your Career:</strong><br>
+                <div class="dropdown mt-2">
+                    <button class="btn btn-secondary dropdown-toggle rounded" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Choose a Career
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <a class="dropdown-item" href="engineering.php">Aircon Technician</a>
+                                    <a class="dropdown-item" href="engineering.php">Solar Technician</a>
+                                    <a class="dropdown-item" href="engineering.php">Electrical Installation Technician</a>
+                                    <a class="dropdown-item" href="engineering.php">Plumbing & Sanitary Technician</a>
+                                    <a class="dropdown-item" href="engineering.php">Fire Protection Technician</a>
+                                    <a class="dropdown-item" href="engineering.php">CAD Drafter</a>
+                                    <a class="dropdown-item" href="engineering.php">Industrial Technician</a>
+                                    <a class="dropdown-item" href="healthcare.php">Certified Nursing Assistant</a>
+                                    <a class="dropdown-item" href="healthcare.php">Certified Pharmacist Assistant</a>
+                                    <a class="dropdown-item" href="healthcare.php">Pharmaceutical Sale Representatives</a>
+                                </div>
+                                <div class="col-md-6">
+                                    <a class="dropdown-item" href="business.php">Accountant</a>
+                                    <a class="dropdown-item" href="business.php">Human Resource Management</a>
+                                    <a class="dropdown-item" href="it.php">Web Developer</a>
+                                    <a class="dropdown-item" href="it.php">Mobile Developer</a>
+                                    <a class="dropdown-item" href="it.php">Network Engineer</a>
+                                    <a class="dropdown-item" href="it.php">Cloud Admin</a>
+                                    <a class="dropdown-item" href="it.php">Cloud Engineer</a>
+                                    <a class="dropdown-item" href="it.php">Cloud Solution Architect</a>
+                                    <a class="dropdown-item" href="it.php">Help Desk Technician</a>
+                                    <a class="dropdown-item" href="it.php">IT Technician</a>
+                                    <a class="dropdown-item" href="hotel&tourism.php">Front Office Officer</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-5">
-                    <img class="img-fluid" alt="100x100" src="assets/img/ivs/ivsheader.png"
-                    data-holder-rendered="true">
-                </div>
+                
+            </div>
+            <div class="col-sm-5">
+                <img class="img-fluid" alt="100x100" src="assets/img/ivs/ivsheader.png"
+                data-holder-rendered="true">
+            </div>
         </div>
     </div>
     <hr>
@@ -106,47 +105,45 @@
     </div>
     <hr>
     <br>
-        
-        <div class="container p-2 px-lg-5">
-            <h4 class="bg-primary text-center text-light p-3">Why IVS?</h4>
-                <div class="container mx-2">
-                    <div class="row text-primary mt-4 mb-2">
-                        <div class="col-md-6 col-sm-6 ">
-                            <div class="row">
-                                <div class="col-sm-2">
-                                    <i class="pe-7s-wallet pe-5x"></i>
-                                </div>
-                                <div class="col-sm-10">
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                            <h4> Cost</h4>
-                                        </div>
+    <div class="container p-2 px-lg-5">
+        <h4 class="bg-primary text-center text-light p-3">Why IVS?</h4>
+            <div class="container mx-2">
+                <div class="row text-primary mt-4 mb-2">
+                    <div class="col-md-6 col-sm-6 ">
+                        <div class="row">
+                            <div class="col-sm-2">
+                                <i class="pe-7s-wallet pe-5x"></i>
+                            </div>
+                            <div class="col-sm-10">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <h4> Cost</h4>
                                     </div>
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                            <label class="text-muted">Affordable</label>
-                                        </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <label class="text-muted">Affordable</label>
                                     </div>
                                 </div>
                             </div>
                         </div>
-
-                        <div class="col-md-6 col-sm-6">
-                            <div class="row">
-                                <div class="col-sm-2">
-                                    <i class="pe-7s-user pe-5x"></i>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <div class="row">
+                            <div class="col-sm-2">
+                                <i class="pe-7s-user pe-5x"></i>
+                            </div>
+                            <div class="col-sm-10">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <h4> Trainer</h4>
+                                    </div>
                                 </div>
-                                <div class="col-sm-10">
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                            <h4> Trainer</h4>
-                                        </div>
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <label class="text-muted">Competent & Experienced Teachers</label>
                                     </div>
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                            <label class="text-muted">Competent & Experienced Teachers</label>
-                                        </div>
-                                    </div>
+                                </div>
                                 </div>
                             </div>
                         </div>
@@ -218,7 +215,6 @@
                                 </div>
                             </div>
                         </div>
-                        <br>
 
 
                         <div class="col-md-6 col-sm-6">
