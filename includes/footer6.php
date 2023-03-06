@@ -65,7 +65,7 @@
           <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">Call us</h6>
                 <p class="fs-6 mt-2"><i class="fas fa-phone"></i> &nbsp; 09 777 487 444</p>
-            <h6 class="text-uppercase mb-2 font-weight-bold">Email us</h6>
+            <h6 class="text-uppercase mb-4 font-weight-bold">Email us</h6>
                 <p class="fs-6 mt-3"><i class="fas fa-envelope fs-6"></i> &nbsp; Info@ivs.com.mm</p>
           </div>
           <!-- Grid column -->
