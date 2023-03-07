@@ -10,7 +10,7 @@
             
                 <div class="card mt-3 p-3 shadow">
                     <div class="card-body">
-                    <span class="justify-content-center fs-6">&nbsp; &nbsp; &nbsp; &nbsp; Students can take Vocation in Hospitality & Tourism in this subject. Accommodation, food, entertainment,
+                    <span class="justify-content-center fs-6">Students can take Vocation in Hospitality & Tourism in this subject. Accommodation, food, entertainment,
                         shows, travel services, and the travel business, as well as associated planning and support services, are all
                         included in hospitality and tourism. Anyone interested in enhancing customer service in the hospitality
                         and tourism industries or expanding guest opportunities should take the course. A guideline speaking,

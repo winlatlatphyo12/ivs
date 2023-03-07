@@ -32,46 +32,66 @@
                         vocational programs are well-prepared to enter the workforce and make a positive impact in their field.
                         <div class="row mt-4">
                             <div class="col-md-3">
-                                <div class="card shadow-sm bg-primary text-white rounded">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
                                     <div class="card-body">
-                                        <h5 class="card-title">Residential Air-Condition Technician Course</h5>
+                                        <h6 class="card-title mt-2">Residential Air-Condition Technician Course</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3">
-                                <div class="card shadow-sm bg-primary text-white rounded">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Plumbing and Sanitary Technician Course</h5>
-
-                                    </div>
-                                    <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-3">
                                 <div class="card shadow-sm bg-primary text-white h-100 rounded">
                                     <div class="card-body">
-                                        <h5 class="card-title">Solar Technician Course</h5>
+                                        <h6 class="card-title mt-2">Plumbing and Sanitary Technician Course</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-3">
                                 <div class="card shadow-sm bg-primary text-white h-100 rounded">
                                     <div class="card-body">
-                                        <h5 class="card-title">Solar Technician Course</h5>
+                                        <h6 class="card-title mt-2">Solar Technician Course</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                    <div class="card-body">
+                                        <h6 class="card-title mt-2">Solar Technician Course</h6>
+
+                                    </div>
+                                    <div class="card-footer">
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

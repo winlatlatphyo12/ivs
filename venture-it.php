@@ -35,33 +35,48 @@
                             <div class="col-md-4">
                                 <div class="card shadow-sm bg-primary text-white rounded h-100">
                                     <div class="card-body">
-                                        <h5 class="card-title">Professional 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗖𝗼𝘂𝗿𝘀𝗲</h5>
+                                        <h6 class="card-title mt-2">Professional 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗖𝗼𝘂𝗿𝘀𝗲</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-7"></div>
+                                            <div class="col-sm-5">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="card shadow-sm bg-primary text-white rounded h-100">
                                     <div class="card-body">
-                                        <h5 class="card-title">Professional 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗖𝗼𝘂𝗿𝘀𝗲</h5>
+                                        <h6 class="card-title mt-2">Professional 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗖𝗼𝘂𝗿𝘀𝗲</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-7"></div>
+                                            <div class="col-sm-5">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="card shadow-sm bg-primary text-white rounded h-100">
                                     <div class="card-body">
-                                        <h5 class="card-title">Professional 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗖𝗼𝘂𝗿𝘀𝗲</h5>
+                                        <h6 class="card-title mt-2">Professional 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗖𝗼𝘂𝗿𝘀𝗲</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-7"></div>
+                                            <div class="col-sm-5">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -70,33 +85,48 @@
                             <div class="col-md-4">
                                 <div class="card shadow-sm bg-primary text-white rounded h-100">
                                     <div class="card-body">
-                                        <h5 class="card-title">Professional Microsoft 𝗔𝘇𝘂𝗿𝗲 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗼𝗿 𝗖𝗼𝘂𝗿𝘀𝗲</h5>
+                                        <h6 class="card-title mt-2">Professional Microsoft 𝗔𝘇𝘂𝗿𝗲 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗼𝗿 𝗖𝗼𝘂𝗿𝘀𝗲</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-7"></div>
+                                            <div class="col-sm-5">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="card shadow-sm bg-primary text-white rounded h-100">
                                     <div class="card-body">
-                                        <h5 class="card-title">Professional 𝐀𝐖𝐒 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐂𝐨𝐮𝐫𝐬𝐞</h5>
+                                        <h6 class="card-title mt-2">Professional 𝐀𝐖𝐒 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐂𝐨𝐮𝐫𝐬𝐞</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-7"></div>
+                                            <div class="col-sm-5">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="card shadow-sm bg-primary text-white rounded h-100">
                                     <div class="card-body">
-                                        <h5 class="card-title">𝐈𝐓 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐨𝐮𝐫𝐬𝐞</h5>
+                                        <h6 class="card-title mt-2">𝐈𝐓 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐨𝐮𝐫𝐬𝐞</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-7"></div>
+                                            <div class="col-sm-5">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

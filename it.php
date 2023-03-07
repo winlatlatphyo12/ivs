@@ -10,10 +10,10 @@
             
                 <div class="card mt-3 p-3 shadow">
                     <div class="card-body">
-                    <span class="justify-content-center fs-6">&nbsp; &nbsp; &nbsp; &nbsp; This program seeks to assist students in developing through a balanced curriculum with general and
+                    <span class="justify-content-center fs-6">This program seeks to assist students in developing through a balanced curriculum with general and
                         vocational knowledge and skills, and organized whole person development competence in a particular
                         trade in order to increase their possibilities for work and/or future education. The Information Technology
-                        Program focuses mostly on essential IT knowledge and abilities. Graduates have the option of looking fo</span>
+                        Program focuses mostly on essential IT knowledge and abilities. Graduates have the option of looking for employment as technician trainees in commercial and industrial enterprises to give technical support.</span>
                     <br><hr>
                         <div class="row mt-4 mb-4">
                             <h6 class="mb-4">Here is the list of IT Programs offers by our IVS – Institute of vocational studies.</h6>

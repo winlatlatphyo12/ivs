@@ -29,36 +29,51 @@
                         your career aspirations, our vocational programs can provide you with the knowledge and skills you need
                         to succeed in your chosen field.
                         <div class="row mt-4">
-                            <div class="col-md-4">
-                                <div class="card shadow-sm bg-primary text-white rounded">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Certified Nursing Assistant Course</h5>
+                        <div class="col-md-4 mt-2">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                <div class="card-body">
+                                        <h6 class="card-title mt-2">Certified Nursing Assistant Course</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                        <div class="row">
+                                            <div class="col-sm-7"></div>
+                                            <div class="col-sm-5">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4">
-                                <div class="card shadow-sm bg-primary text-white rounded">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Pharmacist Assistant Course</h5>
+                            <div class="col-md-4 mt-2">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                <div class="card-body">
+                                        <h6 class="card-title mt-2">Pharmacist Assistant Course</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-7"></div>
+                                            <div class="col-sm-5">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4">
-                                <div class="card shadow-sm bg-primary text-white rounded">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Basic Life Support <br> Course</h5>
+                            <div class="col-md-4 mt-2">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                <div class="card-body">
+                                        <h6 class="card-title mt-2">Basic Life Support Course</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-7"></div>
+                                            <div class="col-sm-5">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

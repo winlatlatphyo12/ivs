@@ -35,11 +35,16 @@
                             <div class="col-md-4">
                                 <div class="card shadow-sm bg-primary text-white rounded">
                                     <div class="card-body">
-                                        <h5 class="card-title">Front Office Operation Course</h5>
+                                        <h6 class="card-title mt-2">Front Office Operation Course</h6>
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-7"></div>
+                                            <div class="col-sm-5">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
