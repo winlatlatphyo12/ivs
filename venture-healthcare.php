@@ -21,7 +21,7 @@
                     </div>
                 </div>
                 <div class="card mt-4 p-4 shadow">
-                    <div class="card-body">
+                    <div class="card-body fs-6">
                         Our healthcare programs are designed to prepare candidates for a variety of roles, including nursing
                         assistants, phlebotomy technicians, and basic health care aides. We also offer a specialized program in
                         basic healthcare knowledge, first aid, and basic life support courses. Additionally, our basic healthcare life

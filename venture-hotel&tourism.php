@@ -21,7 +21,7 @@
                     </div>
                 </div>
                 <div class="card mt-4 p-4 shadow">
-                    <div class="card-body">
+                    <div class="card-body fs-6">
                         IVS Website_ Design and Structure_2 PYAE SONE HEIN (PROGRAM SUPERVISOR)
                         IVS - Institute of Vocational Studies
                         Our hospitality and tourism vocational programs are designed to prepare candidates for exciting careers
