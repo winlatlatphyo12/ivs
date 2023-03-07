@@ -42,14 +42,15 @@
                         <div class="col-md-4 p-0 py-auto">
                             <img src="https://www.jhww.com/wp-content/uploads/2017/10/vga.png" class="img w-100" alt="100x100">
                         </div>
-                        <div class="col-md-8">
-                            <h5 class="text-left text-light mt-4">Onsite conference - New scenes for Career Guidance</h5><br><br><br><br>
-                            <h6 class="text-left text-light">
-                                <div class="col-md-8"></div>
-                                <div class="col-md-4 text-end">
+                        <div class="col-md-8 mt-2">
+                            <h6 class="text-left text-light mt-4">Onsite conference - New scenes for Career Guidance</h6><br><br>
+                                <div class="row mt-4">
+                                <div class="col-md-7"></div>
+                                <div class="col-md-5">
                                     <button type="submit" class="btn btn-light rounded" name="detail"><a href="#">Click Here to Read >></a></button>
                                 </div>
-                            </h6>
+                </div>
+                            
                         </div>
                     </div>
                 </div><br>
@@ -58,33 +59,33 @@
                         <div class="col-md-4 p-0 py-auto">
                             <img src="https://www.jhww.com/wp-content/uploads/2017/10/vga.png" class="img w-100" alt="100x100">
                         </div>
-                        <div class="col-md-8">
-                            <h5 class="text-left text-light mt-4">Seventh CareersNet annual meeting - onsite event</h5><br><br><br><br>
-                            <h6 class="text-left text-light">
-                                <div class="col-md-8"></div>
-                                <div class="col-md-4 text-end">
+                        <div class="col-md-8 mt-2">
+                            <h6 class="text-left text-light mt-4">Seventh CareersNet annual meeting - onsite event</h6><br><br>
+                            <div class="row mt-4">
+                                <div class="col-md-7"></div>
+                                <div class="col-md-5">
                                     <button type="submit" class="btn btn-light rounded" name="detail"><a href="#">Click Here to Read >></a></button>
                                 </div>
-                            </h6>
-                        </div>
-                    </div>
-                </div><br>
-                <div class="col-md-12">
-                    <div class="row bg-primary shadow border border-secondary rounded">
-                        <div class="col-md-4 p-0 py-auto">
-                            <img src="https://www.jhww.com/wp-content/uploads/2017/10/vga.png" class="img w-100" alt="100x100">
-                        </div>
-                        <div class="col-md-8">
-                            <h5 class="text-left text-light mt-4">2023 joint Cedefop/OECD symposium on Apprenticeships and the digital transition</h5><br><br><br><br>
-                            <h6 class="text-left text-light">
-                                <div class="col-md-8"></div>
-                                <div class="col-md-4 text-end">
-                                    <button type="submit" class="btn btn-light rounded" name="detail"><a href="#">Click Here to Read >></a></button>
-                                </div>
-                            </h6>
                         </div>
                     </div>
                 </div>
+                <br>
+                <div class="col-md-12">
+                    <div class="row bg-primary shadow border border-secondary rounded">
+                        <div class="col-md-4 p-0 py-auto">
+                            <img src="https://www.jhww.com/wp-content/uploads/2017/10/vga.png" class="img w-100" alt="100x100">
+                        </div>
+                        <div class="col-md-8 mt-2">
+                            <h6 class="text-left text-light mt-4">2023 joint Cedefop/OECD symposium on Apprenticeships and the digital transition</h6><br><br>
+                            <div class="row mt-4">
+                                <div class="col-md-7"></div>
+                                <div class="col-md-5">
+                                    <button type="submit" class="btn btn-light rounded" name="detail"><a href="#">Click Here to Read >></a></button>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
             </div>
         </div>
     </main>
