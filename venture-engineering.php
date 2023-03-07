@@ -21,7 +21,7 @@
                     </div>
                 </div>
                 <div class="card mt-4 p-4 shadow">
-                    <div class="card-body">
+                    <div class="card-body fs-6">
                         IVS Engineering vocational programs provide candidates with the skills and knowledge needed to
                         succeed in a career in engineering. These programs offer a hands-on approach to learning, with a focus
                         on practical applications and problem-solving. Candidates will gain a deep understanding of the

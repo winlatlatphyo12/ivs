@@ -6,57 +6,21 @@
         <!-- Main Content-->
         <main class="mb-4">
             <div class="container px-4 px-lg-5">
-                <div class="row gx-1 gx-lg-2">
-                    <div class="col-md-3">                  
-                        <a href="venture-healthcare.php" class="btn btn-secondary active w-100" role="button" aria-pressed="true" >Healthcare</a>
-                    </div>
-                    <div class="col-md-3">                  
-                        <a href="venture-engineering.php" class="btn btn-secondary w-100" role="button" aria-pressed="true" >Engineering</a>
-                    </div>
-                    <div class="col-md-3">                  
-                        <a href="venture-hotel&tourism.php" class="btn btn-secondary active w-100" role="button" aria-pressed="true" >Hotel & Tourism</a>
-                    </div>
-                    <div class="col-md-3">                  
-                        <a href="venture-it.php" class="btn btn-secondary active w-100" role="button" aria-pressed="true" >IT</a>
-                    </div>
-                </div>
-                <div class="card mt-4 p-4 shadow">
+                   <h4 class="text-center mb-4">IVS Engineering Vocational Programs</h4>
+            
+                <div class="card mt-3 p-3 shadow">
                     <div class="card-body">
-                        IVS Engineering vocational programs provide candidates with the skills and knowledge needed to
-                        succeed in a career in engineering. These programs offer a hands-on approach to learning, with a focus
-                        on practical applications and problem-solving. Candidates will gain a deep understanding of the
-                        foundational principles of engineering, as well as the latest techniques and technologies used in the
-                        industry. With a range of programs to choose from, including mechanical, electrical, civil, and
-                        environmental engineering, candidates can tailor their education to their specific interests and career
-                        goals. With a combination of classroom instruction and hands-on experience, graduates of engineering
-                        vocational programs are well-prepared to enter the workforce and make a positive impact in their field.
-                        <div class="row mt-4">
-                            <div class="col-md-3">
-                                <div class="card shadow-sm bg-primary text-white rounded">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Residential Air-Condition Technician Course</h5>
-
-                                    </div>
-                                    <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3">
-                                <div class="card shadow-sm bg-primary text-white rounded">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Plumbing and Sanitary Technician Course</h5>
-
-                                    </div>
-                                    <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3">
+                    <span class="justify-content-center fs-6">&nbsp; &nbsp; &nbsp; &nbsp; Engineering technicians help with infrastructure planning, design, construction supervision, and upkeep.
+                    This comprises structures, equipment, infrastructure, roads, trains, and bridges. Additionally, engineering
+                    professionals assist with the upkeep of irrigation, dam, and water and sewage systems. To comply with
+                    standards and laws, they also refer to blueprints and observe building codes.</span>
+                    <br><hr>
+                        <div class="row mt-4 mb-4">
+                            <h6 class="mb-4">Here is the list of Engineering Programs offers by our IVS – Institute of vocational studies.</h6>
+                            <div class="col-md-3 mt-2">
                                 <div class="card shadow-sm bg-primary text-white h-100 rounded">
                                     <div class="card-body">
-                                        <h5 class="card-title">Solar Technician Course</h5>
+                                        <h6 class="card-title mt-2">Residential Air-Condition Technician Course</h6>
 
                                     </div>
                                     <div class="card-footer">
@@ -64,10 +28,68 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-3">
+                            <div class="col-md-3 mt-2">
                                 <div class="card shadow-sm bg-primary text-white h-100 rounded">
                                     <div class="card-body">
-                                        <h5 class="card-title">Solar Technician Course</h5>
+                                        <h6 class="card-title mt-2">Plumbing and Sanitary Technician Course</h6>
+
+                                    </div>
+                                    <div class="card-footer">
+                                        <h6 class="card-text">See more</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 mt-2">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                    <div class="card-body">
+                                        <h6 class="card-title mt-2">Solar Technician Course</h6>
+
+                                    </div>
+                                    <div class="card-footer">
+                                        <h6 class="card-text">See more</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 mt-2">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                    <div class="card-body">
+                                        <h6 class="card-title mt-2">Industrial Technician Course</h6>
+
+                                    </div>
+                                    <div class="card-footer">
+                                        <h6 class="card-text">See more</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-4 mb-4">
+                           
+                            <div class="col-md-3 mt-2">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                    <div class="card-body">
+                                        <h6 class="card-title mt-2">Fire Protection Technician Course</h6>
+
+                                    </div>
+                                    <div class="card-footer">
+                                        <h6 class="card-text">See more</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 mt-2">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                    <div class="card-body">
+                                        <h6 class="card-title mt-2">Electrical Installation Technician Course</h6>
+
+                                    </div>
+                                    <div class="card-footer">
+                                        <h6 class="card-text">See more</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 mt-2">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                    <div class="card-body">
+                                        <h6 class="card-title mt-2">Construction Design and Drafting Course</h6>
 
                                     </div>
                                     <div class="card-footer">
@@ -78,6 +100,58 @@
                         </div>
                     </div>
                 </div>
+                <br>
+                
+                <div class="col-md-12">
+                    <div class="row bg-primary shadow border border-secondary rounded">
+                        <div class="col-md-4 p-0 py-auto">
+                            <img src="https://www.jhww.com/wp-content/uploads/2017/10/vga.png" class="img w-100" alt="100x100">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="text-left text-light mt-4">Onsite conference - New scenes for Career Guidance</h5><br><br><br><br>
+                            <h6 class="text-left text-light">
+                                <div class="col-md-8"></div>
+                                <div class="col-md-4 text-end">
+                                    <button type="submit" class="btn btn-light rounded" name="detail"><a href="#">Click Here to Read >></a></button>
+                                </div>
+                            </h6>
+                        </div>
+                    </div>
+                </div><br>
+                <div class="col-md-12">
+                    <div class="row bg-primary shadow border border-secondary rounded">
+                        <div class="col-md-4 p-0 py-auto">
+                            <img src="https://www.jhww.com/wp-content/uploads/2017/10/vga.png" class="img w-100" alt="100x100">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="text-left text-light mt-4">Seventh CareersNet annual meeting - onsite event</h5><br><br><br><br>
+                            <h6 class="text-left text-light">
+                                <div class="col-md-8"></div>
+                                <div class="col-md-4 text-end">
+                                    <button type="submit" class="btn btn-light rounded" name="detail"><a href="#">Click Here to Read >></a></button>
+                                </div>
+                            </h6>
+                        </div>
+                    </div>
+                </div><br>
+                <div class="col-md-12">
+                    <div class="row bg-primary shadow border border-secondary rounded">
+                        <div class="col-md-4 p-0 py-auto">
+                            <img src="https://www.jhww.com/wp-content/uploads/2017/10/vga.png" class="img w-100" alt="100x100">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="text-left text-light mt-4">2023 joint Cedefop/OECD symposium on Apprenticeships and the digital transition</h5><br><br><br><br>
+                            <h6 class="text-left text-light">
+                                <div class="col-md-8"></div>
+                                <div class="col-md-4 text-end">
+                                    <button type="submit" class="btn btn-light rounded" name="detail"><a href="#">Click Here to Read >></a></button>
+                                </div>
+                            </h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             </div>
         </main>
 

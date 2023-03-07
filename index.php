@@ -246,7 +246,7 @@
         <hr>
 
             <div class="container">
-                <h4 class="bg-primary text-center text-light p-3">Discover Us</h4>
+                <h4 class="bg-light text-center text-primary p-3 mb-4">Discover Us</h4>
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-md-12 text-center">
                         <iframe class="w-100" height="500px" src="https://www.youtube.com/embed/dSN7Jb7j61s" title="အသက်မွေး ဝမ်းကြောင်းဆိုင်ရာ အကြံပေးဆွေးနွေးပွဲကြီး" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
@@ -254,6 +254,7 @@
                 </div>
             </div>
     </div>
+    <br>
 
         <?php
             include "includes/footer6.php";
