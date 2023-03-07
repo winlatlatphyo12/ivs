@@ -10,7 +10,7 @@
             
                 <div class="card mt-3 p-3 shadow">
                     <div class="card-body">
-                    <span class="justify-content-center fs-6">&nbsp; &nbsp; &nbsp; &nbsp; Engineering technicians help with infrastructure planning, design, construction supervision, and upkeep.
+                    <span class="justify-content-center fs-6">Engineering technicians help with infrastructure planning, design, construction supervision, and upkeep.
                     This comprises structures, equipment, infrastructure, roads, trains, and bridges. Additionally, engineering
                     professionals assist with the upkeep of irrigation, dam, and water and sewage systems. To comply with
                     standards and laws, they also refer to blueprints and observe building codes.</span>
@@ -24,7 +24,12 @@
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -35,7 +40,12 @@
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -46,7 +56,12 @@
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -57,7 +72,12 @@
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -71,7 +91,12 @@
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -82,7 +107,12 @@
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -93,7 +123,12 @@
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
