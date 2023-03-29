@@ -2,7 +2,7 @@
   <!-- Footer -->
   <footer
           class="text-center text-lg-start text-white"
-          style="background-color: #212759"
+          style="background-color: #343a40"
           >
     <!-- Grid container -->
     <div class="container">

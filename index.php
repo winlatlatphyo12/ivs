@@ -6,11 +6,11 @@
 
     <div class="container p-4 px-lg-5">
         <div class="row gx-4 gx-lg-5">
-            <div class="col-sm-7">
+            <div class="col-sm-12">
                 <h3>What Is Your Career Goal?</h3><hr>
-                <p class="h6">For your career growth, we want to help you for getting the best training.</p><br>
+                <p class="h6">For your career growth, we want to help you for getting the best training.</p>
                 <strong>Jump-Start Your Career:</strong><br>
-                <div class="dropdown mt-2">
+                <div class="dropdown mt-4">
                     <button class="btn btn-secondary dropdown-toggle rounded" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Choose a Career
                     </button>
@@ -48,29 +48,29 @@
                 </div> 
       
             </div>
-            <div class="col-sm-5">
+            <!-- <div class="col-sm-5">
                 <img class="img-fluid" alt="100x100" src="assets/img/ivs/ivsheader.png"
                 data-holder-rendered="true">
-            </div>
+            </div> -->
         </div>
     </div>
     <hr>
     <div class="container p-4 px-lg-5">
-        <h4 class="text-center text-primary"> IVS Ventures</h4><br>
+        <h4 class="text-center"> IVS Ventures</h4><br>
         <div class="row gx-4 gx-lg-5">
             
             <div class="col-sm-3">
                 <img class="img-fluid rounded" alt="100x100" src="assets/img/ivs/ivsheader.png"
                     data-holder-rendered="true"><br>
                 <div class="text-center mt-3 text-secondary">
-                    <a href="healthcare.php"> <h5 class="text-primary">Healthcare</h5></a>
+                    <a href="healthcare.php"> <h5 class="">Healthcare</h5></a>
                 </div>
             </div>
             <div class="col-sm-3">
                 <img class="img-fluid rounded" alt="100x100" src="assets/img/ivs/ivsheader.png"
                     data-holder-rendered="true"><br>
                 <div class="text-center mt-3 text-secondary">
-                    <a href="healthcare.php"> <h5 class="text-primary">Engineering</h5></a>
+                    <a href="healthcare.php"> <h5 class="">Engineering</h5></a>
                 </div>
             </div>
           
@@ -79,25 +79,24 @@
                 <img class="img-fluid rounded" alt="100x100" src="assets/img/ivs/ivsheader.png"
                     data-holder-rendered="true"><br>
                 <div class="text-center mt-3 text-secondary">
-                    <a href="hotel&tourism.php"> <h5 class="text-primary">Hotel & Tourism</h5></a>
+                    <a href="hotel&tourism.php"> <h5 class="">Hotel & Tourism</h5></a>
                 </div>
             </div>
             <div class="col-sm-3">
                 <img class="img-fluid rounded" alt="100x100" src="assets/img/ivs/ivsheader.png"
                     data-holder-rendered="true"><br>
                 <div class="text-center mt-3 text-secondary">
-                    <a href="it.php"> <h5 class="text-primary">IT</h5></a>
+                    <a href="it.php"> <h5 class="">IT</h5></a>
                 </div>
             </div>
             
         </div>
     </div>
     <hr>
-    <br>
     <div class="container p-2 px-lg-5">
-        <h4 class="bg-primary text-center text-light p-3">Why IVS?</h4>
+        <h4 class="bg-light text-center p-3">Why IVS?</h4>
             <div class="container mx-2">
-                <div class="row text-primary mt-4 mb-2">
+                <div class="row mt-4 mb-2">
                     <div class="col-md-6 col-sm-6 ">
                         <div class="row">
                             <div class="col-sm-2">
@@ -140,7 +139,7 @@
                     <br>
             <!-- End row -->
 
-                    <div class="row text-primary mb-2">
+                    <div class="row mb-2">
                         <div class="col-md-6 col-sm-6">
                             <div class="row">
                                 <div class="col-sm-2">
@@ -184,7 +183,7 @@
                     <br>
                 <!-- End row -->
             
-                    <div class="row text-primary">
+                    <div class="row mb-2">
                         <div class="col-md-6 col-sm-6">
                             <div class="row">
                                 <div class="col-sm-2">
@@ -233,23 +232,66 @@
         <br>
         <hr>
 
-        <div class="container1 h-100">
-            <div class="row align-items-center h-100">
-                <div class="container rounded">
-                    <h5 class="text-center text-primary">We partner with more than +30 job platforms, companies, and industry experts for your career growth.</h5>
-                    <div class="slider">
-                        
+        <div class="container-fluid pb-3">
+            <br>
+            <h5 class="text-center mb-4">We partner with more than +30 job platforms, companies, and industry experts for your career growth.</h5>
+            <div class="card mx-auto mb-4 shadow w-75">
+                <div class="row mt-5 mb-4">
+                    <div class="col-md-4 text-center">
+                            <img src="assets/img/partners/partner3.png" class="rounded-circle img-fluid w-25" alt="200x200" data-holder-rendered="true" align="middle">
+                    </div>
+                    <div class="col-md-4 text-center">
+                            <img src="assets/img/partners/partner2.png" class="rounded-circle img-fluid w-25" alt="200x200" data-holder-rendered="true" align="middle">
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <img src="assets/img/partners/partner4.png" class="rounded-circle img-fluid w-25" alt="200x200"  data-holder-rendered="true" align="middle">
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-md-4 text-center">
+                            <img src="assets/img/partners/partner1.png" class="rounded-circle img-fluid w-25" alt="200x200" data-holder-rendered="true" align="middle">
+                    </div>
+                    <div class="col-md-4 text-center">
+                            <img src="assets/img/partners/partner7.png" class="rounded-circle img-fluid w-25" alt="200x200" data-holder-rendered="true" align="middle">
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <img src="assets/img/partners/partner6.png" class="rounded-circle img-fluid w-25" alt="200x200"  data-holder-rendered="true" align="middle">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 text-center">
+                            <img src="assets/img/partners/partner8.png" class="rounded-circle img-fluid w-50" alt="200x200" data-holder-rendered="true" align="middle">
+                    </div>
+                    <div class="col-md-4 mb-4 text-center">
+                        <br>
+                            <img src="assets/img/partners/partner5.png" class="rounded-circle img-fluid w-25 mt-4" alt="200x200" data-holder-rendered="true" align="middle">
+                    </div>
+                    <div class="col-md-4 mb-4 text-center">
+                        <br>
+                        <img src="assets/img/partners/partner9.png" class="rounded-circle img-fluid w-25 mt-4" alt="200x200"  data-holder-rendered="true" align="middle">
                     </div>
                 </div>
             </div>
+        
         </div>
         <hr>
 
             <div class="container">
-                <h4 class="bg-light text-center text-primary p-3 mb-4">Discover Us</h4>
+                <!-- <h4 class="bg-light text-center p-3 mb-4">Discover Us</h4> -->
                 <div class="row gx-4 gx-lg-5">
-                    <div class="col-md-12 text-center">
-                        <iframe class="w-100" height="500px" src="https://www.youtube.com/embed/dSN7Jb7j61s" title="အသက်မွေး ဝမ်းကြောင်းဆိုင်ရာ အကြံပေးဆွေးနွေးပွဲကြီး" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+                    <div class="col-md-7 text-center">
+                        <br>
+                        <iframe class="w-100" height="400px" src="https://www.youtube.com/embed/dSN7Jb7j61s" title="အသက်မွေး ဝမ်းကြောင်းဆိုင်ရာ အကြံပေးဆွေးနွေးပွဲကြီး" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+                    </div>
+                
+                    <div class="col-md-5 mt-1">
+                    
+                    <h3 class="text-center bg-primary shadow-sm text-light p-3 my-4">Discover Us</h3>
+                        <div class="card p-4 bg-light shadow">
+                            <span class="text-justify mb-4 fs-6"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet possimus ipsa vel iure at expedita ducimus omnis quam dolore ut earum doloribus, eligendi mollitia aspernatur dolorum ipsam iusto qui beatae!</span>
+                            <br>
+                            <span class="text-justify fs-6"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet possimus ipsa vel iure at expedita ducimus omnis quam dolore ut earum doloribus, eligendi mollitia aspernatur dolorum ipsam iusto qui beatae!</span>
+                        </div>
                     </div>
                 </div>
             </div>
