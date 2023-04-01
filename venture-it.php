@@ -22,8 +22,7 @@
                 </div>
                 <div class="card mt-4 p-4 shadow">
                     <div class="card-body fs-6">
-                        IVS Website_ Design and Structure_2 PYAE SONE HEIN (PROGRAM SUPERVISOR)
-                        IVS - Institute of Vocational Studies
+                        
                         Our IT vocational programs are designed to equip candidates with the skills and knowledge they need to
                         succeed in the fast-paced world of technology. We offer a range of programs, including 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿
                         𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆, 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗔𝗽𝗽 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, and more. Our experienced
@@ -58,7 +57,7 @@
                                     <div class="row">
                                             <div class="col-sm-7"></div>
                                             <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6">><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -74,7 +73,7 @@
                                     <div class="row">
                                             <div class="col-sm-7"></div>
                                             <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -92,7 +91,7 @@
                                     <div class="row">
                                             <div class="col-sm-7"></div>
                                             <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -108,7 +107,7 @@
                                     <div class="row">
                                             <div class="col-sm-7"></div>
                                             <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -124,7 +123,7 @@
                                     <div class="row">
                                             <div class="col-sm-7"></div>
                                             <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>

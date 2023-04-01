@@ -1,7 +1,7 @@
 <!-- Navigation -->
         <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
             <div class="container px-4 px-lg-5">
-            <img class="rounded-circle" src="assets/img/IVS LOGO.png" alt="Mobirise Website Builder" style="height: 4.1rem;">
+            <img class="rounded-circle me-3" src="assets/img/IVS LOGO.png" alt="Mobirise Website Builder" style="height: 4.1rem;">
                 <a class="navbar-brand" href="index.php">Institute of Vocational Studies</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
@@ -27,15 +27,15 @@
                         </li> 
                            
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link px-lg-3 py-3 py-lg-4 text-center" href="activities.php">Activities</a>
-                        </li>
+                        </li> -->
                         <li class="nav-item dropdown"> 
                             <a class="nav-link  dropdown-toggle px-lg-3 py-4 py-lg-4 text-center" href="#" data-bs-toggle="dropdown">  IVS Info  </a>
                                 <ul class="dropdown-menu dropdown-menu-dark text-secondary bg-opacity-50 animated fadeInDown">
                                     <li><a class="dropdown-item text-dark" href="facilities.php"> FACILITIES </a></li>
                                     <li><a class="dropdown-item text-dark" href="faq.php"> FAQ </a></li>
-                                    <li><a class="dropdown-item text-dark" href="blog.php"> BLOG </a></li>
+                                    <li><a class="dropdown-item text-dark" href="blog.php"> RESOURCES </a></li>
                                     <li><a class="dropdown-item text-dark" href="career.php"> CAREER </a></li>
                                     <li><a class="dropdown-item text-dark" href="pathway.php"> PATHWAY </a></li>
                                 </ul>
