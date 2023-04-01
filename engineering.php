@@ -8,7 +8,7 @@
             <div class="container px-4 px-lg-5">
                    <h4 class="text-center mb-4">IVS Engineering Vocational Programs</h4>
             
-                <div class="card mt-3 p-3 shadow">
+                <div class="card mt-3 p-3 shadow-sm">
                     <div class="card-body">
                     <span class="justify-content-center fs-6">Engineering technicians help with infrastructure planning, design, construction supervision, and upkeep.
                     This comprises structures, equipment, infrastructure, roads, trains, and bridges. Additionally, engineering
@@ -27,7 +27,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -43,7 +43,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -59,7 +59,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -75,7 +75,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -94,7 +94,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -110,7 +110,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -126,7 +126,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>

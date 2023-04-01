@@ -56,7 +56,7 @@
     </div>
     <hr>
     <div class="container p-4 px-lg-5">
-        <h4 class="text-center"> IVS Ventures</h4><br>
+        <h5 class="text-center"> IVS Ventures</h5><br>
         <div class="row gx-4 gx-lg-5">
             
             <div class="col-sm-3">
@@ -94,7 +94,7 @@
     </div>
     <hr>
     <div class="container p-2 px-lg-5">
-        <h4 class="bg-light text-center p-3">Why IVS?</h4>
+        <h5 class="bg-primary text-light text-center p-3">Why IVS?</h5>
             <div class="container mx-2">
                 <div class="row mt-4 mb-2">
                     <div class="col-md-6 col-sm-6 ">

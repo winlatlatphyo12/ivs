@@ -8,7 +8,7 @@
             <div class="container px-4 px-lg-5">
                    <h4 class="text-center mb-4">IVS Healthcare Vocational Programs</h4>
             
-                <div class="card mt-3 p-3 shadow">
+                <div class="card mt-3 p-3 shadow-sm">
                     <div class="card-body">
                     <span class="justify-content-center fs-6">One of the most fulfilling, valuable, and in-demand careers is working in the healthcare sector. The
                         healthcare sector is one of the biggest in the nation and includes a great range of occupations in many
@@ -31,7 +31,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -47,7 +47,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -63,7 +63,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>

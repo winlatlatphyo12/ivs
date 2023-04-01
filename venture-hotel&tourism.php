@@ -22,8 +22,6 @@
                 </div>
                 <div class="card mt-4 p-4 shadow">
                     <div class="card-body fs-6">
-                        IVS Website_ Design and Structure_2 PYAE SONE HEIN (PROGRAM SUPERVISOR)
-                        IVS - Institute of Vocational Studies
                         Our hospitality and tourism vocational programs are designed to prepare candidates for exciting careers
                         in the thriving hospitality and tourism industry. Our courses cover a broad range of topics, from hotel and
                         restaurant management to travel and tourism, with a focus on practical skills and hands-on experience.
@@ -42,7 +40,7 @@
                                     <div class="row">
                                             <div class="col-sm-7"></div>
                                             <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6">See more...</a>
+                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>

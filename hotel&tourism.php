@@ -8,7 +8,7 @@
             <div class="container px-4 px-lg-5">
                    <h4 class="text-center mb-4">IVS Hotel and Tourism Vocational Programs</h4>
             
-                <div class="card mt-3 p-3 shadow">
+                <div class="card mt-3 p-3 shadow-sm">
                     <div class="card-body">
                     <span class="justify-content-center fs-6">Students can take Vocation in Hospitality & Tourism in this subject. Accommodation, food, entertainment,
                         shows, travel services, and the travel business, as well as associated planning and support services, are all
@@ -26,7 +26,7 @@
 
                                     </div>
                                     <div class="card-footer">
-                                        <h6 class="card-text">See more</h6>
+                                        <h6 class="card-text"><b>See more</b></h6>
                                     </div>
                                 </div>
                             </div>
