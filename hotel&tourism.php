@@ -20,15 +20,16 @@
                         <div class="row mt-4 mb-4">
                             <h6 class="mb-4">Here is the list of Hotel and Tourism Programs offers by our IVS – Institute of vocational studies.</h6>
                             <div class="col-md-3 mt-2">
-                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
-                                <div class="card-body">
-                                        <h6 class="card-title">Front Office Operation Course Course</h6>
-
+                                <a href="frontOffice.php">
+                                    <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                        <div class="card-body">
+                                            <h6 class="card-title">Front Office Operation Course Course</h6>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h6 class="card-text"><b>See more</b></h6>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h6 class="card-text"><b>See more</b></h6>
-                                    </div>
-                                </div>
+                                </a>
                             </div>
                            
                            

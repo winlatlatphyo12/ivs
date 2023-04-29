@@ -14,10 +14,10 @@
                         </div>
                 </div>
                         <div class="col-md-12 text-center">
-                            <a href="#" class="btn btn-outline-dark display-4 disabled" tabindex="-1" role="button" aria-disabled="true">Contact Us</a>
+                            <a href="contact.php" class="btn btn-outline-dark display-4" tabindex="-1" role="button" aria-disabled="true">Contact Us</a>
                         </div>
                 <br>
-                <hr>
+                
                 <!-- <div class="row gx-4 gx-lg-5">
                     <div class="col-md-1"></div>
                     <div class="col-md-3 mb-3">

@@ -41,7 +41,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                                <a href="residential.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -57,7 +57,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                                <a href="plumbing.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -73,7 +73,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                                <a href="solar.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -82,14 +82,64 @@
                             <div class="col-md-3">
                                 <div class="card shadow-sm bg-primary text-white h-100 rounded">
                                     <div class="card-body">
-                                        <h6 class="card-title mt-2">Solar Technician Course</h6>
+                                        <h6 class="card-title mt-2">Industrial Technician Course</h6>
 
                                     </div>
                                     <div class="card-footer">
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                                <a href="industrial.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-4">
+                            <div class="col-md-3">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                    <div class="card-body">
+                                        <h6 class="card-title mt-2">Fire Protection Technician Course</h6>
+
+                                    </div>
+                                    <div class="card-footer">
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="fire.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                    <div class="card-body">
+                                        <h6 class="card-title mt-2">Electrical Installation Technician Course</h6>
+
+                                    </div>
+                                    <div class="card-footer">
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="electrical.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                    <div class="card-body">
+                                        <h6 class="card-title mt-2">Construction Design and Drafting Course</h6>
+
+                                    </div>
+                                    <div class="card-footer">
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="construction.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
