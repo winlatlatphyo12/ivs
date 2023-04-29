@@ -31,7 +31,7 @@
                                     <div class="row">
                                             <div class="col-sm-6"></div>
                                             <div class="col-sm-6">
-                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                                <a href="certifiedNursing.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>

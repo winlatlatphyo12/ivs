@@ -73,7 +73,7 @@
                                     <div class="row">
                                             <div class="col-sm-7"></div>
                                             <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                                <a href="professionalNetwork.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -91,7 +91,7 @@
                                     <div class="row">
                                             <div class="col-sm-7"></div>
                                             <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                                <a href="professionalAzure.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
@@ -123,7 +123,7 @@
                                     <div class="row">
                                             <div class="col-sm-7"></div>
                                             <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                                <a href="itsupport.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>

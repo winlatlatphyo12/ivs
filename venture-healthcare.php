@@ -29,23 +29,22 @@
                         your career aspirations, our vocational programs can provide you with the knowledge and skills you need
                         to succeed in your chosen field.
                         <div class="row mt-4">
-                        <div class="col-md-4 mt-2">
+                            <div class="col-md-3 mt-2">
                                 <div class="card shadow-sm bg-primary text-white h-100 rounded">
-                                <div class="card-body">
+                                    <div class="card-body">
                                         <h6 class="card-title mt-2">Certified Nursing Assistant Course</h6>
-
                                     </div>
                                     <div class="card-footer">
                                         <div class="row">
-                                            <div class="col-sm-7"></div>
-                                            <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="certifiedNursing.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 mt-2">
+                            <div class="col-md-3 mt-2">
                                 <div class="card shadow-sm bg-primary text-white h-100 rounded">
                                 <div class="card-body">
                                         <h6 class="card-title mt-2">Pharmacist Assistant Course</h6>
@@ -53,25 +52,41 @@
                                     </div>
                                     <div class="card-footer">
                                     <div class="row">
-                                            <div class="col-sm-7"></div>
-                                            <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="pharmacist.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 mt-2">
+                            <div class="col-md-3 mt-2">
                                 <div class="card shadow-sm bg-primary text-white h-100 rounded">
-                                <div class="card-body">
-                                        <h6 class="card-title mt-2">Basic Life Support Course</h6>
+                                    <div class="card-body">
+                                        <h6 class="card-title mt-2">Basic Emergency Care Course</h6>
 
                                     </div>
                                     <div class="card-footer">
                                     <div class="row">
-                                            <div class="col-sm-7"></div>
-                                            <div class="col-sm-5">
-                                                <a href="#" class="text-secondary text-end fs-6"><b>See more...<b></a>
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="basicemergency.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 mt-2">
+                                <div class="card shadow-sm bg-primary text-white h-100 rounded">
+                                    <div class="card-body">
+                                        <h6 class="card-title mt-2">Home Caregiver Course </h6>
+
+                                    </div>
+                                    <div class="card-footer">
+                                    <div class="row">
+                                            <div class="col-sm-6"></div>
+                                            <div class="col-sm-6">
+                                                <a href="homecare.php" class="text-secondary text-end fs-6"><b>See more...</b></a>
                                             </div>
                                         </div>
                                     </div>

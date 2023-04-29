@@ -15,8 +15,9 @@
                         <img class="rounded-circle img-fluid" alt="100x100" src="assets/img/question.png" data-holder-rendered="true">
                     </div>
                     <div class="col-sm-8">
-                        <h5 class="text-primary mb-0"> Question </h5>
-                        <p class="bg-primary text-light p-3 mt-1 rounded"> Lorem ipsum dolor sit amet consectetur? </p>
+                        <h5 class="text-primary mb-0"> IVS ဆ ိုတ ဘ လဲ </h5>
+                        <p class="bg-primary text-light p-3 mt-1 rounded"> IVS ဆ ိုတ Institute of Vocational လ ိုို့မခေါ်တဲ အသက့်မ ွြီးပည ရပ့်ဆ ိုင့်ရ သင့်တန့်ြီးမက င့်ြီးတစ့်ခိုပဲ 
+ဖြစ့်ပါတယ့်။ </p>
                     </div>
                     <div class="col-sm-3">
                         
@@ -94,7 +95,7 @@
         </main>
         
         <?php
-            include "includes/footer.php";
+            include "includes/footer6.php";
         ?>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>

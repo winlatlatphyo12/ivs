@@ -17,7 +17,7 @@
             <p class="fs-6 mt-2">
             Strive to be the best provider of non-formal education 
             provider in Myanmar. Endeavour to be the provider of 
-            international standard workforce to local and 
+            international standard workforce to locally and globally. 
             </p>
           </div>
           <!-- Grid column -->
