@@ -6,7 +6,7 @@
 
     <div class="container p-4 px-lg-5">
         <div class="row gx-4 gx-lg-5">
-            <div class="col-sm-12">
+            <div class="col-sm-8">
                 <h3>What Is Your Career Goal?</h3><hr>
                 <p class="h6">For your career growth, we want to help you for getting the best training.</p>
                 <strong>Jump-Start Your Career:</strong><br>
@@ -48,10 +48,10 @@
                 </div> 
       
             </div>
-            <!-- <div class="col-sm-5">
-                <img class="img-fluid" alt="100x100" src="assets/img/ivs/ivsheader.png"
+            <div class="col-sm-4">
+                <img class="img-fluid rounded" alt="100x100" src="assets/img/careergrowth.png"
                 data-holder-rendered="true">
-            </div> -->
+            </div>
         </div>
     </div>
     <hr>
@@ -60,30 +60,30 @@
         <div class="row gx-4 gx-lg-5">
             
             <div class="col-sm-3">
-                <img class="img-fluid rounded" alt="100x100" src="assets/img/ivs/ivsheader.png"
+                <img class="img-fluid rounded" alt="100x100" src="assets/img/Healthcare.png"
                     data-holder-rendered="true"><br>
                 <div class="text-center mt-3 text-secondary">
                     <a href="healthcare.php"> <h5 class="">Healthcare</h5></a>
                 </div>
             </div>
             <div class="col-sm-3">
-                <img class="img-fluid rounded" alt="100x100" src="assets/img/ivs/ivsheader.png"
+                <img class="img-fluid rounded" alt="100x100" src="assets/img/Engineering.png"
                     data-holder-rendered="true"><br>
                 <div class="text-center mt-3 text-secondary">
-                    <a href="healthcare.php"> <h5 class="">Engineering</h5></a>
+                    <a href="engineering.php"> <h5 class="">Engineering</h5></a>
                 </div>
             </div>
           
         
             <div class="col-sm-3">
-                <img class="img-fluid rounded" alt="100x100" src="assets/img/ivs/ivsheader.png"
+                <img class="img-fluid rounded" alt="100x100" src="assets/img/Hotel&Tourism.png"
                     data-holder-rendered="true"><br>
                 <div class="text-center mt-3 text-secondary">
                     <a href="hotel&tourism.php"> <h5 class="">Hotel & Tourism</h5></a>
                 </div>
             </div>
             <div class="col-sm-3">
-                <img class="img-fluid rounded" alt="100x100" src="assets/img/ivs/ivsheader.png"
+                <img class="img-fluid rounded" alt="100x100" src="assets/img/IT.png"
                     data-holder-rendered="true"><br>
                 <div class="text-center mt-3 text-secondary">
                     <a href="it.php"> <h5 class="">IT</h5></a>
@@ -286,11 +286,11 @@
                 
                     <div class="col-md-5 mt-1">
                     
-                    <h3 class="text-center bg-primary shadow-sm text-light p-3 my-4">Discover Us</h3>
-                        <div class="card p-4 bg-light shadow">
-                            <span class="text-justify mb-4 fs-6"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet possimus ipsa vel iure at expedita ducimus omnis quam dolore ut earum doloribus, eligendi mollitia aspernatur dolorum ipsam iusto qui beatae!</span>
+                    <h3 class="text-center bg-secondary shadow-sm text-primary p-3 rounded my-4">Discover Us</h3>
+                        <div class="card p-4 bg-primary text-light shadow-sm rounded">
+                            <span class="text-justify mb-4 fs-6"> The purpose of the seminar is to introduce the sector of vocational education, exchange of knowledge and experiences on the way in which non-formal educational practice. The system can mutually nurture each other’s capacities, strength and experiences to configure a higher vocational field which can respond with greater relevance to the diversity of the needs of the youth and adult population that seeks to develop its potential and approach to this standard workforce.</span>
                             <br>
-                            <span class="text-justify fs-6"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet possimus ipsa vel iure at expedita ducimus omnis quam dolore ut earum doloribus, eligendi mollitia aspernatur dolorum ipsam iusto qui beatae!</span>
+                            
                         </div>
                     </div>
                 </div>
