@@ -17,10 +17,10 @@
                 </div>
                 <div class="row gx-4 gx-lg-5 mt-4">
                     <div class="col-md-4 text-center">
-                        <img src="assets/img/facilities2.jpg" class="img-fluid w-100" alt="200x200"  data-holder-rendered="true" align="middle">
+                        <img src="assets/img/Facilities 1.png" class="img-fluid w-100" alt="200x200"  data-holder-rendered="true" align="middle">
                     </div>
                     <div class="col-md-4 text-center">
-                        <img src="assets/img/facilities3.jpg" class="img-fluid w-100" alt="200x200"  data-holder-rendered="true" align="middle">
+                        <img src="assets/img/Facilities 2.png" class="img-fluid w-100" alt="200x200"  data-holder-rendered="true" align="middle">
                     </div>
                     <div class="col-md-4 text-center">
                         <img src="assets/img/facilities5.png" class="img-fluid w-100" alt="200x200"  data-holder-rendered="true" align="middle">
